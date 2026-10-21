@@ -1,8 +1,8 @@
-# NullStack Viamão 1.4.0 — versão web
+# NullStack Viamão 1.5.0 — versão web
 
 [Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/). Site publicado e carregamento conferido.
 
-Pacote separado para navegador de computador. Inclui os 13 visuais, Talia, celular, gestos, mapa, ciclo de dia/noite e carro de Silvio. A versão web é **solo**; use o pacote Windows para criar/entrar em salas por IP.
+Pacote separado para navegador de computador. Inclui os 13 visuais, Talia, celular, gestos, mapa, ciclo de dia/noite e carro de Silvio. A versão web permite **multiplayer com Windows por código de sala**. Em F2, crie uma sala online ou digite o código compartilhado pelo anfitrião. Todos precisam usar a mesma versão.
 
 ## Abrir no Windows ou Linux
 
@@ -19,7 +19,7 @@ Clique dentro do jogo antes de usar o teclado. **P** abre o celular; **Emojis** 
 
 O conteúdo também pode ser servido por uma hospedagem estática. Preserve as pastas `Build` e `TemplateData`, sirva `.wasm` como `application/wasm` e publique todos os arquivos da mesma versão. Esta compilação não exige cabeçalhos especiais de compressão.
 
-O multiplayer atual usa TCP diretamente, indisponível nos navegadores. A versão web deixa a criação/entrada por IP indisponível. [Documentação de rede da Unity](https://docs.unity3d.com/Manual/webgl-networking.html).
+As salas online usam o serviço HTTPS público de NullStack. O anfitrião mantém o jogo aberto. A conexão direta por IP continua exclusiva do Windows. Veja EXPANSAO_1_5.md para as novas atividades e controles.
 
 A versão web não utiliza o atualizador `.exe`; para atualizá-la, substitua o pacote completo ou publique novamente os arquivos no servidor. O primeiro carregamento baixa os dados do jogo e pode demorar. Use teclado e mouse; controles móveis não foram implementados.
 

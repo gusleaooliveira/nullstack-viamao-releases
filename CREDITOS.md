@@ -33,3 +33,6 @@ Somente os modelos indicados acima foram incorporados ao executável. A coleçã
 - Ônibus: Poly by Google, https://poly.pizza/m/4CPpvEmrMoF, CC BY 3.0 https://creativecommons.org/licenses/by/3.0/. Modelo convertido para FBX e redimensionado; adicionado movimento no jogo.
 - Vaso (toilet.glb), personagens nomeados e áudios Igor bebida/Igor banheiro: fornecidos pelo usuário. Cópias convertidas; tampa do vaso aberta e calça da Talia clareada. Originais preservados no projeto.
 - Carro do Silvio: Kenney Car Kit, CC0, paleta adaptada para preto em uma cópia separada.
+
+
+Expansão 1.5: interiores, roupas, avião, comidas e efeitos procedurais criados para o jogo. Imagem da faixa fornecida pelo usuário; arquivo original preservado em Resources/World/PlaneReference.png.
