@@ -25,3 +25,11 @@ Licença CC0: https://creativecommons.org/publicdomain/zero/1.0/
 Terreno, ruas, praças, construções de referência, sinalização, vegetação e mobiliário procedural foram criados para este protótipo. Cria Design Digital é uma referência solicitada pelo usuário; o cenário não declara parceria, patrocínio ou existência de novas unidades. Referências geográficas documentadas em `MAPA_VIAMAO.md`, na pasta principal.
 
 Somente os modelos indicados acima foram incorporados ao executável. A coleção completa de assets baixados permanece separada.
+
+## Adições 1.4.0
+
+- Celular: smallbigsquare, CC0, https://poly.pizza/m/4DRZmTs3jq. Mochila: Quaternius, CC0, https://poly.pizza/m/vF7TuXCPDH. Convertidos e redimensionados.
+- Blaster: Kenney, Blaster Kit, CC0. Modelo blaster-a convertido e redimensionado. Licença integral em Licencas/Blaster-Kenney.txt.
+- Ônibus: Poly by Google, https://poly.pizza/m/4CPpvEmrMoF, CC BY 3.0 https://creativecommons.org/licenses/by/3.0/. Modelo convertido para FBX e redimensionado; adicionado movimento no jogo.
+- Vaso (toilet.glb), personagens nomeados e áudios Igor bebida/Igor banheiro: fornecidos pelo usuário. Cópias convertidas; tampa do vaso aberta e calça da Talia clareada. Originais preservados no projeto.
+- Carro do Silvio: Kenney Car Kit, CC0, paleta adaptada para preto em uma cópia separada.

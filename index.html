@@ -10,12 +10,12 @@
 <body>
 <canvas id="unity-canvas" tabindex="0" aria-label="Jogo NullStack Viamão"></canvas>
 <section id="loading"><small>NULLSTACK</small><h1>Viamão</h1><p id="status">Preparando a cidade…</p><progress id="progress" value="0" max="1"></progress><p>Modo solo · Teclado e mouse<br>P abre o celular · F2 troca o personagem</p><p id="error">Não foi possível iniciar o jogo. Recarregue a página em um navegador atualizado.<br><a href="https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/latest">Baixar a versão Windows</a></p></section>
-<script src="Build/NullStack-Viamao-Web.loader.js"></script>
+<script src="Build/NullStack-Viamao-Web.loader.js?v=1.4.0"></script>
 <script>
 const canvas=document.getElementById('unity-canvas');
 createUnityInstance(canvas,{
- dataUrl:'Build/NullStack-Viamao-Web.data',frameworkUrl:'Build/NullStack-Viamao-Web.framework.js',codeUrl:'Build/NullStack-Viamao-Web.wasm',
- streamingAssetsUrl:'StreamingAssets',companyName:'NullStack',productName:'NullStack · Viamão',productVersion:'1.3.0',matchWebGLToCanvasSize:true,
+ dataUrl:'Build/NullStack-Viamao-Web.data?v=1.4.0',frameworkUrl:'Build/NullStack-Viamao-Web.framework.js?v=1.4.0',codeUrl:'Build/NullStack-Viamao-Web.wasm?v=1.4.0',
+ streamingAssetsUrl:'StreamingAssets',companyName:'NullStack',productName:'NullStack · Viamão',productVersion:'1.4.0',matchWebGLToCanvasSize:true,
 },progress=>{document.getElementById('progress').value=progress;document.getElementById('status').textContent='Carregando a cidade… '+Math.round(progress*100)+'%';}).then(()=>{document.getElementById('loading').style.display='none';canvas.focus();}).catch(error=>{console.error(error);document.getElementById('error').style.display='block';document.getElementById('status').textContent='O carregamento foi interrompido.';});
 </script>
 </body>
