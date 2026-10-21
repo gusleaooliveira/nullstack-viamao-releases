@@ -1,0 +1,27 @@
+# Créditos do mapa Viamão
+
+## Modelos usados
+
+- **Smartphone — smallbigsquare**, CC0: https://poly.pizza/m/4DRZmTs3jq. Cópia adaptada do asset previamente baixado para o celular pessoal.
+- **Backpack — Quaternius**, CC0: https://poly.pizza/m/vF7TuXCPDH. Cópia adaptada do asset previamente baixado para a mochila do Igor.
+- **Copinho de café e xis**: modelos procedurais criados para o jogo.
+- **Personagens nomeados**: modelos fornecidos pelo usuário na pasta `personagens`, usados em cópias otimizadas. Incluem Igor, Lucas, Matheus (dois visuais), Gustavo, Mateus, Henrique, Lohan, Luiz, Miqueias, Silvio, Diogo/Diego e Talia.
+
+- **Kenney — Car Kit**, CC0: https://kenney.nl/assets/car-kit. Seis veículos, normalizados para o cenário.
+- **Kenney — Commercial Kit**, CC0: https://kenney.nl/assets/commercial-kit. Oito construções comerciais, com escala e posicionamento adaptados.
+- **Kenney — Suburban Kit**, CC0: https://kenney.nl/assets/suburban-kit. Quatro casas, com escala e posicionamento adaptados.
+- **Quaternius — Ultimate Modular Men Pack**, CC0: https://poly.pizza/bundle/Ultimate-Modular-Men-Pack-ZiH8muWqwQ. Modelo Casual Character, convertido de GLB para FBX, com animações selecionadas e escala adaptada.
+- **Quaternius — Animated Woman**, CC0: https://poly.pizza/m/nIItLV9nxS. Modelo convertido de GLB para FBX, com animações selecionadas e escala adaptada. Fonte e classificação registradas no pacote original em `assets-baixados/05-personagens-base/mulheres-modulares/CREDITOS.md`.
+- **Igor**: modelo fornecido pelo usuário em `personagens/igor.glb`; usado em cópia convertida para FBX, simplificada e com rig procedural aplicado em execução. Direitos e autorização de uso permanecem com o fornecedor do original.
+
+Licença CC0: https://creativecommons.org/publicdomain/zero/1.0/
+
+## Tipografia
+
+**Abel**, Google Fonts / MADType, SIL Open Font License 1.1. Fonte: https://github.com/google/fonts/tree/main/ofl/abel. Texto integral em `Licencas/Abel-OFL.txt` e `Assets/Fonts/OFL.txt`.
+
+## Cenário
+
+Terreno, ruas, praças, construções de referência, sinalização, vegetação e mobiliário procedural foram criados para este protótipo. Cria Design Digital é uma referência solicitada pelo usuário; o cenário não declara parceria, patrocínio ou existência de novas unidades. Referências geográficas documentadas em `MAPA_VIAMAO.md`, na pasta principal.
+
+Somente os modelos indicados acima foram incorporados ao executável. A coleção completa de assets baixados permanece separada.
