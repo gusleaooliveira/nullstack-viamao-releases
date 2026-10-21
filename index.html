@@ -10,7 +10,7 @@
 <body>
 <canvas id="unity-canvas" tabindex="0" aria-label="Jogo NullStack Viamão"></canvas>
 <section id="loading"><small>NULLSTACK</small><h1>Viamão</h1><p id="status">Preparando a cidade…</p><progress id="progress" value="0" max="1"></progress><p>Multiplayer Windows + navegador · Teclado e mouse<br>P abre o celular · F2 salas · C câmera</p><p id="error">Não foi possível iniciar o jogo. Recarregue a página em um navegador atualizado.<br><a href="https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/latest">Baixar a versão Windows</a></p></section>
-<script src="Build/NullStack-Viamao-Web.loader.js?v=1.5.1"></script>
+<script src="Build/NullStack-Viamao-Web.loader.js?v=1.5.2"></script>
 <script>
 const canvas=document.getElementById('unity-canvas');
 // Some embedded browsers deny pointer lock synchronously. Keep the game running
@@ -22,8 +22,8 @@ if(pointerLock)canvas.requestPointerLock=function(){
  catch(error){window.nsPointerLockUnavailable=true;console.warn('Captura do cursor indisponível neste navegador incorporado.');}
 };
 createUnityInstance(canvas,{
- dataUrl:'Build/NullStack-Viamao-Web.data?v=1.5.1',frameworkUrl:'Build/NullStack-Viamao-Web.framework.js?v=1.5.1',codeUrl:'Build/NullStack-Viamao-Web.wasm?v=1.5.1',
- streamingAssetsUrl:'StreamingAssets',companyName:'NullStack',productName:'NullStack · Viamão',productVersion:'1.5.1',matchWebGLToCanvasSize:true,
+ dataUrl:'Build/NullStack-Viamao-Web.data?v=1.5.2',frameworkUrl:'Build/NullStack-Viamao-Web.framework.js?v=1.5.2',codeUrl:'Build/NullStack-Viamao-Web.wasm?v=1.5.2',
+ streamingAssetsUrl:'StreamingAssets',companyName:'NullStack',productName:'NullStack · Viamão',productVersion:'1.5.2',matchWebGLToCanvasSize:true,
 },progress=>{document.getElementById('progress').value=progress;document.getElementById('status').textContent='Carregando a cidade… '+Math.round(progress*100)+'%';}).then(()=>{document.getElementById('loading').style.display='none';canvas.focus();}).catch(error=>{console.error(error);document.getElementById('error').style.display='block';document.getElementById('status').textContent='O carregamento foi interrompido.';});
 </script>
 </body>
