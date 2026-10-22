@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "release": "v1.7.0-story-gps",
+  "version": "1.7.1",
+  "release": "v1.7.1-hud-gameplay",
   "mainMissions": 21,
   "optionalMissions": 12,
   "objectives": 128,
@@ -8,15 +8,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 76600621,
-      "sha256": "86560a1c4afa964a5c1613e23854fe3cd20dd8a934549b1b8d4fd5dcb9cfaa2f"
+      "bytes": 76649093,
+      "sha256": "71ec168045b452d9369f070823995a7cbf1c3b19152864fc47cfa680866fff63"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 52133856,
-      "sha256": "52346f489ab9f641a69dfa651208a9ba5f970347d0178f12b88ffdf779ca3569"
+      "bytes": 52190954,
+      "sha256": "2a69767e8b1f47940ab4cd1b3a9806cf261ece841f5dacbe9f4c65f719b62658"
     }
   ],
-  "webRevision": "13756ca5b10a"
+  "webRevision": "efe16b3fd483"
 }

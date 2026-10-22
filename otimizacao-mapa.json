@@ -3,11 +3,11 @@
   "sourceColliders": 574,
   "renderChunks": 328,
   "collisionChunks": 328,
-  "renderTriangles": 605833,
+  "renderTriangles": 605865,
   "collisionTriangles": 165924,
-  "lodTriangles": 132987,
+  "lodTriangles": 132978,
   "sourceTriangles": 1438907,
   "foliageBefore": 852480,
   "foliageAfter": 88800,
-  "revision": "1621d0f902ec1dba"
+  "revision": "c352f5b3bba85243"
 }

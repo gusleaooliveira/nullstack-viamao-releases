@@ -1,6 +1,6 @@
-# NullStack 1.7.0 — Igor em Produção
+# NullStack 1.7.1 — Igor em Produção
 
-[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Baixar Windows compatível](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.7.0-story-gps)
+[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Baixar Windows compatível](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.7.1-hud-gameplay)
 
 21 fases principais, 12 chamados opcionais e 128 objetivos concretos, com GPS, HUD e conversas revisados. Casas coloridas, vegetação simplificada, setores com LOD e descarte por distância.
 

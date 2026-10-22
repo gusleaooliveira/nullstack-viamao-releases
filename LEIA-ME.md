@@ -1,4 +1,10 @@
-# Igor em Produção 1.7.0 — GPS, objetivos concretos e mapa otimizado
+# Igor em Produção 1.7.1 — GPS, objetivos concretos e mapa otimizado
+
+A versão 1.7.1 mantém objetivo e vida em destaque. O minimapa aparece durante o deslocamento; dicas e barras surgem nas interações. Ao dirigir, o HUD mostra velocidade, freio e saída. Placas grandes próximas da câmera deixam de cobrir a visão.
+
+As 13 malhas animadas passaram de 188.533 para 178.418 vértices: 10.115 vértices sem uso removidos (5,4%). Os triângulos visíveis e seus atributos foram preservados, com verificação das posições, normais, UVs e pesos de animação. Os modelos de origem continuam intactos.
+
+O GPS evita paredes e o contorno jogável, mantém rotas estáveis e calcula desvios locais quando as ruas não se conectam. A rampa da Cria agora alcança o terreno; os objetivos externos também são conferidos contra a colisão final do Blender.
 
 Abra `Jogar-Historia.cmd` na pasta do projeto ou extraia o pacote Windows inteiro e execute `NullStack-Historia.exe`. No navegador, acesse https://gusleaooliveira.github.io/nullstack-viamao-releases/.
 
@@ -32,4 +38,4 @@ Execute `ferramentas-historia/Construir-Historia.ps1 -Validate -Web` e depois `p
 
 O gerador `campanha_concreta.py` contém a revisão das 33 fases. A validação percorre os 128 objetivos com save isolado. O roteiro original continua preservado em `historia/NullStack_Campanha_Missoes_e_Conversas.md`.
 
-Saves existentes continuam válidos. Windows e navegador mantêm saves separados e o modo história permanece solo. O modo livre online precisa de participantes usando a mesma versão 1.7.0.
+Saves existentes continuam válidos. Windows e navegador mantêm saves separados e o modo história permanece solo. O modo livre online precisa de participantes usando a mesma versão 1.7.1.
