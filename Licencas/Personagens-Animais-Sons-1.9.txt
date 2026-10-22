@@ -1,0 +1,2 @@
+Modelos e sons fornecidos pelo proprietário para integração no jogo: gabriel v2.glb, donkey_3d.glb, gato 33eqw.skp / 34-cat3d.rar, musica miqueias.mp3 e vota em mim.mp3.
+Os arquivos originais foram preservados no backup privado. Direitos e licenças originais continuam aplicáveis. Nenhuma licença de redistribuição independente dos assets é concedida por esta integração. O SDK/importador SketchUp não faz parte da distribuição do jogo.

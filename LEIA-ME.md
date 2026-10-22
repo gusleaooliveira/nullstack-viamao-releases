@@ -39,3 +39,6 @@ Execute `ferramentas-historia/Construir-Historia.ps1 -Validate -Web` e depois `p
 O gerador `campanha_concreta.py` contém a revisão das 33 fases. A validação percorre os 128 objetivos com save isolado. O roteiro original continua preservado em `historia/NullStack_Campanha_Missoes_e_Conversas.md`.
 
 Saves existentes continuam válidos. Windows e navegador mantêm saves separados e o modo história permanece solo. O modo livre online precisa de participantes usando a mesma versão 1.7.1.
+
+
+Novidades 1.9.0 e controles: leia PERSONAGENS_1_9.md.
