@@ -1,27 +1,21 @@
-# NullStack Viamão
+# NullStack Viamão — Igor em Produção
 
-Jogo de exploração de Viamão para Windows, com personagens da equipe e salas multiplayer por IP.
+Versão 1.8.0 para Windows e navegador. Campanha solo e modo livre com salas por código entre Windows/web.
 
-## Baixar e jogar
+## Windows
 
-[Baixar a versão completa para Windows](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/latest/download/NullStack-Viamao-Windows.zip)
+[Baixar Windows 1.8.0](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.8.0-personagens/NullStack-Viamao-Historia.zip)
 
-1. Extraia a pasta inteira do ZIP.
-2. Abra **Jogar-NullStack.exe**. Ele verifica as novas versões antes de iniciar o jogo.
-3. Escolha seu nome e personagem. Crie uma sala ou entre pelo IP do anfitrião.
+Extraia a pasta inteira e abra **NullStack-Historia.exe**. Este pacote da história abre diretamente o jogo; o inicializador automático legado pertence às distribuições antigas.
 
-Quem baixou o pacote anterior sem inicializador precisa instalar esta versão completa uma vez.
+## Navegador
 
-## Personagens e controles
+[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/)
 
-Igor, Lucas, Matheus (dois visuais), Gustavo, Mateus/Fredinho, Henrique, Lohan, Luiz, Miqueias, Silvio e Diogo/Diego. F2 permite trocar de personagem na sala.
+## Novidades
 
-WASD/setas: andar · Shift: correr · Espaço: pular · Ctrl: agachar · Mouse direito: câmera · V: capturar mouse · F1: ajuda · F2: sala · M: mapa.
+Talia tem um gato que a acompanha. Miqueias monta um jegue. Luiz corre duas vezes mais rápido com Shift e precisa vencer cinco defesas A/D ao entrar no carro; se houver roubo, recupere carteira, mochila e chaves com E. Igor tem P → Início → Beijar o Lula. Gabriel e Dudu entram no elenco, e Silvio usa o carro fornecido.
 
-Na mesma rede, use o IPv4 do anfitrião e a porta 7777/TCP. Para redes diferentes, o anfitrião precisa de um endereço alcançável; esta versão não inclui relay ou servidor hospedado.
+WASD move; Shift corre; Espaço pula/freia; P abre celular; F2 seleciona personagem/sala; G chama carro ou jegue; E entra/sai parado ou coleta pertences. Escolha Jogar sozinho para as atividades dos personagens; Jogar modo história inicia a campanha do Igor.
 
-## Atualizações
-
-As atualizações publicadas são instaladas automaticamente na próxima abertura do inicializador. Uma partida em andamento não é interrompida. O inicializador valida a assinatura e integridade do pacote e mantém a instalação anterior se o download falhar.
-
-Os guias completos e créditos estão dentro do pacote. Este repositório distribui somente o jogo compilado e arquivos de atualização; os modelos originais e o projeto de desenvolvimento não são publicados aqui.
+Todos na sala precisam usar 1.8.0. O serviço de salas permanece o mesmo. Créditos e licenças acompanham os pacotes; modelos originais e código privado não são distribuídos aqui.
