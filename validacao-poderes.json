@@ -1,0 +1,116 @@
+{
+    "passed": true,
+    "corners": 138,
+    "bins": 138,
+    "billboards": 18,
+    "checks": [
+        {
+            "name": "bin-at-each-corner",
+            "passed": true
+        },
+        {
+            "name": "bins-within-34m-of-corners",
+            "passed": true
+        },
+        {
+            "name": "fixed-billboards-across-city",
+            "passed": true
+        },
+        {
+            "name": "each-character-has-named-power",
+            "passed": true
+        },
+        {
+            "name": "gustavo-teleports-bin-to-bin",
+            "passed": true
+        },
+        {
+            "name": "teleport-cooldown",
+            "passed": true
+        },
+        {
+            "name": "cannot-teleport-without-nearby-bin",
+            "passed": true
+        },
+        {
+            "name": "other-characters-cannot-use-bin-network",
+            "passed": true
+        },
+        {
+            "name": "invalid-bin-index-rejected",
+            "passed": true
+        },
+        {
+            "name": "igor-shield-activation",
+            "passed": true
+        },
+        {
+            "name": "igor-shield-blocks-damage",
+            "passed": true
+        },
+        {
+            "name": "power-cooldown",
+            "passed": true
+        },
+        {
+            "name": "henrique-reduces-damage",
+            "passed": true
+        },
+        {
+            "name": "matheus-recovers-50-health",
+            "passed": true
+        },
+        {
+            "name": "lohan-boosts-movement",
+            "passed": true
+        },
+        {
+            "name": "luiz-remains-fastest",
+            "passed": true
+        },
+        {
+            "name": "matheus-v2-jump-boost",
+            "passed": true
+        },
+        {
+            "name": "talia-cat-protection",
+            "passed": true
+        },
+        {
+            "name": "mateus-heals-living-players",
+            "passed": true
+        },
+        {
+            "name": "gabriel-v2-team-shield",
+            "passed": true
+        },
+        {
+            "name": "miqueias-calls-donkey",
+            "passed": true
+        },
+        {
+            "name": "silvio-calls-car",
+            "passed": true
+        },
+        {
+            "name": "billboard-dynamic-update",
+            "passed": true
+        },
+        {
+            "name": "changing-feed-does-not-move-boards",
+            "passed": true
+        },
+        {
+            "name": "billboard-content-rendered",
+            "passed": true
+        },
+        {
+            "name": "invalid-feed-rejected",
+            "passed": true
+        },
+        {
+            "name": "network-powers-and-feed-serialization",
+            "passed": true
+        }
+    ]
+}

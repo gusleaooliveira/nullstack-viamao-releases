@@ -1,9 +1,9 @@
-# NullStack 1.7.1 — Igor em Produção
+# NullStack Viamão — Igor em Produção 1.10.0
 
-[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Baixar Windows compatível](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.7.1-hud-gameplay)
+[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Baixar Windows e Web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.10.0-poderes)
 
-21 fases principais, 12 chamados opcionais e 128 objetivos concretos, com GPS, HUD e conversas revisados. Casas coloridas, vegetação simplificada, setores com LOD e descarte por distância.
+Cada personagem tem um poder em **U**. Gustavo viaja entre **138 lixeiras** nas esquinas. **18 outdoors fixos** exibem anúncios rotativos que o anfitrião edita no celular: **P → Editar outdoors**. Conteúdo textual e válido para a sessão. Controles completos em PODERES_1_10.md, incluído nos pacotes.
 
-Escolha **Jogar modo história** ou **Continuar história**. A campanha é solo. O modo livre mantém salas Windows/navegador da mesma versão. Saves são locais.
+Windows e navegador jogam juntos usando a mesma versão 1.10.0 (protocolo v10). A campanha solo mantém 21 fases, 12 chamados e 128 objetivos.
 
-Confira LEIA-ME.md para controles e TESTE_CAMPANHA.md para os objetivos. Créditos e licenças acompanham os pacotes. A validação automática e as estatísticas de geometria estão nos arquivos JSON desta publicação.
+Extraia o ZIP Windows e abra NullStack-Historia.exe. O pacote Web deve ser servido por HTTP. Créditos e licenças acompanham os arquivos. O código-fonte e os backups de autoria permanecem privados.

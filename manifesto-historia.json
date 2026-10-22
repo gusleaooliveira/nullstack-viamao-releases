@@ -1,6 +1,6 @@
 {
-  "version": "1.7.1",
-  "release": "v1.7.1-hud-gameplay",
+  "version": "1.10.0",
+  "release": "v1.10.0-poderes",
   "mainMissions": 21,
   "optionalMissions": 12,
   "objectives": 128,
@@ -8,15 +8,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 76649093,
-      "sha256": "71ec168045b452d9369f070823995a7cbf1c3b19152864fc47cfa680866fff63"
+      "bytes": 83095500,
+      "sha256": "ebc4f25a142e88d87208e6196967db9228ab3e2db9b459772fb1cfbd6669cee0"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 52190954,
-      "sha256": "2a69767e8b1f47940ab4cd1b3a9806cf261ece841f5dacbe9f4c65f719b62658"
+      "bytes": 60167344,
+      "sha256": "fe74102b4493daf246b8f2c04cc799dacd8ec1b971efdd057fea4699b1fb3ef9"
     }
   ],
-  "webRevision": "efe16b3fd483"
+  "webRevision": "8c1dbc307afa"
 }

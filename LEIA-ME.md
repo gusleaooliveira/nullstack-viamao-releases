@@ -41,4 +41,4 @@ O gerador `campanha_concreta.py` contém a revisão das 33 fases. A validação 
 Saves existentes continuam válidos. Windows e navegador mantêm saves separados e o modo história permanece solo. O modo livre online precisa de participantes usando a mesma versão 1.7.1.
 
 
-Novidades 1.9.0 e controles: leia PERSONAGENS_1_9.md.
+Novidades 1.10.0 e controles: leia PODERES_1_10.md e PERSONAGENS_1_9.md.
