@@ -1,9 +1,11 @@
-# NullStack Viamão — Igor em Produção 1.12.0
+# NullStack Viamão — Igor em Produção 1.13.0
 
-[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=8e07b0b4c7d9) · [Baixar Windows e Web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.12.0-banco-da-cria)
+[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=a7c1557badc8) · [Baixar Windows e Web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.13.0-acao-e-vozes)
 
-Banco no celular: conta e extrato por personagem, com R$ 500 iniciais. Cochilos completos do Igor transferem até R$ 50 do Lucas. Ferir Igor rende R$ 2 por dano real, com R$ 10 por acerto de soco/tiro e R$ 100 pela eliminação.
+- Atire dirigindo: Q arma, mouse mira, clique dispara; WASD continua dirigindo. Caçada preserva Igor sem arma.
+- Campanha mais desafiadora: inimigos mais rápidos, resistentes e numerosos, ataques mais frequentes e ondas nas defesas; sem regeneração automática na campanha.
+- 132 diálogos de abertura revisados com humor de missão. 113 falas sintéticas pt-BR para Igor, Lucas, Gustavo, Miqueias e Silvio; os demais contatos seguem legendados. Botão Vozes nos diálogos.
 
-Saldos persistem no dispositivo do solo/anfitrião e são sincronizados na sala. Leia BANCO_1_12.md para regras e limitações. Todos devem atualizar para 1.12.0, protocolo v12. Windows: extraia o pacote e abra NullStack-Historia.exe. Fonte e backups permanecem privados.
+Guia ACAO_VOZES_1_13.md incluído nos pacotes. Testados tiros em movimento com host/cliente, 136 verificações de ação/áudio e os 128 objetivos das 33 missões (simulação automatizada, sem medir dificuldade subjetiva). Todos os jogadores precisam usar 1.13.0, protocolo v13.
 
-Mantidos: Lula jogável, notícias e outdoors pela API, cochilo diário, PC do Igor, gelatinas e 33 trilhas das fases.
+Extraia Windows e abra NullStack-Historia.exe. O ZIP Web requer HTTP. Fonte e backups de autoria permanecem privados. Créditos e licenças acompanham os builds; músicas, notícias, banco e poderes anteriores mantidos.
