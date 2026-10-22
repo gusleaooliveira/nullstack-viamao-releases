@@ -9,8 +9,8 @@
 </head>
 <body>
 <canvas id="unity-canvas" tabindex="0" aria-label="Jogo NullStack Viamão"></canvas>
-<section id="loading"><small>NULLSTACK</small><h1>Igor em Produção</h1><p id="status">Preparando a cidade…</p><progress id="progress" value="0" max="1"></progress><p>Modo história + multiplayer Windows / navegador<br>21 fases · 12 chamados · Progresso automático<br><a href="https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.14.0-conversas-e-chat">Windows compatível com esta versão</a></p><p id="error">Não foi possível iniciar o jogo. Recarregue a página em um navegador atualizado.<br><a href="https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.14.0-conversas-e-chat">Baixar a versão Windows</a></p></section>
-<script src="Build/NullStack-Viamao-Historia-Web.loader.js?v=1.14.0-ba1104de4b81"></script>
+<section id="loading"><small>NULLSTACK</small><h1>Igor em Produção</h1><p id="status">Preparando a cidade…</p><progress id="progress" value="0" max="1"></progress><p>Modo história + multiplayer Windows / navegador<br>21 fases · 15 histórias pessoais · Progresso automático<br><a href="https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.15.0-historias-personagens">Windows compatível com esta versão</a></p><p id="error">Não foi possível iniciar o jogo. Recarregue a página em um navegador atualizado.<br><a href="https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.15.0-historias-personagens">Baixar a versão Windows</a></p></section>
+<script src="Build/NullStack-Viamao-Historia-Web.loader.js?v=1.15.0-5275bdc52737"></script>
 <script>
 const canvas=document.getElementById('unity-canvas');
 // Some embedded browsers deny pointer lock synchronously. Keep the game running
@@ -22,8 +22,8 @@ if(pointerLock)canvas.requestPointerLock=function(){
  catch(error){window.nsPointerLockUnavailable=true;console.warn('Captura do cursor indisponível neste navegador incorporado.');}
 };
 createUnityInstance(canvas,{
- dataUrl:'Build/NullStack-Viamao-Historia-Web.data?v=1.14.0-ba1104de4b81',frameworkUrl:'Build/NullStack-Viamao-Historia-Web.framework.js?v=1.14.0-ba1104de4b81',codeUrl:'Build/NullStack-Viamao-Historia-Web.wasm?v=1.14.0-ba1104de4b81',
- streamingAssetsUrl:'StreamingAssets',companyName:'NullStack',productName:'NullStack · Viamão',productVersion:'1.14.0',matchWebGLToCanvasSize:true,devicePixelRatio:Math.min(window.devicePixelRatio||1,1.25),
+ dataUrl:'Build/NullStack-Viamao-Historia-Web.data?v=1.15.0-5275bdc52737',frameworkUrl:'Build/NullStack-Viamao-Historia-Web.framework.js?v=1.15.0-5275bdc52737',codeUrl:'Build/NullStack-Viamao-Historia-Web.wasm?v=1.15.0-5275bdc52737',
+ streamingAssetsUrl:'StreamingAssets',companyName:'NullStack',productName:'NullStack · Viamão',productVersion:'1.15.0',matchWebGLToCanvasSize:true,devicePixelRatio:Math.min(window.devicePixelRatio||1,1.25),
 },progress=>{document.getElementById('progress').value=progress;document.getElementById('status').textContent='Carregando a cidade… '+Math.round(progress*100)+'%';}).then(()=>{document.getElementById('loading').style.display='none';canvas.focus();}).catch(error=>{console.error(error);document.getElementById('error').style.display='block';document.getElementById('status').textContent='O carregamento foi interrompido.';});
 </script>
 </body>

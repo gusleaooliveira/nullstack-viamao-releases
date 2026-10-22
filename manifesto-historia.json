@@ -1,22 +1,22 @@
 {
-  "version": "1.11.0",
-  "release": "v1.11.0-cidade-viva",
+  "version": "1.15.0",
+  "release": "v1.15.0-historias-personagens",
   "mainMissions": 21,
-  "optionalMissions": 12,
-  "objectives": 128,
+  "optionalMissions": 57,
+  "objectives": 353,
   "packages": [
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 92308161,
-      "sha256": "088980b5b582e412e9d0ddd4e02d96d23f6a1153b0c391cb281f7c6ce97661fd"
+      "bytes": 109902819,
+      "sha256": "4e423cd055fc0bc9c55533b8bd1df6a3020e3ebacc5627df3d2bcfd39aa74b79"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 76105075,
-      "sha256": "61b1a9c8fc888e2c5be0890f2b7a41d61da11ce7633dc664cb58f8fad4fe9d23"
+      "bytes": 92990826,
+      "sha256": "1af1700ca2ce6856aba3c7bcadc50ea5a25618d5e810c25254b2c1d9c2ee3ec6"
     }
   ],
-  "webRevision": "2844926dafbd"
+  "webRevision": "5275bdc52737"
 }

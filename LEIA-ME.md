@@ -41,4 +41,4 @@ O gerador `campanha_concreta.py` contém a revisão das 33 fases. A validação 
 Saves existentes continuam válidos. Windows e navegador mantêm saves separados e o modo história permanece solo. O modo livre online precisa de participantes usando a mesma versão 1.7.1.
 
 
-Novidades 1.14.0: leia CONVERSAS_CHAT_1_14.md. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.
+Novidades 1.15.0: leia HISTORIAS_PERSONAGENS_1_15.md. Conclua P01 e pause para escolher Histórias dos personagens. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.
