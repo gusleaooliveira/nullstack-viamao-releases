@@ -19,3 +19,5 @@ Os 132 diálogos de abertura foram revisados com piadas próprias para as 33 mis
 Geração local na CPU: Piper 1.4.2, modelos jeff, faber e cadu (medium), com ritmos diferentes por personagem. Origem, textos, duração e SHA-256 estão em documentacao/vozes-1.13.0.json. Preparação: `python ferramentas-historia/gerar_vozes_113.py` após instalar suas dependências indicadas. Modelos são baixados pelo script para ferramentas-locais, sem credenciais. Somente áudio exportado e créditos acompanham o jogo.
 
 Referências: https://github.com/OHF-Voice/piper1-gpl e https://huggingface.co/rhasspy/piper-voices. Créditos e os MODEL_CARD dos três modelos acompanham o complemento de autoria 16.
+
+O avanço por Enter/Espaço tem proteção contra a ativação duplicada de teclado e botão na mesma interação. O HUD de poderes fica oculto durante diálogos, perguntas e pausa.
