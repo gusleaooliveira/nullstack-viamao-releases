@@ -1,6 +1,6 @@
 {
-  "version": "1.10.0",
-  "release": "v1.10.0-poderes",
+  "version": "1.11.0",
+  "release": "v1.11.0-cidade-viva",
   "mainMissions": 21,
   "optionalMissions": 12,
   "objectives": 128,
@@ -8,15 +8,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 83095500,
-      "sha256": "ebc4f25a142e88d87208e6196967db9228ab3e2db9b459772fb1cfbd6669cee0"
+      "bytes": 92308161,
+      "sha256": "088980b5b582e412e9d0ddd4e02d96d23f6a1153b0c391cb281f7c6ce97661fd"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 60167344,
-      "sha256": "fe74102b4493daf246b8f2c04cc799dacd8ec1b971efdd057fea4699b1fb3ef9"
+      "bytes": 76105075,
+      "sha256": "61b1a9c8fc888e2c5be0890f2b7a41d61da11ce7633dc664cb58f8fad4fe9d23"
     }
   ],
-  "webRevision": "8c1dbc307afa"
+  "webRevision": "2844926dafbd"
 }

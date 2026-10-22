@@ -1,0 +1,241 @@
+{
+    "passed": true,
+    "checks": [
+        {
+            "name": "lula-playable-catalog",
+            "passed": true
+        },
+        {
+            "name": "lula-rig-created",
+            "passed": true
+        },
+        {
+            "name": "noon-triggers-sofa-sleep",
+            "passed": true
+        },
+        {
+            "name": "sleep-at-cria-sofa",
+            "passed": true
+        },
+        {
+            "name": "mandatory-twelve-second-nap",
+            "passed": true
+        },
+        {
+            "name": "sleep-visual-horizontal",
+            "passed": true
+        },
+        {
+            "name": "sleep-cannot-be-canceled",
+            "passed": true
+        },
+        {
+            "name": "wakes-inside-cria",
+            "passed": true
+        },
+        {
+            "name": "same-day-does-not-repeat",
+            "passed": true
+        },
+        {
+            "name": "next-day-can-sleep",
+            "passed": true
+        },
+        {
+            "name": "igor-pc-replies",
+            "passed": true
+        },
+        {
+            "name": "pc-exclusive-to-igor",
+            "passed": true
+        },
+        {
+            "name": "news-feed-accepted",
+            "passed": true
+        },
+        {
+            "name": "new-news-hud-unread",
+            "passed": true
+        },
+        {
+            "name": "reading-clears-notification",
+            "passed": true
+        },
+        {
+            "name": "updated-article-notifies-again",
+            "passed": true
+        },
+        {
+            "name": "api-updates-board-content",
+            "passed": true
+        },
+        {
+            "name": "api-keeps-board-positions",
+            "passed": true
+        },
+        {
+            "name": "invalid-feed-rejected",
+            "passed": true
+        },
+        {
+            "name": "twelve-jellies-created",
+            "passed": true
+        },
+        {
+            "name": "only-nearby-igor-triggers-chase",
+            "passed": true
+        },
+        {
+            "name": "chase-hysteresis",
+            "passed": true
+        },
+        {
+            "name": "spring-body-deforms",
+            "passed": true
+        },
+        {
+            "name": "damped-body-recovers",
+            "passed": true
+        },
+        {
+            "name": "nearby-igor-is-pursued",
+            "passed": true
+        },
+        {
+            "name": "music-catalog-present",
+            "passed": true
+        },
+        {
+            "name": "music-P01",
+            "passed": true
+        },
+        {
+            "name": "music-P02",
+            "passed": true
+        },
+        {
+            "name": "music-M01",
+            "passed": true
+        },
+        {
+            "name": "music-M02",
+            "passed": true
+        },
+        {
+            "name": "music-M03",
+            "passed": true
+        },
+        {
+            "name": "music-M04",
+            "passed": true
+        },
+        {
+            "name": "music-M05",
+            "passed": true
+        },
+        {
+            "name": "music-M06",
+            "passed": true
+        },
+        {
+            "name": "music-M07",
+            "passed": true
+        },
+        {
+            "name": "music-M08",
+            "passed": true
+        },
+        {
+            "name": "music-M09",
+            "passed": true
+        },
+        {
+            "name": "music-M10",
+            "passed": true
+        },
+        {
+            "name": "music-U01",
+            "passed": true
+        },
+        {
+            "name": "music-U02",
+            "passed": true
+        },
+        {
+            "name": "music-U03",
+            "passed": true
+        },
+        {
+            "name": "music-U04",
+            "passed": true
+        },
+        {
+            "name": "music-U05",
+            "passed": true
+        },
+        {
+            "name": "music-U06",
+            "passed": true
+        },
+        {
+            "name": "music-U07",
+            "passed": true
+        },
+        {
+            "name": "music-U08",
+            "passed": true
+        },
+        {
+            "name": "music-U09",
+            "passed": true
+        },
+        {
+            "name": "music-U10",
+            "passed": true
+        },
+        {
+            "name": "music-U11",
+            "passed": true
+        },
+        {
+            "name": "music-U12",
+            "passed": true
+        },
+        {
+            "name": "music-C01",
+            "passed": true
+        },
+        {
+            "name": "music-C02",
+            "passed": true
+        },
+        {
+            "name": "music-C03",
+            "passed": true
+        },
+        {
+            "name": "music-C04",
+            "passed": true
+        },
+        {
+            "name": "music-C05",
+            "passed": true
+        },
+        {
+            "name": "music-C06",
+            "passed": true
+        },
+        {
+            "name": "music-C07",
+            "passed": true
+        },
+        {
+            "name": "music-F01",
+            "passed": true
+        },
+        {
+            "name": "music-E01",
+            "passed": true
+        }
+    ]
+}
