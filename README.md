@@ -1,11 +1,13 @@
-# NullStack Viamão — Igor em Produção 1.13.0
+# NullStack Viamão — Igor em Produção 1.14.0
 
-[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=6fbbcddf5071) · [Baixar Windows e Web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.13.0-acao-e-vozes)
+[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=ba1104de4b81) · [Baixar Windows e Web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.14.0-conversas-e-chat)
 
-- Atire dirigindo: Q arma, mouse mira, clique dispara; WASD continua dirigindo. Caçada preserva Igor sem arma.
-- Campanha mais desafiadora: inimigos mais rápidos, resistentes e numerosos, ataques mais frequentes e ondas nas defesas; sem regeneração automática na campanha.
-- 132 diálogos de abertura revisados com humor de missão. 113 falas sintéticas pt-BR para Igor, Lucas, Gustavo, Miqueias e Silvio; os demais contatos seguem legendados. Botão Vozes nos diálogos.
+- 207 falas distintas nas 33 missões, com diálogos mais desenvolvidos e dublagem recriada para os 17 personagens.
+- Chat entre jogadores conectados: Enter ou celular, histórico das últimas 40 mensagens e aviso de mensagens novas.
+- Vozes sob demanda, com antecipação da próxima fala e cache de quatro clipes. Windows funciona offline.
+- Pacote inicial de dados Web 13,26% menor. Menos sincronizações bancárias, cache de anúncios e deformação visual das gelatinas limitada fora da câmera.
+- Poderes, músicas, banco, notícias, tiros no carro e progresso mantidos.
 
-Guia ACAO_VOZES_1_13.md incluído nos pacotes. Testados tiros em movimento com host/cliente, 137 verificações de ação/áudio e os 128 objetivos das 33 missões (simulação automatizada, sem medir dificuldade subjetiva). Todos os jogadores precisam usar 1.13.0, protocolo v13.
+Testados os 207 clipes (226 verificações), 128 objetivos, chat local/online nos dois sentidos e tiros no carro. Enter/Esc conferidos no navegador. Todos devem atualizar para 1.14.0, protocolo v14.
 
-Extraia Windows e abra NullStack-Historia.exe. O ZIP Web requer HTTP. Fonte e backups de autoria permanecem privados. Créditos e licenças acompanham os builds; músicas, notícias, banco e poderes anteriores mantidos.
+Extraia Windows e abra NullStack-Historia.exe. O ZIP Web requer HTTP. Guia CONVERSAS_CHAT_1_14.md e licenças acompanham os pacotes. Perfis de voz sintéticos ficcionais com Kokoro-82M, sem clonagem de pessoas reais. Fonte e materiais de autoria permanecem privados.
