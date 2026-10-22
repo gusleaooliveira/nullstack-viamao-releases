@@ -8,15 +8,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 76600394,
-      "sha256": "29043a8b5c6b11561801563297e31739ed7d0083cdf3cef06fe643bd3710f171"
+      "bytes": 76600621,
+      "sha256": "86560a1c4afa964a5c1613e23854fe3cd20dd8a934549b1b8d4fd5dcb9cfaa2f"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 52133750,
-      "sha256": "50cbc0ec4706e5b9065dc0a6adaa2e8acdb1eccf5bb05fb62dcfb46c6fdcb8a3"
+      "bytes": 52133856,
+      "sha256": "52346f489ab9f641a69dfa651208a9ba5f970347d0178f12b88ffdf779ca3569"
     }
   ],
-  "webRevision": "c6ac146356f8"
+  "webRevision": "13756ca5b10a"
 }

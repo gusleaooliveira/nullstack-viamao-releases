@@ -12,7 +12,7 @@ Escolha **Jogar modo história** ou **Continuar história**. As 21 fases princip
 - Esc/F2 abre a campanha e os chamados; M abre o mapa completo; F3 mostra o desempenho.
 - O GPS desenha uma rota azul nas ruas e no minimapa. O marcador laranja indica o destino. Dentro de prédios, a indicação leva até a porta apropriada. Em missões de direção, primeiro indica o carro e depois o destino.
 
-Nos diálogos, o retrato, o nome e a indicação “fala com” mostram **quem fala e para quem**. Igor aparece à direita, identificado como **você**. A fala anterior permanece visível para dar contexto à resposta; o botão informa quem falará em seguida. As conversas são legendadas.
+Nos diálogos, o retrato, o nome e a indicação “fala com” mostram **quem fala e para quem**. Igor aparece à direita, identificado como **você**. A fala anterior permanece visível para dar contexto à resposta; o botão informa quem falará em seguida. As conversas são legendadas. Quando a câmera encosta em uma parede, o próprio personagem é ocultado temporariamente para manter a visão livre.
 
 Robôs vermelhos são ameaças. Equipamentos de manutenção têm telas azuis. Após operar um equipamento, ele fica verde e permanece no local durante a missão. Nas defesas, robôs próximos do terminal interrompem o progresso: elimine a ameaça e permaneça na área. Chefes só recebem dano após desligar os dois quadros de proteção.
 
