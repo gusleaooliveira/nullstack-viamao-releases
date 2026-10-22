@@ -1,0 +1,22 @@
+{
+  "version": "1.6.0",
+  "release": "v1.6.0-story-preview",
+  "mainMissions": 21,
+  "optionalMissions": 12,
+  "objectives": 128,
+  "packages": [
+    {
+      "platform": "Windows",
+      "file": "NullStack-Viamao-Historia.zip",
+      "bytes": 74375253,
+      "sha256": "8e1c2367b934c7271b77ab54dd2187facd2e21f84f24276dc52a9dea3b6b960d"
+    },
+    {
+      "platform": "Web",
+      "file": "NullStack-Viamao-Historia-Web.zip",
+      "bytes": 55096495,
+      "sha256": "eb2e5e964c0201e9f575bc7e754e32c61eb8b5131c1ce45090d59eb9c22a53cf"
+    }
+  ],
+  "webRevision": "8a2d1a4044b8"
+}

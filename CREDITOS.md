@@ -36,3 +36,8 @@ Somente os modelos indicados acima foram incorporados ao executável. A coleçã
 
 
 Expansão 1.5: interiores, roupas, avião, comidas e efeitos procedurais criados para o jogo. Imagem da faixa fornecida pelo usuário; arquivo original preservado em Resources/World/PlaneReference.png.
+
+## Modo história 1.6.0
+
+Modelos: Low Poly Robot Factory Pack, reodesuxz. Uso e modificação permitidos em jogos; não redistribuir como pacote de assets. Veja LICENSE-robot-factory.txt.
+Sons de interface: Kenney Digital Audio, CC0; licença incluída. Vozes não foram sintetizadas; os diálogos originais são legendados.
