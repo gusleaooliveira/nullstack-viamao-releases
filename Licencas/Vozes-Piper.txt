@@ -1,0 +1,3 @@
+Vozes sintéticas geradas por Piper 1.4.2 (OHF-Voice/piper1-gpl). Modelos pt_BR-jeff-medium, pt_BR-faber-medium e pt_BR-cadu-medium publicados por rhasspy/piper-voices, datasets indicados nos MODEL_CARD como CC0. https://github.com/OHF-Voice/voice-datasets
+https://huggingface.co/rhasspy/piper-voices
+O motor e os modelos são ferramentas externas de preparação; não estão embarcados no jogo. Exportações WAV e OGG feitas para estes diálogos. São vozes de personagens fictícios, sem imitação de pessoas do projeto. Textos e proveniência em documentacao/vozes-1.13.0.json.
