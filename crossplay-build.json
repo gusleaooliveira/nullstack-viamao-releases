@@ -1,0 +1,6 @@
+{
+  "version": "1.5.2",
+  "protocol": "nullstack-room-v7",
+  "endpoint": "https://nullstack-viamao-salas.classyray67.chatgpt.site/api/room",
+  "wasmSha256": "94cab05a76d619b54d3ab8a17aa020ce2e0eb30abd8059160d36af7b94007705"
+}

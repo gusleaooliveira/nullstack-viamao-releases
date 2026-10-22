@@ -1,27 +1,32 @@
-# NullStack Viamão
+# NullStack Viamão 1.5.2 — versão web com salas v7
 
-Jogo de exploração de Viamão para Windows, com personagens da equipe e salas multiplayer por IP.
+[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/). Site publicado e carregamento conferido.
 
-## Baixar e jogar
+Pacote separado para navegador de computador. Inclui os 13 visuais, Talia, celular, gestos, mapa, ciclo de dia/noite e carro de Silvio. A versão web permite **multiplayer com Windows por código de sala**. Em F2, crie uma sala online ou digite o código compartilhado pelo anfitrião. Todos precisam usar a mesma versão.
 
-[Baixar a versão completa para Windows](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/latest/download/NullStack-Viamao-Windows.zip)
+Esta compilação acompanha o Windows atualizado de `NullStack-Viamao-carro-combate`: protocolo `nullstack-room-v7`, carro em terrenos livres fora das ruas, balas visíveis e dano sincronizado. Pacotes Windows antigos que ainda usam o protocolo v6 não entram nessas salas. Para a cópia Windows local atualizada, abra `Jogar-versao-local.cmd`.
 
-1. Extraia a pasta inteira do ZIP.
-2. Abra **Jogar-NullStack.exe**. Ele verifica as novas versões antes de iniciar o jogo.
-3. Escolha seu nome e personagem. Crie uma sala ou entre pelo IP do anfitrião.
+O cliente usa o serviço independente de salas e a configuração descrita em `SERVICO_DE_SALAS.md`. Os arquivos publicados recebem uma identificação por conteúdo para evitar reutilizar uma compilação anterior do navegador.
 
-Quem baixou o pacote anterior sem inicializador precisa instalar esta versão completa uma vez.
+## Abrir no Windows ou Linux
 
-## Personagens e controles
+1. Extraia `NullStack-Viamao-Web.zip` inteiro.
+2. Tenha Python 3 instalado.
+3. Na pasta extraída, execute `python servir.py` (Windows) ou `python3 servir.py` (Linux).
+4. Abra `http://127.0.0.1:8080/` no navegador. Mantenha o terminal aberto enquanto joga.
 
-Igor, Lucas, Matheus (dois visuais), Gustavo, Mateus/Fredinho, Henrique, Lohan, Luiz, Miqueias, Silvio e Diogo/Diego. F2 permite trocar de personagem na sala.
+Não abra `index.html` diretamente por `file://`: o navegador precisa carregar os arquivos do jogo por HTTP. Se a porta 8080 estiver ocupada, use `python3 servir.py --port 8081` e abra a porta correspondente.
 
-WASD/setas: andar · Shift: correr · Espaço: pular · Ctrl: agachar · Mouse direito: câmera · V: capturar mouse · F1: ajuda · F2: sala · M: mapa.
+Clique dentro do jogo antes de usar o teclado. **P** abre o celular; **Emojis** permite escolher **Fazer o L** e **6 / 7**. **F2** abre a seleção, incluindo Talia. **G/E** chamam e acessam o carro de Silvio; **WASD/setas** dirigem e **Espaço** freia.
 
-Na mesma rede, use o IPv4 do anfitrião e a porta 7777/TCP. Para redes diferentes, o anfitrião precisa de um endereço alcançável; esta versão não inclui relay ou servidor hospedado.
+## Hospedagem e limites
 
-## Atualizações
+O conteúdo também pode ser servido por uma hospedagem estática. Preserve as pastas `Build` e `TemplateData`, sirva `.wasm` como `application/wasm` e publique todos os arquivos da mesma versão. Esta compilação não exige cabeçalhos especiais de compressão.
 
-As atualizações publicadas são instaladas automaticamente na próxima abertura do inicializador. Uma partida em andamento não é interrompida. O inicializador valida a assinatura e integridade do pacote e mantém a instalação anterior se o download falhar.
+As salas online usam o serviço HTTPS público de NullStack. O anfitrião mantém o jogo aberto. A conexão direta por IP continua exclusiva do Windows. Veja EXPANSAO_1_5.md para as novas atividades e controles.
 
-Os guias completos e créditos estão dentro do pacote. Este repositório distribui somente o jogo compilado e arquivos de atualização; os modelos originais e o projeto de desenvolvimento não são publicados aqui.
+A versão web não utiliza o atualizador `.exe`; para atualizá-la, substitua o pacote completo ou publique novamente os arquivos no servidor. O primeiro carregamento baixa os dados do jogo e pode demorar. Use teclado e mouse; controles móveis não foram implementados.
+
+## Recompilar
+
+Depois de atualizar o catálogo e os assets, execute `./atualizador/Compilar-Web.ps1`. O pacote é salvo em `distribuicao/<VERSION>/NullStack-Viamao-Web.zip`. O site público serve os arquivos compilados da branch `web` do repositório de releases; publicar outra versão web exige atualizar essa branch. A branch `main` foi preservada.
