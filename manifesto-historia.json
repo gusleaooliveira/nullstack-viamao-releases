@@ -1,22 +1,29 @@
 {
-  "version": "1.15.0",
-  "release": "v1.15.0-historias-personagens",
+  "version": "1.16.0",
+  "release": "v1.16.0-zumbis-garagem",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
+  "arcadeModes": [
+    "zombie-survival",
+    "beat-em-up"
+  ],
+  "weapons": 4,
+  "newVehicles": 6,
+  "garageMissions": 3,
   "packages": [
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 109902819,
-      "sha256": "4e423cd055fc0bc9c55533b8bd1df6a3020e3ebacc5627df3d2bcfd39aa74b79"
+      "bytes": 109915533,
+      "sha256": "2532799946ebae146fdceca0e5ee26cfd59a33885f03806a506ff2a871786477"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 92990826,
-      "sha256": "1af1700ca2ce6856aba3c7bcadc50ea5a25618d5e810c25254b2c1d9c2ee3ec6"
+      "bytes": 93013416,
+      "sha256": "cb90b32b5ba5a368d06421ec867eefd516ab5cb59e5586d769c7d5e20a540dc6"
     }
   ],
-  "webRevision": "5275bdc52737"
+  "webRevision": "adb8f90246e5"
 }
