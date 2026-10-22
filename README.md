@@ -2,9 +2,11 @@
 
 [Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/). Site publicado e carregamento conferido.
 
+[Baixar o Windows compatível com esta web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.5.2-crossplay-v7). Extraia a pasta inteira e abra `NullStack-Viamao.exe`. A cópia local completa fica em `jogavel/NullStack-Viamao-crossplay-v7`.
+
 Pacote separado para navegador de computador. Inclui os 13 visuais, Talia, celular, gestos, mapa, ciclo de dia/noite e carro de Silvio. A versão web permite **multiplayer com Windows por código de sala**. Em F2, crie uma sala online ou digite o código compartilhado pelo anfitrião. Todos precisam usar a mesma versão.
 
-Esta compilação acompanha o Windows atualizado de `NullStack-Viamao-carro-combate`: protocolo `nullstack-room-v7`, carro em terrenos livres fora das ruas, balas visíveis e dano sincronizado. Pacotes Windows antigos que ainda usam o protocolo v6 não entram nessas salas. Para a cópia Windows local atualizada, abra `Jogar-versao-local.cmd`.
+Esta compilação acompanha o Windows completo de `NullStack-Viamao-crossplay-v7`: protocolo `nullstack-room-v7`, carro em terrenos livres fora das ruas, balas visíveis e dano sincronizado. Pacotes Windows antigos que ainda usam o protocolo v6 não entram nessas salas. Para a cópia Windows local atualizada, abra `NullStack-Viamao.exe`.
 
 O cliente usa o serviço independente de salas e a configuração descrita em `SERVICO_DE_SALAS.md`. Os arquivos publicados recebem uma identificação por conteúdo para evitar reutilizar uma compilação anterior do navegador.
 
