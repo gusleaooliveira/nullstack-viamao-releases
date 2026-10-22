@@ -1,10 +1,9 @@
-# NullStack Viamão — Igor em Produção 1.11.0
+# NullStack Viamão — Igor em Produção 1.12.0
 
-[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=2844926dafbd) · [Baixar Windows e Web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.11.0-cidade-viva)
+[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=dcad584fa90e) · [Baixar Windows e Web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.12.0-banco-da-cria)
 
-- Igor dorme no sofá da Cria ao meio-dia do jogo; seu PC responde à interação E.
-- Lula jogável. Notícias no celular e notificações no HUD; notícias e outdoors podem ser cadastrados por API autenticada.
-- 12 gelatinas com malha deformável perseguem o Igor próximo.
-- 33 recortes de trilha para 33 fases, preparados a partir de 17 instrumentais criadas no Suno.
+Banco no celular: conta e extrato por personagem, com R$ 500 iniciais. Cochilos completos do Igor transferem até R$ 50 do Lucas. Ferir Igor rende R$ 2 por dano real, com R$ 10 por acerto de soco/tiro e R$ 100 pela eliminação.
 
-Controles e API em CIDADE_VIVA_1_11.md, incluído nos pacotes. Todos os jogadores precisam usar 1.11.0, protocolo de salas v11. Extraia o Windows e abra NullStack-Historia.exe. O pacote Web precisa de HTTP. Créditos e licenças acompanham os arquivos; o fonte e os backups de autoria permanecem privados.
+Saldos persistem no dispositivo do solo/anfitrião e são sincronizados na sala. Leia BANCO_1_12.md para regras e limitações. Todos devem atualizar para 1.12.0, protocolo v12. Windows: extraia o pacote e abra NullStack-Historia.exe. Fonte e backups permanecem privados.
+
+Mantidos: Lula jogável, notícias e outdoors pela API, cochilo diário, PC do Igor, gelatinas e 33 trilhas das fases.
