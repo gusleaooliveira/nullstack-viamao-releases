@@ -1,9 +1,9 @@
-# NullStack 1.6.0 — Igor em Produção
+# NullStack 1.7.0 — Igor em Produção
 
-[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Baixar Windows compatível](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.6.0-story-preview)
+[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Baixar Windows compatível](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.7.0-story-gps)
 
-No menu, escolha **Jogar modo história**. A campanha tem 21 fases principais, 12 chamados opcionais, 128 objetivos, checkpoints e avanço automático. Os diálogos são legendados; esta prévia adapta o roteiro às mecânicas disponíveis.
+21 fases principais, 12 chamados opcionais e 128 objetivos concretos, com GPS, HUD e conversas revisados. Casas coloridas, vegetação simplificada, setores com LOD e descarte por distância.
 
-A campanha é solo. O modo livre mantém salas Windows/navegador por código, usando a mesma versão 1.6.0. Saves ficam no dispositivo.
+Escolha **Jogar modo história** ou **Continuar história**. A campanha é solo. O modo livre mantém salas Windows/navegador da mesma versão. Saves são locais.
 
-Confira LEIA-ME.md para os controles e TESTE_CAMPANHA.md para marcar as fases. Créditos e licenças acompanham a distribuição.
+Confira LEIA-ME.md para controles e TESTE_CAMPANHA.md para os objetivos. Créditos e licenças acompanham os pacotes. A validação automática e as estatísticas de geometria estão nos arquivos JSON desta publicação.

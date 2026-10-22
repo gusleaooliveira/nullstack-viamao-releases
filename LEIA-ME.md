@@ -1,52 +1,35 @@
-# Igor em Produção — modo história 1.6.0
+# Igor em Produção 1.7.0 — GPS, objetivos concretos e mapa otimizado
 
-No menu inicial, escolha **Jogar modo história**. A campanha começa no prólogo, apresenta o diálogo e libera o primeiro objetivo. As fases seguintes começam automaticamente após a conclusão da anterior. Ao retornar, o botão vira **Continuar história**.
+Abra `Jogar-Historia.cmd` na pasta do projeto ou extraia o pacote Windows inteiro e execute `NullStack-Historia.exe`. No navegador, acesse https://gusleaooliveira.github.io/nullstack-viamao-releases/.
 
-São 21 fases principais e 12 chamados urbanos opcionais, com 128 objetivos no total. O jogo adapta o roteiro de `historia/NullStack_Campanha_Missoes_e_Conversas.md` para exploração, coleta, investigação, escolhas de comando, combate, resgate, entregas, direção, defesa de terminais e chefes com painéis de proteção. Cada fase aumenta a dificuldade e concede XP. Os diálogos são legendados.
+Escolha **Jogar modo história** ou **Continuar história**. As 21 fases principais e os 12 chamados opcionais mantêm 128 objetivos. Todos receberam nomes e instruções concretos: buscar equipamentos, reparar circuitos, transportar peças, abrir acessos e escoltar moradores. A campanha continua automaticamente, com o GPS indicando o próximo local. Entre fases, Igor permanece na cidade; retomar o save e tentar novamente um checkpoint reposicionam o jogador perto do objetivo.
 
-Esta é a primeira versão jogável da campanha. As ferramentas e situações do roteiro são representadas pelas mecânicas disponíveis; ainda não há uma implementação individual de todas as ferramentas conceituais, vozes ou cenas cinematográficas do documento.
+## Controles e orientação
 
-## Como jogar
+- WASD anda; Shift corre; Espaço pula; Ctrl agacha.
+- E coleta, chama moradores, conversa e entra/sai do carro. Segure E para operar equipamentos e acompanhe a barra de progresso.
+- Q equipa a arma; clique esquerdo dispara; F dá socos; botão direito mira e examina equipamentos.
+- Esc/F2 abre a campanha e os chamados; M abre o mapa completo; F3 mostra o desempenho.
+- O GPS desenha uma rota azul nas ruas e no minimapa. O marcador laranja indica o destino. Dentro de prédios, a indicação leva até a porta apropriada. Em missões de direção, primeiro indica o carro e depois o destino.
 
-- WASD: andar; Shift: correr; Espaço: pular; Ctrl: agachar.
-- E: coletar, conversar, operar painéis, iniciar escolta ou entrar/sair do carro. Segure E quando o objetivo pedir uma operação.
-- F: soco; Q: equipar/guardar a arma; clique esquerdo: disparar; botão direito: mirar/investigar.
-- M: mapa; C: câmera; Esc/F2: pausa da campanha, chamados urbanos e retorno ao menu.
-- Espaço/Enter ou botão Continuar: avançar as falas.
+Nos diálogos, o retrato, o nome e a indicação “fala com” mostram **quem fala e para quem**. Igor aparece à direita, identificado como **você**. A fala anterior permanece visível para dar contexto à resposta; o botão informa quem falará em seguida. As conversas são legendadas.
 
-Siga o marcador. Para sair do escritório, vá à porta indicada e pressione E. Chefes exigem desligar dois painéis antes de receber dano. Moradores precisam ser chamados com E e conduzidos até a área segura. Nas missões de direção, Igor recebe um carro emprestado. Os ataques inimigos mostram um aviso no chão antes de atingir.
+Robôs vermelhos são ameaças. Equipamentos de manutenção têm telas azuis. Após operar um equipamento, ele fica verde e permanece no local durante a missão. Nas defesas, robôs próximos do terminal interrompem o progresso: elimine a ameaça e permaneça na área. Chefes só recebem dano após desligar os dois quadros de proteção.
 
-O progresso é salvo a cada objetivo, coleta e checkpoint. Ao ser derrubado, use **Retomar o checkpoint**. Chamados opcionais ficam no menu da campanha e são liberados conforme as fases principais. A campanha é solo; as salas Windows/navegador continuam no modo livre.
+## Desempenho e cores
 
-O save usa PlayerPrefs (`nullstack.story.v1`, com cópia anterior de segurança). No Windows, pertence ao produto NullStack / NullStack · Igor em Produção. No navegador, fica no armazenamento local do site. Saves das duas plataformas são independentes.
+O exportador agora incorpora as cores das texturas ao mapa do Blender. As fachadas neutras recebem uma paleta mais viva, preservando os detalhes das janelas e dos telhados.
 
-## Cenário e desempenho
+O mapa visual passou de 1.438.907 para aproximadamente 606 mil triângulos. A versão distante usa aproximadamente 133 mil. As copas das árvores passaram de 852.480 para 88.800 triângulos. Esses números medem geometria, não aumento de FPS.
 
-O terreno, os prédios, interiores e objetos estáticos foram exportados para `mapa-blender/NullStack-Viamao.blend`. O Blender agrupa a geometria por setores de 128 metros e exporta o FBX usado pela cena `Viamao-Historia.unity`.
+Os setores visuais usam versões próximas/distantes e deixam de ser desenhados fora do alcance configurado. Colisões distantes são desativadas por setor e retornam quando o jogador se aproxima. A colisão do terreno mantém a geometria original. A cena evita duplicar as malhas em lotes estáticos, limita sombras e luzes e reduz pedestres/trânsito simultâneos; personagens fora da área próxima deixam de ser renderizados. No navegador, a densidade de pixels é limitada para evitar renderizar desnecessariamente em resoluções muito altas.
 
-O bake reduziu os 5.443 renderizadores estáticos de origem para 328 setores visuais e 328 malhas de colisão. São aproximadamente 94% menos renderizadores estáticos; isso não é uma medição de FPS. A geometria visual contém cerca de 1,44 milhão de triângulos. Materiais opacos usam cores de vértice compartilhadas; janelas noturnas ficam separadas. Textos e iluminação permanecem na Unity.
+O cenário estático continua em `mapa-blender/NullStack-Viamao.blend`. Personagens, veículos e objetos de missão são criados em execução. Os novos objetos de missão compartilham malhas e material; retratos são armazenados em cache após a primeira renderização.
 
-Personagens, pedestres, trânsito, carros e atores das missões são instanciados em execução. Somente o objetivo atual mantém seus atores ativos; inimigos são reutilizados e as fontes de áudio utilizam um pool limitado.
+## Reconstrução
 
-## Reconstrução automática
+Execute `ferramentas-historia/Construir-Historia.ps1 -Validate -Web` e depois `python ferramentas-historia/empacotar_historia.py`. Use `-RebuildMap` para recriar o mapa a partir da cena de origem, ou `-ExportEditedBlend` para exportar edições do Blender. A exportação de texturas necessita da Unity com dispositivo gráfico; o script abre o editor em segundo plano.
 
-Feche o editor desse projeto e execute, na pasta do jogo:
+O gerador `campanha_concreta.py` contém a revisão das 33 fases. A validação percorre os 128 objetivos com save isolado. O roteiro original continua preservado em `historia/NullStack_Campanha_Missoes_e_Conversas.md`.
 
-```powershell
-.\ferramentas-historia\Construir-Historia.ps1 -Validate -Web
-python .\ferramentas-historia\empacotar_historia.py
-```
-
-O script usa Unity 6000.6.6f1, Blender 5.2 e Python. Reutiliza `NullStack-WebBuild` como projeto de compilação, sincroniza os Assets e devolve cenas e metadados gerados para `NullStack-Unity`.
-
-- Sem opções de mapa: preserva o bake atual e suas edições.
-- `-ExportEditedBlend`: reexporta o arquivo .blend editado e remonta a cena.
-- `-RebuildMap`: recria o mapa a partir da cena original Unity, refaz âncoras e substitui a geometria do .blend. Use apenas quando desejar reconstruir a origem.
-- `-Validate`: executa a campanha inteira com save de teste isolado e grava o relatório em `jogavel/NullStack-Viamao-Historia/validacao`.
-- `-Web`: gera também WebGL. `-Unity` e `-Blender` permitem outros caminhos de instalação.
-
-No Blender, mantenha nomes `MAP_` para visual e `COL_` para colisões. Ao alterar paredes ou terreno, atualize também a colisão correspondente. A reexportação preserva essas malhas; alterações grandes podem exigir reposicionar objetivos e portas na Unity.
-
-## Assets
-
-Foram reutilizados os modelos e sons já baixados no projeto. Robôs e painéis: Low Poly Robot Factory Pack, reodesuxz; uso em jogos permitido, redistribuição como pacote independente proibida. Sons de interface: Kenney Digital Audio, CC0. Os créditos anteriores permanecem válidos. As licenças integrais acompanham os pacotes jogáveis.
+Saves existentes continuam válidos. Windows e navegador mantêm saves separados e o modo história permanece solo. O modo livre online precisa de participantes usando a mesma versão 1.7.0.
