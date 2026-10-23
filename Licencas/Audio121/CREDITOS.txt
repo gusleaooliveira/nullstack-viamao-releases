@@ -1,0 +1,4 @@
+Sons de interface e objetos: Kenney, CC0. Pacotes previamente baixados e preservados no backup do projeto.
+Vozes sintéticas ficcionais em português: Kokoro v1.0, Apache-2.0; perfis genéricos, sem imitar as pessoas representadas.
+Chuva e água: loops gerados offline para NullStack.
+Fontes: https://kenney.nl/assets/ui-audio ; https://kenney.nl/assets/sci-fi-sounds ; https://github.com/thewh1teagle/kokoro-onnx

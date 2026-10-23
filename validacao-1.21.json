@@ -1,0 +1,87 @@
+{
+  "version": "1.21.0",
+  "physicalControllerTested": false,
+  "protocol": "nullstack-room-v15",
+  "run-ControlesAudio-Personagens-Acoes-Equipamentos-Cidade-Arcade-Historias-Campanha-Rigs-Corpo": {
+    "ControlesAudio": {
+      "passed": true,
+      "seconds": 9.88
+    },
+    "Personagens": {
+      "passed": true,
+      "seconds": 13.46
+    },
+    "Acoes": {
+      "passed": true,
+      "seconds": 18.09
+    },
+    "Equipamentos": {
+      "passed": true,
+      "seconds": 12.79
+    },
+    "Cidade": {
+      "passed": true,
+      "seconds": 22.93
+    },
+    "Arcade": {
+      "passed": true,
+      "seconds": 80.81
+    },
+    "Historias": {
+      "passed": true,
+      "seconds": 25.75
+    },
+    "Campanha": {
+      "passed": true,
+      "seconds": 36.05
+    },
+    "Rigs": {
+      "passed": true,
+      "seconds": 33.36
+    },
+    "Corpo": {
+      "passed": true,
+      "seconds": 12.89
+    },
+    "profileRestored": true
+  },
+  "run-ControlesAudio-Personagens-Acoes-Equipamentos": {
+    "ControlesAudio": {
+      "passed": true,
+      "seconds": 10.35
+    },
+    "Personagens": {
+      "passed": true,
+      "seconds": 14.23
+    },
+    "Acoes": {
+      "passed": true,
+      "seconds": 17.63
+    },
+    "Equipamentos": {
+      "passed": true,
+      "seconds": 13.48
+    },
+    "profileRestored": true
+  },
+  "run-ControlesAudio": {
+    "ControlesAudio": {
+      "passed": true,
+      "seconds": 10.69
+    },
+    "profileRestored": true
+  },
+  "controlsAudio": {
+    "passed": true,
+    "physicalControllerTested": false,
+    "inputTest": "Unity Input System virtual normalized Xbox and PlayStation gamepads",
+    "voices": 44,
+    "effects": 11,
+    "checks": 89,
+    "walked": 1.840126872062683,
+    "yawDelta": 45.75414276123047,
+    "errors": []
+  },
+  "canonicalBuildSourceFilesVerified": 621,
+  "buildsPassed": true
+}

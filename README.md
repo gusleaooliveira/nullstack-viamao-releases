@@ -1,5 +1,5 @@
-# NullStack 1.20.0 — Esqueletos e animações
+# NullStack 1.21.0 — Áudio, vozes e controles
 
-[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Windows e pacotes](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.20.0-animacoes) · [276 capturas](galeria-1.20/)
+[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Windows e pacotes](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.21.0-audio-controles) · [Demonstrações](galeria-1.21/)
 
-17 personagens jogáveis e sete NPCs humanoides com corpo de 23 ossos e dedos articulados. 42 animações CC0 do Quaternius, compartilhadas em 385 KB. Ações, itens e mochila acompanham o esqueleto. Leia [detalhes](RIGS_1_20.md). Mantém as 78 fases e os modos anteriores, incluindo Zumbi, Beat em up e cidade viva. Windows e web usam nullstack-room-v15.
+44 novas falas em português e 11 efeitos. Controles Xbox e PlayStation com menus, teclado na tela e ajustes. Teclado e mouse preservados. [Guia](AUDIO_CONTROLES_1_21.md). Testes com dispositivos virtuais; validação física pendente. Mantém 78 fases, modos Zumbi e Beat em up, cidade viva e protocolo v15.

@@ -1,0 +1,436 @@
+{
+  "version": "1.21.0",
+  "voices": [
+    {
+      "key": "actor_0_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 0,
+      "speaker": "Igor",
+      "sha256": "7d082eafff71854c60ab42a16a520d9fcfc24f797f4a1bc67dcc67bb9c1bc8eb",
+      "seconds": 2.024671201814059
+    },
+    {
+      "key": "actor_0_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 0,
+      "speaker": "Igor",
+      "sha256": "473774e1b0ddc7472a1a8e1f0bb8a749f7a823dc6535546d207f0ace09e80c54",
+      "seconds": 1.8526984126984127
+    },
+    {
+      "key": "actor_1_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 1,
+      "speaker": "Lucas",
+      "sha256": "06b18fb45d3dea2a4e11fd6ab93072a243e1acc4b53f577c6b6ba83995272c8e",
+      "seconds": 2.2853514739229026
+    },
+    {
+      "key": "actor_1_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 1,
+      "speaker": "Lucas",
+      "sha256": "5bd60e24e48f049daf54ec75e104a6e0e3c86a11b76905b6cbfa13f81878b119",
+      "seconds": 2.049342403628118
+    },
+    {
+      "key": "actor_2_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 2,
+      "speaker": "Matheus - visual 1",
+      "sha256": "b28ceec960c61203545f61c79ef7ff7ef13a3c13b54a0db1dea76d49f6195580",
+      "seconds": 2.1440362811791385
+    },
+    {
+      "key": "actor_2_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 2,
+      "speaker": "Matheus - visual 1",
+      "sha256": "fd0384b94601c00529bf12f4b9b309eb3ba11d987d0eddc27e2d59b78d7bf508",
+      "seconds": 2.1633560090702946
+    },
+    {
+      "key": "actor_3_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 3,
+      "speaker": "Matheus - visual 2",
+      "sha256": "6aece9524fd7b1bdf3f801b5be5c4cb147238049c265e7fa1b0478c64a3b3175",
+      "seconds": 2.3313378684807256
+    },
+    {
+      "key": "actor_3_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 3,
+      "speaker": "Matheus - visual 2",
+      "sha256": "1be8bdfd87e7495de756a6c7fabfffaf92b350bd7d4adaf7e74b85438bcae91d",
+      "seconds": 2.1206802721088436
+    },
+    {
+      "key": "actor_4_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 4,
+      "speaker": "Gustavo",
+      "sha256": "34dc711636a0460a1484a2746911c79ef392f76273481afe7e697645e7d7f705",
+      "seconds": 2.2219954648526077
+    },
+    {
+      "key": "actor_4_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 4,
+      "speaker": "Gustavo",
+      "sha256": "d0f42da0c6e33590d37064db7625bca55d211f932fa34bca3c777e251fa7099c",
+      "seconds": 2.0740136054421767
+    },
+    {
+      "key": "actor_5_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 5,
+      "speaker": "Mateus / Fredinho",
+      "sha256": "1c172bb68d2ecabeecc6434aece8350478fa0d64b87f219eae56000cf78d3fe0",
+      "seconds": 1.949342403628118
+    },
+    {
+      "key": "actor_5_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 5,
+      "speaker": "Mateus / Fredinho",
+      "sha256": "7d8ae1788ac744d81b30857d7601d98ec9c3c7d0917ae32221e0adf012699bc1",
+      "seconds": 2.0126984126984127
+    },
+    {
+      "key": "actor_6_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 6,
+      "speaker": "Henrique",
+      "sha256": "dc3dae19240ff8bab0e163c32a5d1b4b290b16b70fa800b8d19cdd58cdf4a59e",
+      "seconds": 2.2586848072562358
+    },
+    {
+      "key": "actor_6_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 6,
+      "speaker": "Henrique",
+      "sha256": "f7e741c83df53f3e311a4928c1ac3d00613ff6772cdf111a0d3cf510a54e3cc5",
+      "seconds": 2.0253514739229024
+    },
+    {
+      "key": "actor_7_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 7,
+      "speaker": "Lohan",
+      "sha256": "564bc07564c138c80525bb7e7aa88849656e93529aace474c106c3c49cced014",
+      "seconds": 2.3406802721088433
+    },
+    {
+      "key": "actor_7_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 7,
+      "speaker": "Lohan",
+      "sha256": "dbadf0ec7ced4b6aa1bc1a2b721669fe4983073fb2971db6bb3d1620f4022f2e",
+      "seconds": 1.9160090702947845
+    },
+    {
+      "key": "actor_8_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 8,
+      "speaker": "Luiz",
+      "sha256": "eff318d6a53aad9c7fa345722776c69e1a984fa74dc302629603781d00aca003",
+      "seconds": 1.8326984126984127
+    },
+    {
+      "key": "actor_8_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 8,
+      "speaker": "Luiz",
+      "sha256": "a8ebed5db13dd56eff2a1690cb66200c5dd4f7b51c080375396a87c0380a55ab",
+      "seconds": 1.946031746031746
+    },
+    {
+      "key": "actor_9_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 9,
+      "speaker": "Miqueias",
+      "sha256": "0aabe16d35920a021c9c1cab6bca5a08c7cb7283c2d3c4ee311cb762ce3cb1e0",
+      "seconds": 2.001995464852608
+    },
+    {
+      "key": "actor_9_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 9,
+      "speaker": "Miqueias",
+      "sha256": "00e55988694c71fbb7af79e896e9061fd7978c9996aba897126c358499ddfb60",
+      "seconds": 1.8526984126984127
+    },
+    {
+      "key": "actor_10_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 10,
+      "speaker": "Silvio",
+      "sha256": "9d84173e2c447cf65fa91b905559e0333b59190c604396f84292f2fb52d6bfe5",
+      "seconds": 2.32
+    },
+    {
+      "key": "actor_10_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 10,
+      "speaker": "Silvio",
+      "sha256": "c56730f7cee6de084d1cd62c28252ee7bca0ff94670aef57284bdfa67277460c",
+      "seconds": 2.148027210884354
+    },
+    {
+      "key": "actor_11_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 11,
+      "speaker": "Diogo / Diego",
+      "sha256": "45756345ec685d4497c22da9367df00536793314f90181506a06b10a52acfc48",
+      "seconds": 2.26734693877551
+    },
+    {
+      "key": "actor_11_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 11,
+      "speaker": "Diogo / Diego",
+      "sha256": "e8d0fb508fc563ca0cf7e6392ebf405947b130661c975efb53cc090fd2d679f6",
+      "seconds": 2.0026757369614514
+    },
+    {
+      "key": "actor_12_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 12,
+      "speaker": "Talia",
+      "sha256": "601a5e81cf8944110e97ae9d2847fddcc47020b0805599b69803e282bf0a0b17",
+      "seconds": 2.2419954648526077
+    },
+    {
+      "key": "actor_12_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 12,
+      "speaker": "Talia",
+      "sha256": "9569c2017c2336791a21aedd1662c46f7ee28213098dcf9489d1e41efbf9c95d",
+      "seconds": 1.8
+    },
+    {
+      "key": "actor_13_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 13,
+      "speaker": "Gabriel",
+      "sha256": "e4b1eefc372b0a362edbc084030da5fe499001435da1dc5b6d54d334260ffdd0",
+      "seconds": 1.9380045351473922
+    },
+    {
+      "key": "actor_13_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 13,
+      "speaker": "Gabriel",
+      "sha256": "66b5a37af5bb982a6613c51f1f183e008950bfba818b5017264ca61023f30362",
+      "seconds": 1.8
+    },
+    {
+      "key": "actor_14_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 14,
+      "speaker": "Dudu",
+      "sha256": "db285e6831ebd176ee6c83e897898311f0b1e39ae2ceabcbe988f68ab720e32a",
+      "seconds": 1.895328798185941
+    },
+    {
+      "key": "actor_14_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 14,
+      "speaker": "Dudu",
+      "sha256": "6c14d4ddf657fa2d12ffb95cb4cd8026e3f961976568034d7fe27b714fb1bd85",
+      "seconds": 1.9560090702947845
+    },
+    {
+      "key": "actor_15_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 15,
+      "speaker": "Gabriel - visual 2",
+      "sha256": "28c0ff03ae5adcd845c8774e526e58f71c824cc39e476e81dfe88eada81fde85",
+      "seconds": 2.024671201814059
+    },
+    {
+      "key": "actor_15_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 15,
+      "speaker": "Gabriel - visual 2",
+      "sha256": "5efe7a5a81cab37d1f7e2215c253eec9897f9d5aeaabf692af4f783b9e93dc68",
+      "seconds": 2.0840362811791384
+    },
+    {
+      "key": "actor_16_hurt",
+      "text": "Ai! Preciso tomar cuidado.",
+      "avatar": 16,
+      "speaker": "Lula",
+      "sha256": "32799ee2a60f6aed82da7394d1872d0cb6442a5976b4ad51caed750df3db85ae",
+      "seconds": 2.3253061224489797
+    },
+    {
+      "key": "actor_16_ready",
+      "text": "Tudo certo. Vamos nessa!",
+      "avatar": 16,
+      "speaker": "Lula",
+      "sha256": "95db609c80df7434298731ce651a2af298572a854176e15469c344eb576b77d0",
+      "seconds": 2.144625850340136
+    },
+    {
+      "key": "job0",
+      "text": "Passageiro esperando. Siga o GPS até o embarque.",
+      "avatar": 1,
+      "speaker": "Central de transporte",
+      "sha256": "a512c5d78fbf998cfe723373dab5b7d168ab2fdca02645a4fe76e422a16655a5",
+      "seconds": 3.758639455782313
+    },
+    {
+      "key": "job1",
+      "text": "Pedido confirmado. Retire a comida e leve até o cliente.",
+      "avatar": 1,
+      "speaker": "Central de entregas",
+      "sha256": "1855672e3e91ac97215d8c49f2773f1af43332609af357f6f9150f6f73a50d7b",
+      "seconds": 4.2
+    },
+    {
+      "key": "job2",
+      "text": "Ocorrência recebida. Siga até o ponto indicado.",
+      "avatar": 1,
+      "speaker": "Central da polícia",
+      "sha256": "56d6d638ab89ea4e974593148e68f5816b0fbb31baff4fb34fd8ef7d66d87cd5",
+      "seconds": 3.503310657596372
+    },
+    {
+      "key": "job3",
+      "text": "Incêndio comunicado. Precisamos de você no local.",
+      "avatar": 1,
+      "speaker": "Central dos bombeiros",
+      "sha256": "41b76fbffe19124e3c578784b8f445f145b66b9d25a83e56730659f0ef6bd56f",
+      "seconds": 3.782675736961451
+    },
+    {
+      "key": "job4",
+      "text": "Paciente aguardando atendimento. Siga a rota.",
+      "avatar": 1,
+      "speaker": "Central de ambulâncias",
+      "sha256": "dbd2a98e3c18b269e98589019d56cc90f8b78fae2f9ea98e7695cd835eba2471",
+      "seconds": 3.378639455782313
+    },
+    {
+      "key": "complete",
+      "text": "Atendimento concluído. Bom trabalho!",
+      "avatar": 0,
+      "speaker": "Central",
+      "sha256": "27a98799af57ce850fd0c01d0238640d5f69ee7fb03fe490c01e92089ce9615b",
+      "seconds": 2.578004535147392
+    },
+    {
+      "key": "police",
+      "text": "Polícia! Pare o veículo e mantenha a calma.",
+      "avatar": 0,
+      "speaker": "Policial",
+      "sha256": "807c2535e060756c8048f5b9edcfac82cd11060ef6d40ad89cdc92dba7ed30ee",
+      "seconds": 2.938684807256236
+    },
+    {
+      "key": "civil0",
+      "text": "Bom dia! Está tudo bem por aqui?",
+      "avatar": 0,
+      "speaker": "Pedestre",
+      "sha256": "b9c7ce756cc1225728b14a099a8dd208a56d3c56e02a87420906366aabb52567",
+      "seconds": 2.3446712018140587
+    },
+    {
+      "key": "civil1",
+      "text": "Vamos conversar ali na praça.",
+      "avatar": 0,
+      "speaker": "Pedestre",
+      "sha256": "e0c8e70b8cc5ebf788ad01e0696e29d243682ecdd0dcb94df5263ab458db1daa",
+      "seconds": 2.194013605442177
+    },
+    {
+      "key": "panic",
+      "text": "Cuidado! Saiam de perto!",
+      "avatar": 0,
+      "speaker": "Pedestre",
+      "sha256": "fdc2b3e4c219c0ccd97997521d3a2aa233984483712222e178803d9bd2ba9aa8",
+      "seconds": 1.9066666666666667
+    }
+  ],
+  "effects": [
+    {
+      "key": "Navigate",
+      "source": "assets-baixados/08-interface/ui-kenney/conteudo/Sounds/click-a.ogg",
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "sha256": "c5faa31bbf4a921332cdc9e7d7f7d930ca73fc8cc96e35ccc70ed2de975b26e5"
+    },
+    {
+      "key": "Confirm",
+      "source": "assets-baixados/08-interface/ui-kenney/conteudo/Sounds/switch-a.ogg",
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "sha256": "1a4c90fed704b4f4b36d58f481117cfac5cdc25279a9af97d4765b71ff21ed48"
+    },
+    {
+      "key": "Door",
+      "source": "assets-baixados/10-audio/ficcao-cientifica-kenney/conteudo/Audio/doorOpen_000.ogg",
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "sha256": "5b7e07eccd4413ad9ef3720c2d14f9cc699f4c50111e9b2f48bd60e6f1a164c3"
+    },
+    {
+      "key": "Crash",
+      "source": "assets-baixados/10-audio/ficcao-cientifica-kenney/conteudo/Audio/impactMetal_000.ogg",
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "sha256": "956c6612a256aa1a67a2327fffe2454f6b1d82e4c1c2be28fd66916335d5b1d6"
+    },
+    {
+      "key": "Pickup",
+      "source": "assets-baixados/10-audio/interface-kenney/conteudo/Audio/confirmation_001.ogg",
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "sha256": "063564703b6094d70718a3e787a55cc9141611e4ecd6b6637f8828f79b4a8c3a"
+    },
+    {
+      "key": "Engine",
+      "source": "assets-baixados/10-audio/ficcao-cientifica-kenney/conteudo/Audio/engineCircular_000.ogg",
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "sha256": "8ab85f9fa85e9e692287f98acb36b9ac3ba15313b007c039055e286b736f4e3a"
+    },
+    {
+      "key": "Error",
+      "source": "assets-baixados/10-audio/interface-kenney/conteudo/Audio/error_001.ogg",
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "sha256": "46e67425d16339772e8d328fb36a49426c9467418686e11beeb71ff84b0f6433"
+    },
+    {
+      "key": "Equip",
+      "source": "assets-baixados/08-interface/ui-kenney/conteudo/Sounds/switch-b.ogg",
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "sha256": "f2ed0b3b5ad7662f0900d3ca5db81f314af6bf4583802874d308656ba31de1ad"
+    },
+    {
+      "key": "Rain",
+      "source": "Generated offline for this project",
+      "author": "NullStack project",
+      "sha256": "3be1a8d8f141b5c44bb8f9b8f836262a962785457b5ea2a816645696f51fd497"
+    },
+    {
+      "key": "Water",
+      "source": "Generated offline for this project",
+      "author": "NullStack project",
+      "sha256": "079997e5d99e13fc933aa147d0bfa129991b3d145a139ab97de5621dd9c771ee"
+    },
+    {
+      "key": "Splash",
+      "source": "Generated offline for this project",
+      "author": "NullStack project",
+      "sha256": "25376d36bcabdf16a869e2ce5dc0783fdc9e5ff7121cd63ffbd4495ae0a1a6cf"
+    }
+  ],
+  "voiceModel": "Kokoro v1.0 / kokoro-onnx 0.6.1",
+  "modelSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+  "fictionalVoices": true
+}
