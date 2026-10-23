@@ -1,0 +1,40 @@
+{
+  "Assets": {
+    "passed": true,
+    "checks": 323,
+    "report": "Assets/assets-validation.json"
+  },
+  "Cidade": {
+    "passed": true,
+    "checks": 38,
+    "report": "Cidade/city-life.json"
+  },
+  "Arcade": {
+    "passed": true,
+    "checks": 45,
+    "report": "Arcade/arcade.json"
+  },
+  "Historias": {
+    "passed": true,
+    "checks": 127,
+    "report": "Historias/character-stories.json"
+  },
+  "Campanha": {
+    "passed": true,
+    "checks": null,
+    "report": "Campanha/story-validation.json"
+  },
+  "Vozes": {
+    "passed": true,
+    "checks": 406,
+    "report": "Vozes/conversas-chat.json"
+  },
+  "Regressao": {
+    "finishedAt": "2026-10-23T00:57:35.7750682-03:00",
+    "passed": true
+  },
+  "profileRestored": true,
+  "version": "1.18.0",
+  "protocol": "nullstack-room-v15",
+  "assetCaptures": 124
+}

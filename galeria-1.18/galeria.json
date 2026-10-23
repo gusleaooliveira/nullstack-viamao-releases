@@ -1,0 +1,1118 @@
+[
+  {
+    "file": "asset-Pickup.png",
+    "title": "Picape",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/car-kit",
+    "license": "CC0",
+    "triangles": 2475
+  },
+  {
+    "file": "asset-Sport.png",
+    "title": "Esportivo",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/car-kit",
+    "license": "CC0",
+    "triangles": 2083
+  },
+  {
+    "file": "asset-Taxi.png",
+    "title": "Táxi",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/car-kit",
+    "license": "CC0",
+    "triangles": 2068
+  },
+  {
+    "file": "asset-Ambulance.png",
+    "title": "Ambulância",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/car-kit",
+    "license": "CC0",
+    "triangles": 2740
+  },
+  {
+    "file": "asset-Firetruck.png",
+    "title": "Caminhão de bombeiros",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/car-kit",
+    "license": "CC0",
+    "triangles": 2761
+  },
+  {
+    "file": "asset-PoliceCar.png",
+    "title": "Viatura",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/car-kit",
+    "license": "CC0",
+    "triangles": 2296
+  },
+  {
+    "file": "asset-Delivery.png",
+    "title": "Veículo de entrega",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/car-kit",
+    "license": "CC0",
+    "triangles": 2468
+  },
+  {
+    "file": "asset-Supply.png",
+    "title": "Caixa de entrega",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/car-kit",
+    "license": "CC0",
+    "triangles": 124
+  },
+  {
+    "file": "asset-Motorbike.png",
+    "title": "Moto",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-police-street-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 116
+  },
+  {
+    "file": "asset-Scooter.png",
+    "title": "Scooter",
+    "category": "Modelos",
+    "author": "Julien Savoie",
+    "source": "https://poly.pizza/m/5FDNl4MP9H3",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 340
+  },
+  {
+    "file": "asset-Dog.png",
+    "title": "Cachorro",
+    "category": "Modelos",
+    "author": "Quaternius",
+    "source": "https://poly.pizza/m/y4wdQpg767",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "triangles": 2030
+  },
+  {
+    "file": "asset-Cat.png",
+    "title": "Gato",
+    "category": "Modelos",
+    "author": "Poly by Google",
+    "source": "https://poly.pizza/m/6dM1J6f6pm9",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 576
+  },
+  {
+    "file": "asset-Pigeon.png",
+    "title": "Pombo",
+    "category": "Modelos",
+    "author": "Quaternius",
+    "source": "https://poly.pizza/m/9NGlBTpDEr",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "triangles": 2264
+  },
+  {
+    "file": "asset-Rat.png",
+    "title": "Rato",
+    "category": "Modelos",
+    "author": "Poly by Google",
+    "source": "https://poly.pizza/m/6hsesZHvcPI",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 748
+  },
+  {
+    "file": "asset-Umbrella.png",
+    "title": "Guarda-chuva",
+    "category": "Modelos",
+    "author": "Poly by Google",
+    "source": "https://poly.pizza/m/4uOho8GeU_w",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 600
+  },
+  {
+    "file": "asset-Plane.png",
+    "title": "Avião",
+    "category": "Modelos",
+    "author": "Akash Rudra",
+    "source": "https://poly.pizza/m/3UtIosDm9u-",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 5416
+  },
+  {
+    "file": "asset-Biplane.png",
+    "title": "Biplano",
+    "category": "Modelos",
+    "author": "Poly by Google",
+    "source": "https://poly.pizza/m/8VysVKMXN2J",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 1672
+  },
+  {
+    "file": "asset-Newspaper.png",
+    "title": "Jornal",
+    "category": "Modelos",
+    "author": "Poly by Google",
+    "source": "https://poly.pizza/m/a6kuHAjWdYP",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 60
+  },
+  {
+    "file": "asset-Cigarette.png",
+    "title": "Cigarro",
+    "category": "Modelos",
+    "author": "Poly by Google",
+    "source": "https://poly.pizza/m/5EpZHvuZplk",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 158
+  },
+  {
+    "file": "asset-Fountain.png",
+    "title": "Fonte",
+    "category": "Modelos",
+    "author": "Poly by Google",
+    "source": "https://poly.pizza/m/4KKY7CmNe_r",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 1123
+  },
+  {
+    "file": "asset-Treadmill.png",
+    "title": "Esteira",
+    "category": "Modelos",
+    "author": "CreativeTrio",
+    "source": "https://poly.pizza/m/9hYy4Zmk67",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "triangles": 216
+  },
+  {
+    "file": "asset-Dumbbell.png",
+    "title": "Halteres",
+    "category": "Modelos",
+    "author": "CreativeTrio",
+    "source": "https://poly.pizza/m/PW9q10xh5g",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "triangles": 492
+  },
+  {
+    "file": "asset-Zombie.png",
+    "title": "Zumbi",
+    "category": "Modelos",
+    "author": "bachosoftdesign",
+    "source": "https://poly.pizza/m/xqEzosAVYX",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 2237
+  },
+  {
+    "file": "asset-Laptop.png",
+    "title": "Laptop",
+    "category": "Modelos",
+    "author": "J-Toastie",
+    "source": "https://poly.pizza/m/UGOWjMUC5U",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 2000
+  },
+  {
+    "file": "asset-Monitor.png",
+    "title": "Monitor",
+    "category": "Modelos",
+    "author": "CreativeTrio",
+    "source": "https://poly.pizza/m/PvSjEbz11k",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "triangles": 76
+  },
+  {
+    "file": "asset-Keyboard.png",
+    "title": "Keyboard",
+    "category": "Modelos",
+    "author": "Poly by Google",
+    "source": "https://poly.pizza/m/3oFfQCSsUmQ",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 1880
+  },
+  {
+    "file": "asset-Book.png",
+    "title": "Livro",
+    "category": "Modelos",
+    "author": "Quaternius",
+    "source": "https://poly.pizza/m/FsCIGEfTEs",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "triangles": 436
+  },
+  {
+    "file": "asset-Wallet.png",
+    "title": "Wallet",
+    "category": "Modelos",
+    "author": "senior design",
+    "source": "https://poly.pizza/m/898ojWnA41a",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 156
+  },
+  {
+    "file": "asset-Statue.png",
+    "title": "Statue",
+    "category": "Modelos",
+    "author": "Quaternius",
+    "source": "https://poly.pizza/m/AK9CmjFnL6",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "triangles": 1809
+  },
+  {
+    "file": "asset-Pool.png",
+    "title": "Piscina",
+    "category": "Modelos",
+    "author": "Poly by Google",
+    "source": "https://poly.pizza/m/fZTY7mCI_lv",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 1426
+  },
+  {
+    "file": "asset-Gym.png",
+    "title": "Barra e pesos",
+    "category": "Modelos",
+    "author": "J-Toastie",
+    "source": "https://poly.pizza/m/S3myL1W9d7",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 3500
+  },
+  {
+    "file": "asset-Slime.png",
+    "title": "Gelatina",
+    "category": "Modelos",
+    "author": "Quaternius",
+    "source": "https://poly.pizza/m/LyjSUKHKnh",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "triangles": 1520
+  },
+  {
+    "file": "asset-ClothesRack.png",
+    "title": "Roupas e armário",
+    "category": "Modelos",
+    "author": "Poly by Google",
+    "source": "https://poly.pizza/m/0R3kFJC3CKc",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 3780
+  },
+  {
+    "file": "asset-Pistol.png",
+    "title": "Pistola",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "license": "CC0",
+    "triangles": 464
+  },
+  {
+    "file": "asset-SMG.png",
+    "title": "Submetralhadora",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "license": "CC0",
+    "triangles": 574
+  },
+  {
+    "file": "asset-Shotgun.png",
+    "title": "Escopeta",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "license": "CC0",
+    "triangles": 408
+  },
+  {
+    "file": "asset-Rifle.png",
+    "title": "Rifle",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "license": "CC0",
+    "triangles": 524
+  },
+  {
+    "file": "asset-Crate.png",
+    "title": "Crate",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "license": "CC0",
+    "triangles": 628
+  },
+  {
+    "file": "asset-Bullet.png",
+    "title": "Bullet",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "license": "CC0",
+    "triangles": 44
+  },
+  {
+    "file": "asset-Burger.png",
+    "title": "Lanche",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0",
+    "triangles": 148
+  },
+  {
+    "file": "asset-Fries.png",
+    "title": "Batatas",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0",
+    "triangles": 300
+  },
+  {
+    "file": "asset-Cup.png",
+    "title": "Café",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0",
+    "triangles": 104
+  },
+  {
+    "file": "asset-Bag.png",
+    "title": "Sacola",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0",
+    "triangles": 44
+  },
+  {
+    "file": "asset-Knife.png",
+    "title": "Faca",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0",
+    "triangles": 39
+  },
+  {
+    "file": "asset-Bread.png",
+    "title": "Bread",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0",
+    "triangles": 116
+  },
+  {
+    "file": "asset-Bottle.png",
+    "title": "Bottle",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0",
+    "triangles": 96
+  },
+  {
+    "file": "asset-Church.png",
+    "title": "Igreja",
+    "category": "Modelos",
+    "author": "Poly by Google",
+    "source": "https://poly.pizza/m/6vzTphxL9w4",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 1363
+  },
+  {
+    "file": "asset-Tree.png",
+    "title": "Árvore",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/city-kit-suburban",
+    "license": "CC0",
+    "triangles": 42
+  },
+  {
+    "file": "asset-TreeSmall.png",
+    "title": "Árvore pequena",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/city-kit-suburban",
+    "license": "CC0",
+    "triangles": 42
+  },
+  {
+    "file": "asset-WaterTower.png",
+    "title": "Caixa-d’água",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "license": "CC0",
+    "triangles": 968
+  },
+  {
+    "file": "asset-Building.png",
+    "title": "Prédio",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/city-kit-commercial",
+    "license": "CC0",
+    "triangles": 1026
+  },
+  {
+    "file": "asset-Clinic.png",
+    "title": "Posto de saúde",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/city-kit-commercial",
+    "license": "CC0",
+    "triangles": 1174
+  },
+  {
+    "file": "asset-Hall.png",
+    "title": "Prefeitura",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/city-kit-commercial",
+    "license": "CC0",
+    "triangles": 1387
+  },
+  {
+    "file": "asset-Pavilion.png",
+    "title": "Pavilhão",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://kenney.nl/assets/city-kit-suburban",
+    "license": "CC0",
+    "triangles": 1605
+  },
+  {
+    "file": "asset-Phone.png",
+    "title": "Celular",
+    "category": "Modelos",
+    "author": "smallbigsquare",
+    "source": "https://poly.pizza/m/4DRZmTs3jq",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "triangles": 182
+  },
+  {
+    "file": "asset-Backpack.png",
+    "title": "Mochila",
+    "category": "Modelos",
+    "author": "Quaternius",
+    "source": "https://poly.pizza/m/vF7TuXCPDH",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "triangles": 3874
+  },
+  {
+    "file": "asset-Battery.png",
+    "title": "Battery",
+    "category": "Modelos",
+    "author": "Bruno Oliveira",
+    "source": "https://poly.pizza/m/9gnjbN0VUUn",
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "triangles": 362
+  },
+  {
+    "file": "asset-Key.png",
+    "title": "Key",
+    "category": "Modelos",
+    "author": "Quaternius",
+    "source": "https://poly.pizza/m/EDvCEBvs8k",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "triangles": 177
+  },
+  {
+    "file": "asset-Bench.png",
+    "title": "Banco",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-city-street-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 48
+  },
+  {
+    "file": "asset-Lamp.png",
+    "title": "Poste",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-city-street-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 92
+  },
+  {
+    "file": "asset-Bin.png",
+    "title": "Lixeira",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-city-street-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 72
+  },
+  {
+    "file": "asset-Kiosk.png",
+    "title": "Quiosque",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-city-street-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 60
+  },
+  {
+    "file": "asset-BusStop.png",
+    "title": "Parada de ônibus",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-city-street-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 72
+  },
+  {
+    "file": "asset-Barrier.png",
+    "title": "Barrier",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-city-street-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 148
+  },
+  {
+    "file": "asset-Cone.png",
+    "title": "Cone",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-city-street-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 84
+  },
+  {
+    "file": "asset-Hydrant.png",
+    "title": "Hydrant",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-city-street-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 140
+  },
+  {
+    "file": "asset-Planter.png",
+    "title": "Planter",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-city-street-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 84
+  },
+  {
+    "file": "asset-Chair.png",
+    "title": "Chair",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/The-Office-Pack-UGIy7YcQP9",
+    "license": "Misto: CC0 e CC-BY. Preservar os creditos individuais incluidos no pacote.",
+    "triangles": 2008
+  },
+  {
+    "file": "asset-Desk.png",
+    "title": "Desk",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/The-Office-Pack-UGIy7YcQP9",
+    "license": "Misto: CC0 e CC-BY. Preservar os creditos individuais incluidos no pacote.",
+    "triangles": 1752
+  },
+  {
+    "file": "asset-Sofa.png",
+    "title": "Sofa",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/The-Office-Pack-UGIy7YcQP9",
+    "license": "Misto: CC0 e CC-BY. Preservar os creditos individuais incluidos no pacote.",
+    "triangles": 844
+  },
+  {
+    "file": "asset-Bookcase.png",
+    "title": "Bookcase",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/The-Office-Pack-UGIy7YcQP9",
+    "license": "Misto: CC0 e CC-BY. Preservar os creditos individuais incluidos no pacote.",
+    "triangles": 430
+  },
+  {
+    "file": "asset-Plant.png",
+    "title": "Plant",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/The-Office-Pack-UGIy7YcQP9",
+    "license": "Misto: CC0 e CC-BY. Preservar os creditos individuais incluidos no pacote.",
+    "triangles": 324
+  },
+  {
+    "file": "asset-Mouse.png",
+    "title": "Mouse",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/The-Office-Pack-UGIy7YcQP9",
+    "license": "Misto: CC0 e CC-BY. Preservar os creditos individuais incluidos no pacote.",
+    "triangles": 92
+  },
+  {
+    "file": "asset-Mousepad.png",
+    "title": "Mousepad",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/The-Office-Pack-UGIy7YcQP9",
+    "license": "Misto: CC0 e CC-BY. Preservar os creditos individuais incluidos no pacote.",
+    "triangles": 92
+  },
+  {
+    "file": "asset-Poster.png",
+    "title": "Poster",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/The-Office-Pack-UGIy7YcQP9",
+    "license": "Misto: CC0 e CC-BY. Preservar os creditos individuais incluidos no pacote.",
+    "triangles": 648
+  },
+  {
+    "file": "asset-Notes.png",
+    "title": "Notes",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/The-Office-Pack-UGIy7YcQP9",
+    "license": "Misto: CC0 e CC-BY. Preservar os creditos individuais incluidos no pacote.",
+    "triangles": 24
+  },
+  {
+    "file": "asset-Curtain.png",
+    "title": "Curtain",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/The-Office-Pack-UGIy7YcQP9",
+    "license": "Misto: CC0 e CC-BY. Preservar os creditos individuais incluidos no pacote.",
+    "triangles": 160
+  },
+  {
+    "file": "asset-FileCabinet.png",
+    "title": "FileCabinet",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/The-Office-Pack-UGIy7YcQP9",
+    "license": "Misto: CC0 e CC-BY. Preservar os creditos individuais incluidos no pacote.",
+    "triangles": 652
+  },
+  {
+    "file": "asset-Table.png",
+    "title": "Table",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/The-Office-Pack-UGIy7YcQP9",
+    "license": "Misto: CC0 e CC-BY. Preservar os creditos individuais incluidos no pacote.",
+    "triangles": 298
+  },
+  {
+    "file": "asset-LampCeiling.png",
+    "title": "LampCeiling",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/The-Office-Pack-UGIy7YcQP9",
+    "license": "Misto: CC0 e CC-BY. Preservar os creditos individuais incluidos no pacote.",
+    "triangles": 196
+  },
+  {
+    "file": "asset-CafeChair.png",
+    "title": "CafeChair",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-bakery-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 104
+  },
+  {
+    "file": "asset-CafeTable.png",
+    "title": "CafeTable",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-bakery-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 100
+  },
+  {
+    "file": "asset-Counter.png",
+    "title": "Counter",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-bakery-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 60
+  },
+  {
+    "file": "asset-CoffeeMachine.png",
+    "title": "CoffeeMachine",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-bakery-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 92
+  },
+  {
+    "file": "asset-Menu.png",
+    "title": "Menu",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-bakery-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 48
+  },
+  {
+    "file": "asset-Parasol.png",
+    "title": "Parasol",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-bakery-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 62
+  },
+  {
+    "file": "asset-Medkit.png",
+    "title": "Kit médico",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-hospital-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 48
+  },
+  {
+    "file": "asset-Gurney.png",
+    "title": "Maca",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-hospital-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 172
+  },
+  {
+    "file": "asset-HospitalBed.png",
+    "title": "Cama hospitalar",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-hospital-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 164
+  },
+  {
+    "file": "asset-Reception.png",
+    "title": "Recepção",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-hospital-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 48
+  },
+  {
+    "file": "asset-Server.png",
+    "title": "Server",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-sci-fi-lab-robots-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 204
+  },
+  {
+    "file": "asset-Console.png",
+    "title": "Console",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-sci-fi-lab-robots-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 96
+  },
+  {
+    "file": "asset-Workbench.png",
+    "title": "Workbench",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-sci-fi-lab-robots-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 72
+  },
+  {
+    "file": "asset-Power.png",
+    "title": "Power",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-sci-fi-lab-robots-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 300
+  },
+  {
+    "file": "asset-Gate.png",
+    "title": "Gate",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-sci-fi-lab-robots-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 82
+  },
+  {
+    "file": "asset-Radio.png",
+    "title": "Radio",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-sci-fi-lab-robots-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 104
+  },
+  {
+    "file": "asset-Document.png",
+    "title": "Document",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://reodesuxz.itch.io/low-poly-sci-fi-lab-robots-pack",
+    "license": "Uso pessoal e comercial permitido; sem atribuicao obrigatoria; nao revender nem redistribuir os arquivos independentes.",
+    "triangles": 48
+  },
+  {
+    "file": "asset-Vest.png",
+    "title": "Colete tático",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/Ultimate-Modular-Men-Pack-ZiH8muWqwQ",
+    "license": "CC0; Quaternius",
+    "triangles": 176
+  },
+  {
+    "file": "asset-Officer.png",
+    "title": "Policial",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/Ultimate-Modular-Men-Pack-ZiH8muWqwQ",
+    "license": "CC0; Quaternius",
+    "triangles": 5027
+  },
+  {
+    "file": "asset-Citizen.png",
+    "title": "Civil",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/Ultimate-Modular-Men-Pack-ZiH8muWqwQ",
+    "license": "CC0; Quaternius",
+    "triangles": 5009
+  },
+  {
+    "file": "asset-Fighter.png",
+    "title": "Lutador",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/Ultimate-Modular-Men-Pack-ZiH8muWqwQ",
+    "license": "CC0; Quaternius",
+    "triangles": 5006
+  },
+  {
+    "file": "asset-Worker.png",
+    "title": "Worker",
+    "category": "Modelos",
+    "author": "Autores e licença no catálogo",
+    "source": "https://poly.pizza/bundle/Ultimate-Modular-Men-Pack-ZiH8muWqwQ",
+    "license": "CC0; Quaternius",
+    "triangles": 5003
+  },
+  {
+    "file": "hud-arma-colete-procurado.png",
+    "title": "hud arma colete procurado",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "servico-0.png",
+    "title": "servico 0",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "servico-1.png",
+    "title": "servico 1",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "servico-2.png",
+    "title": "servico 2",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "servico-3.png",
+    "title": "servico 3",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "servico-4.png",
+    "title": "servico 4",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "efeito-fire.png",
+    "title": "efeito fire",
+    "category": "Efeitos",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "efeito-smoke.png",
+    "title": "efeito smoke",
+    "category": "Efeitos",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "efeito-rain.png",
+    "title": "efeito rain",
+    "category": "Efeitos",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "efeito-explosion.png",
+    "title": "efeito explosion",
+    "category": "Efeitos",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "efeito-muzzle.png",
+    "title": "efeito muzzle",
+    "category": "Efeitos",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "efeito-impact.png",
+    "title": "efeito impact",
+    "category": "Efeitos",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "animal-Dog.png",
+    "title": "animal Dog",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "animal-Cat.png",
+    "title": "animal Cat",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "animal-Pigeon.png",
+    "title": "animal Pigeon",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "animal-Rat.png",
+    "title": "animal Rat",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "cidade-hospital.png",
+    "title": "cidade hospital",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "cidade-gym.png",
+    "title": "cidade gym",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "cidade-pool.png",
+    "title": "cidade pool",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "cidade-food.png",
+    "title": "cidade food",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "cidade-vest.png",
+    "title": "cidade vest",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  },
+  {
+    "file": "cidade-weapon.png",
+    "title": "cidade weapon",
+    "category": "No jogo",
+    "author": "",
+    "source": "",
+    "license": "",
+    "triangles": 0
+  }
+]

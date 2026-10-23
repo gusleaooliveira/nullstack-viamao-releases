@@ -1,0 +1,14 @@
+{
+  "name": "smoke-kenney",
+  "folder": "11-renovacao-118/smoke-kenney",
+  "source": "https://kenney.nl/assets/smoke-particles",
+  "kenney": true,
+  "license": "CC0",
+  "status": "ok",
+  "downloaded_at": "2026-10-23T02:48:50.794897+00:00",
+  "archive_bytes": 6019666,
+  "sha256": "97a1d09c66e4fd6c247c8ea87f84c0cc59caaeceae19414c995afb1616a1e1c9",
+  "files": 80,
+  "model_files": 0,
+  "crc": "ok"
+}

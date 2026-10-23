@@ -1,0 +1,14 @@
+{
+  "name": "Particle Pack",
+  "folder": "09-efeitos/particulas-kenney",
+  "source": "https://kenney.nl/assets/particle-pack",
+  "kenney": true,
+  "license": "CC0",
+  "status": "ok",
+  "downloaded_at": "2026-10-21T13:35:46.775082+00:00",
+  "archive_bytes": 15001764,
+  "sha256": "b631d4b07f7002549fdcf155f01141ad482f79f3440e4e301eed49ce5f1d8958",
+  "files": 195,
+  "model_files": 0,
+  "crc": "ok"
+}

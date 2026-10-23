@@ -1,5 +1,5 @@
-# NullStack 1.17.0 — Zumbi, Beat em up e garagem
+# NullStack 1.18.0 — Assets, efeitos e animais
 
-[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Windows](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.17.0-cidade-servicos)
+[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Windows](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.18.0-assets-animais) · [Galeria: 124 fotos](galeria-1.18/)
 
-Escolha seu personagem e jogue Sobrevivência Zumbi ou Beat ’em up no menu. F4 abre os cinco novos serviços, com polícia, pedestres reativos, roubo de veículos, piscina, academia, itens escondidos e 30 pichações. Leia CIDADE_1_17.md. Quatro armas, seis novos veículos (dois carros, duas motos e dois aviões) e três missões de percurso em F3 no modo livre. Os novos desafios são solo e preservam os saves das 78 fases da história. Use Windows e web 1.17.0 para jogar juntos no modo livre. Leia MODOS_1_16.md para controles, regras e limites.
+102 modelos e adaptações importados com licenças preservadas, partículas de clima/fumaça/fogo/explosões/tiros/impactos, sirenes, HUD de arma/colete/procura e GPS dos serviços. Cães, gatos, pombos e ratos povoam a cidade. Malhas e mapa otimizados, mantendo as 78 fases, cinco serviços, Zumbi e Beat ’em up. Leia [ASSETS_1_18.md](ASSETS_1_18.md) para fontes, controles e limites. Windows e web 1.18.0 usam o protocolo nullstack-room-v15 e jogam juntos no modo livre.

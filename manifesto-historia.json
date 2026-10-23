@@ -1,6 +1,6 @@
 {
-  "version": "1.17.0",
-  "release": "v1.17.0-cidade-servicos",
+  "version": "1.18.0",
+  "release": "v1.18.0-assets-animais",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -19,15 +19,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 109343791,
-      "sha256": "989b2789a92c14b53ed3f7f1c5c913c6ac3e23ffeb60b20a605fc4fd81010d22"
+      "bytes": 112222581,
+      "sha256": "039cb23faa40822828a0128ab9d2de31ce012f6c78779cec65a32d55c37a7c2a"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 92487836,
-      "sha256": "b9cae44544bd0cdb77239c631fa406fa83f5c0729c7e117f58a4dc8b70358450"
+      "bytes": 94886059,
+      "sha256": "217308b2053d3e1799e26dd97e088a5d45b7ed9218673af6b2972e072c96578e"
     }
   ],
-  "webRevision": "7c3ba483f4a4"
+  "webRevision": "d1de1212d599"
 }
