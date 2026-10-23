@@ -1,0 +1,13 @@
+{
+    "schema": 1,
+    "news": [
+        {
+            "id": "release-1_22_0",
+            "kind": "news",
+            "title": "1.22 · Rádio, missões na cidade e novos trabalhos",
+            "body": "A Rádio Cria toca as trilhas Suno do projeto pelo celular, com faixas selecionáveis e volume próprio de música. Players oficiais de rádios reais também estão disponíveis.\n\nA história começa nos círculos dourados espalhados pela cidade. Cada fase concluída devolve o jogador à cidade; a próxima missão fica disponível em seu contato, preservando os checkpoints.\n\nNovos trabalhos: caminhoneiro, motorista de ônibus, fazendinha, mercado, mecânico e construção de casa por etapas, com GPS e pagamento ao concluir.\n\nClaude e Carl Johnson (CJ) chegam como recriações estilizadas originais, com corpo e mãos animados. Integra 42 novas animações CC0 do Quaternius.\n\nWindows e web seguem compatíveis entre si nesta versão. Teclado, mouse e controles Xbox/PlayStation continuam disponíveis. Atualizações futuras entram automaticamente nas notícias; sua leitura fica salva por versão.",
+            "updatedAt": 1792768957172
+        }
+    ],
+    "billboards": []
+}

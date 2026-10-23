@@ -1,44 +1,31 @@
-# Igor em Produção 1.7.1 — GPS, objetivos concretos e mapa otimizado
+# Rádio, missões na cidade e trabalhos — 1.22.0
 
-A versão 1.7.1 mantém objetivo e vida em destaque. O minimapa aparece durante o deslocamento; dicas e barras surgem nas interações. Ao dirigir, o HUD mostra velocidade, freio e saída. Placas grandes próximas da câmera deixam de cobrir a visão.
+Entre em **Jogar sozinho** e procure os círculos dourados da história. Caminhe até um círculo para iniciar a missão liberada. O celular tem **GPS da próxima história**. Ao concluir uma fase, você retorna à cidade; o próximo contato fica disponível, com checkpoints e progresso preservados. As histórias continuam individuais; os trabalhos também podem ser usados nas salas desta versão.
 
-As 13 malhas animadas passaram de 188.533 para 178.418 vértices: 10.115 vértices sem uso removidos (5,4%). Os triângulos visíveis e seus atributos foram preservados, com verificação das posições, normais, UVs e pesos de animação. Os modelos de origem continuam intactos.
+No celular (**P**), abra **Rádio**: 33 faixas editadas das 17 trilhas Suno existentes, seleção de faixa, ligar/desligar e volume em **Áudio e controles → Música**. A trilha da história tem prioridade. Groove Salad e Drone Zone abrem o player oficial da SomaFM no navegador; a transmissão ao vivo é reproduzida por esse player. Feche ou pause o player ao voltar à música local. Não foram geradas músicas novas nesta atualização.
 
-O GPS evita paredes e o contorno jogável, mantém rotas estáveis e calcula desvios locais quando as ruas não se conectam. A rampa da Cria agora alcança o terreno; os objetivos externos também são conferidos contra a colisão final do Blender.
+**F4** abre os trabalhos. Escolha uma atividade, siga o GPS e cumpra as etapas. **E** atende; quando indicado, mantenha E pressionado. Pare completamente os veículos antes de atender. O pagamento ocorre somente na conclusão, e cancelar não paga.
 
-Abra `Jogar-Historia.cmd` na pasta do projeto ou extraia o pacote Windows inteiro e execute `NullStack-Historia.exe`. No navegador, acesse https://gusleaooliveira.github.io/nullstack-viamao-releases/.
+| Trabalho | Etapas |
+|---|---|
+| Caminhoneiro | Carregar, transportar e descarregar a carga |
+| Ônibus | Embarcar, atender duas paradas e desembarcar no terminal |
+| Fazendinha | Preparar canteiros, plantar, regar e colher |
+| Mercado | Buscar caixas, repor, atender o caixa e entregar a compra |
+| Mecânico | Inspecionar, buscar ferramentas, reparar motor, trocar roda e testar |
+| Construção | Buscar materiais, descarregar, construir paredes, instalar cobertura e entregar |
 
-Escolha **Jogar modo história** ou **Continuar história**. As 21 fases principais e os 12 chamados opcionais mantêm 128 objetivos. Todos receberam nomes e instruções concretos: buscar equipamentos, reparar circuitos, transportar peças, abrir acessos e escoltar moradores. A campanha continua automaticamente, com o GPS indicando o próximo local. Entre fases, Igor permanece na cidade; retomar o save e tentar novamente um checkpoint reposicionam o jogador perto do objetivo.
+Continuam os serviços de Uber, iFood, polícia, bombeiros e ambulância. A casa aparece pronta ao concluir a entrega. As tarefas são ciclos curtos de trabalho, com cenários e ferramentas próprios.
 
-## Controles e orientação
+Claude e Carl Johnson (CJ) são **recriações estilizadas originais**, modeladas no Blender para este projeto, sem extrair arquivos dos jogos da Rockstar. Não são os modelos oficiais. Ambos têm esqueleto corporal de 23 ossos e mãos com dedos articulados. O catálogo passa a 19 personagens. As malhas originais têm cerca de 1,3 mil vértices cada, antes das separações de UV na importação.
 
-- WASD anda; Shift corre; Espaço pula; Ctrl agacha.
-- E coleta, chama moradores, conversa e entra/sai do carro. Segure E para operar equipamentos e acompanhe a barra de progresso.
-- Q equipa a arma; clique esquerdo dispara; F dá socos; botão direito mira e examina equipamentos.
-- Esc/F2 abre a campanha e os chamados; M abre o mapa completo; F3 mostra o desempenho.
-- O GPS desenha uma rota azul nas ruas e no minimapa. O marcador laranja indica o destino. Dentro de prédios, a indicação leva até a porta apropriada. Em missões de direção, primeiro indica o carro e depois o destino.
+Integra 42 animações adicionais do **Quaternius Universal Animation Library 2 Standard**, sob CC0, totalizando 84 clipes compartilhados e compactados. Plantio, rega, colheita, transporte de objetos, reparos e um novo gesto usam esse sistema. Os cenários, ferramentas, caminhão e etapas da casa foram produzidos no Blender, com atlas compartilhado e atualizações visuais limitadas a 10 Hz. As músicas usam referências compartilhadas e liberam o áudio sem uso.
 
-Nos diálogos, o retrato, o nome e a indicação “fala com” mostram **quem fala e para quem**. Igor aparece à direita, identificado como **você**. A fala anterior permanece visível para dar contexto à resposta; o botão informa quem falará em seguida. As conversas são legendadas. Quando a câmera encosta em uma parede, o próprio personagem é ocultado temporariamente para manter a visão livre.
+Cada build gera uma notícia da versão. A publicação distribui `updates.json` e executa `ferramentas-historia/Publicar-Noticias.ps1`, que publica e verifica a notícia na API existente, alcançando também jogadores de versões anteriores que consultam essa API. Publicar novamente o mesmo texto não altera sua data nem gera um novo aviso. A leitura fica salva localmente. Quem está offline recebe as novidades disponíveis ao voltar a se conectar.
 
-Robôs vermelhos são ameaças. Equipamentos de manutenção têm telas azuis. Após operar um equipamento, ele fica verde e permanece no local durante a missão. Nas defesas, robôs próximos do terminal interrompem o progresso: elimine a ameaça e permaneça na área. Chefes só recebem dano após desligar os dois quadros de proteção.
+Windows e web usam o protocolo `nullstack-room-v15` e o mesmo catálogo desta versão. Versões com catálogos diferentes devem ser atualizadas para jogar juntas. Teclado, mouse e controles Xbox/PlayStation continuam disponíveis; os testes automatizados de controles usam dispositivos virtuais.
 
-## Desempenho e cores
-
-O exportador agora incorpora as cores das texturas ao mapa do Blender. As fachadas neutras recebem uma paleta mais viva, preservando os detalhes das janelas e dos telhados.
-
-O mapa visual passou de 1.438.907 para aproximadamente 606 mil triângulos. A versão distante usa aproximadamente 133 mil. As copas das árvores passaram de 852.480 para 88.800 triângulos. Esses números medem geometria, não aumento de FPS.
-
-Os setores visuais usam versões próximas/distantes e deixam de ser desenhados fora do alcance configurado. Colisões distantes são desativadas por setor e retornam quando o jogador se aproxima. A colisão do terreno mantém a geometria original. A cena evita duplicar as malhas em lotes estáticos, limita sombras e luzes e reduz pedestres/trânsito simultâneos; personagens fora da área próxima deixam de ser renderizados. No navegador, a densidade de pixels é limitada para evitar renderizar desnecessariamente em resoluções muito altas.
-
-O cenário estático continua em `mapa-blender/NullStack-Viamao.blend`. Personagens, veículos e objetos de missão são criados em execução. Os novos objetos de missão compartilham malhas e material; retratos são armazenados em cache após a primeira renderização.
-
-## Reconstrução
-
-Execute `ferramentas-historia/Construir-Historia.ps1 -Validate -Web` e depois `python ferramentas-historia/empacotar_historia.py`. Use `-RebuildMap` para recriar o mapa a partir da cena de origem, ou `-ExportEditedBlend` para exportar edições do Blender. A exportação de texturas necessita da Unity com dispositivo gráfico; o script abre o editor em segundo plano.
-
-O gerador `campanha_concreta.py` contém a revisão das 33 fases. A validação percorre os 128 objetivos com save isolado. O roteiro original continua preservado em `historia/NullStack_Campanha_Missoes_e_Conversas.md`.
-
-Saves existentes continuam válidos. Windows e navegador mantêm saves separados e o modo história permanece solo. O modo livre online precisa de participantes usando a mesma versão 1.7.1.
+Fontes: [animações Quaternius](https://quaternius.com/packs/universalanimationlibrary2.html), [termos SomaFM](https://somafm.com/contact/tos.html), [Groove Salad](https://somafm.com/groovesalad/), [Drone Zone](https://somafm.com/dronezone/). A procedência das músicas permanece no catálogo `Audio/StoryMusic/catalog.json`.
 
 
-Novidades 1.21.0: leia AUDIO_CONTROLES_1_21.md. Animações: RIGS_1_20.md. Texturas: TEXTURAS_1_19.md. Assets e efeitos anteriores: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Conclua P01 e pause para escolher Histórias dos personagens. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.
+Novidades 1.22.0: leia EXPANSAO_1_22.md. Áudio: AUDIO_CONTROLES_1_21.md. Animações: RIGS_1_20.md. Texturas: TEXTURAS_1_19.md. Assets e efeitos anteriores: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Procure os círculos dourados para iniciar histórias liberadas, ou marque um contato pelo celular. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.

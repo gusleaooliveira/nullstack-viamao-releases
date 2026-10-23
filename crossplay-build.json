@@ -1,7 +1,7 @@
 {
-  "version": "1.21.0",
+  "version": "1.22.0",
   "protocol": "nullstack-room-v15",
   "endpoint": "https://nullstack-viamao-salas.classyray67.chatgpt.site/api/room",
-  "wasmSha256": "3f9588ba7cf9dd9ad5364135cc4ec3fd475406a44461bb46e000cd428f8b3e76",
-  "windowsDownload": "https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.21.0-audio-controles/NullStack-Viamao-Historia.zip"
+  "wasmSha256": "b4c35bdc3bfd9f92bd4fc74c4c7ef80d4cdd3846ea96be64ddf881ed6c609e83",
+  "windowsDownload": "https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.22.0-radio-trabalhos/NullStack-Viamao-Historia.zip"
 }

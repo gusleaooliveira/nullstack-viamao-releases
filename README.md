@@ -1,5 +1,5 @@
-# NullStack 1.21.0 — Áudio, vozes e controles
+# NullStack 1.22.0 — Rádio e trabalhos
 
-[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Windows e pacotes](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.21.0-audio-controles) · [Demonstrações](galeria-1.21/)
+[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Windows](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.22.0-radio-trabalhos) · [Demonstrações](galeria-1.22/)
 
-44 novas falas em português e 11 efeitos. Controles Xbox e PlayStation com menus, teclado na tela e ajustes. Teclado e mouse preservados. [Guia](AUDIO_CONTROLES_1_21.md). Testes com dispositivos virtuais; validação física pendente. Mantém 78 fases, modos Zumbi e Beat em up, cidade viva e protocolo v15.
+Rádio com 33 faixas Suno existentes e players oficiais de emissoras reais. História por círculos dourados na cidade. Trabalhos de caminhão, ônibus, fazendinha, mercado, mecânica e construção. Claude e CJ como recriações estilizadas originais. 84 animações compartilhadas, 19 personagens, 78 fases preservadas. [Guia](EXPANSAO_1_22.md). Windows e web compatíveis nesta versão.

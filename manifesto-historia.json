@@ -1,6 +1,6 @@
 {
-  "version": "1.21.0",
-  "release": "v1.21.0-audio-controles",
+  "version": "1.22.0",
+  "release": "v1.22.0-radio-trabalhos",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -9,9 +9,11 @@
     "beat-em-up"
   ],
   "weapons": 4,
-  "newVehicles": 6,
+  "newVehicles": 8,
   "garageMissions": 3,
-  "cityServices": 5,
+  "cityServices": 11,
+  "characters": 19,
+  "animationClips": 84,
   "graffitiSpots": 30,
   "armorPickups": 8,
   "hiddenWeapons": 8,
@@ -19,15 +21,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 125338170,
-      "sha256": "a159af8ae632c05a49aa48117ffbecd85fb2b44ea60de1dd9ebf052531e21645"
+      "bytes": 125901913,
+      "sha256": "71073b74f22fe2d894915db75a76f63bd1a855352765425040c67e2882506b74"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 112352822,
-      "sha256": "a0f00cc113f867bc7662dba84cb91f5ca5f27cee530dde2320f2f523cc0e3b3d"
+      "bytes": 112904980,
+      "sha256": "1d62f8b0cde963ec9d9ecd53ca89c39e93a12bb08f9e09424b9e70842796f3f0"
     }
   ],
-  "webRevision": "dce0e779e131"
+  "webRevision": "b250d758881f"
 }
