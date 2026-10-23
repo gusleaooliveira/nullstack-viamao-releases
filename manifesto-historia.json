@@ -1,6 +1,6 @@
 {
-  "version": "1.22.0",
-  "release": "v1.22.0-radio-trabalhos",
+  "version": "1.23.0",
+  "release": "v1.23.0-corridas",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -9,7 +9,7 @@
     "beat-em-up"
   ],
   "weapons": 4,
-  "newVehicles": 8,
+  "newVehicles": 14,
   "garageMissions": 3,
   "cityServices": 11,
   "characters": 19,
@@ -21,15 +21,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 125901913,
-      "sha256": "71073b74f22fe2d894915db75a76f63bd1a855352765425040c67e2882506b74"
+      "bytes": 126655432,
+      "sha256": "df6219754b9a14fcefe517de5baac3e9a09cdfa3449a917549550c6190fe2b93"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 112904980,
-      "sha256": "1d62f8b0cde963ec9d9ecd53ca89c39e93a12bb08f9e09424b9e70842796f3f0"
+      "bytes": 114225700,
+      "sha256": "ee7fb8b0cdc626684ce3abcc9a1c1f73517535d2123ddd9eb6c45fbe77f7fc75"
     }
   ],
-  "webRevision": "b250d758881f"
+  "webRevision": "2bb3b06c984b"
 }

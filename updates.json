@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_23_0",
+            "kind": "news",
+            "title": "1.23 · Corridas, encontros e personalização",
+            "body": "Corridas de carro e moto contra bots ou jogadores da sala, com largada e checkpoints validados pelo anfitrião.\n\nBia pede dois reais e persegue principalmente Gustavo: dê R$ 2 ou despiste-a.\n\nPersonalize roupas, acessórios, pintura, aerofólio e motor. Novos carros, sangue com efeitos limitados, mais gestos, chuva melhorada e vento. Modelos e validações estão detalhados no guia da atualização.",
+            "updatedAt": 1792779600000
+        },
+        {
             "id": "release-1_22_0",
             "kind": "news",
             "title": "1.22 · Rádio, missões na cidade e novos trabalhos",

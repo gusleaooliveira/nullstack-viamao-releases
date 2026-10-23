@@ -1,0 +1,146 @@
+{
+  "version": "1.23.0",
+  "sources": [
+    {
+      "key": "cars",
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "page": "https://kenney.nl/assets/car-kit",
+      "original": "materiais-originais/expansao-1.23/cars.zip",
+      "bytes": 4814237,
+      "sha256": "fac7dacac5c7874348cf19729af3ef205f3d366493edaf0a827d93f4fdf3d0c4"
+    },
+    {
+      "key": "claude",
+      "author": "Rockstar/DMA Design; upload edicu2000; contributor //XP//",
+      "license": "GTA source content; not CC0",
+      "page": "https://models.spriters-resource.com/pc_computer/grandtheftauto3/asset/294384/",
+      "original": "materiais-originais/expansao-1.23/claude.zip",
+      "bytes": 130754,
+      "sha256": "48f7d8e5ecd708d54057bb0b2379890b679861c7fec4e17dcc3f02df1cabdebb"
+    },
+    {
+      "key": "jogger",
+      "author": "Rockstar/DMA Design; upload edicu2000; contributor //XP//",
+      "license": "GTA source content; not CC0",
+      "page": "https://models.spriters-resource.com/pc_computer/grandtheftauto3/asset/298197/",
+      "original": "materiais-originais/expansao-1.23/jogger.zip",
+      "bytes": 50735,
+      "sha256": "efc4dc6c17a820260c636dea1626533a3db8c20ce07bde40cc50dc90d3e91570"
+    },
+    {
+      "key": "bluewoman",
+      "author": "Rockstar; upload Common Raccoon",
+      "license": "GTA source content; not CC0",
+      "page": "https://models.spriters-resource.com/pc_computer/grandtheftautosanandreas/asset/334356/",
+      "original": "materiais-originais/expansao-1.23/bluewoman.zip",
+      "bytes": 66441,
+      "sha256": "cedd61dbe6ba230cc4e7f6381b3dde66d7daa3eda80d4f16af3ced41f01eb537"
+    },
+    {
+      "key": "cj",
+      "author": "Rockstar; adapted by Daninnocent",
+      "license": "GTA source content; not CC0; GTAinside download terms authorized by owner",
+      "page": "https://www.gtainside.com/sanandreas/skins/188366-default-cutscene-and-ped-cj-model/",
+      "original": "materiais-originais/expansao-1.23/cj.zip",
+      "bytes": 573632,
+      "sha256": "6bfbb7b1358a5297a7cd3470040049105e8375ae0dda49a851ef87b6db689fba"
+    },
+    {
+      "key": "DragonFF",
+      "author": "Parik27 and contributors",
+      "license": "GPL-3.0+",
+      "page": "https://github.com/Parik27/DragonFF",
+      "commit": "54baca8ea2ed95fe5a86917f44399ce677379c59",
+      "role": "authoring import tool; not linked into the game"
+    }
+  ],
+  "optimization": [
+    {
+      "key": "cj",
+      "before": 1239,
+      "after": 1239,
+      "triangles": 2332,
+      "dimensions": [
+        1.8092360496520996,
+        0.3705490827560425,
+        1.7999999523162842
+      ],
+      "textures": 6
+    },
+    {
+      "key": "claude",
+      "before": 1435,
+      "after": 849,
+      "triangles": 1550,
+      "dimensions": [
+        1.6002867221832275,
+        0.393696665763855,
+        1.7999999523162842
+      ],
+      "textures": 1
+    },
+    {
+      "key": "jogger",
+      "before": 815,
+      "after": 514,
+      "triangles": 892,
+      "dimensions": [
+        1.6404753923416138,
+        0.42415687441825867,
+        1.7999999523162842
+      ],
+      "textures": 1
+    },
+    {
+      "key": "bluewoman",
+      "before": 1211,
+      "after": 588,
+      "triangles": 1142,
+      "dimensions": [
+        1.6718690395355225,
+        0.3093774616718292,
+        1.7999999523162842
+      ],
+      "textures": 1
+    }
+  ],
+  "cars": [
+    {
+      "name": "hatchback-sports",
+      "verticesBefore": 1298,
+      "verticesAfter": 1188,
+      "triangles": 2088
+    },
+    {
+      "name": "sedan",
+      "verticesBefore": 1252,
+      "verticesAfter": 1108,
+      "triangles": 2032
+    },
+    {
+      "name": "suv",
+      "verticesBefore": 1541,
+      "verticesAfter": 1253,
+      "triangles": 2474
+    },
+    {
+      "name": "sedan-sports",
+      "verticesBefore": 1255,
+      "verticesAfter": 1150,
+      "triangles": 2087
+    },
+    {
+      "name": "van",
+      "verticesBefore": 1294,
+      "verticesAfter": 1166,
+      "triangles": 2082
+    },
+    {
+      "name": "kart-oobi",
+      "verticesBefore": 1720,
+      "verticesAfter": 1528,
+      "triangles": 2884
+    }
+  ]
+}
