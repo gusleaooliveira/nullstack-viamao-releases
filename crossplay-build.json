@@ -1,7 +1,7 @@
 {
-  "version": "1.24.0",
+  "version": "1.25.0",
   "protocol": "nullstack-room-v15",
   "endpoint": "https://nullstack-viamao-salas.classyray67.chatgpt.site/api/room",
-  "wasmSha256": "fbf4a390a78b54e0f64a769de08c6296388bd1e9a568a134bc0299b9c4c1e5f4",
-  "windowsDownload": "https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.24.0-armas-mira/NullStack-Viamao-Historia.zip"
+  "wasmSha256": "1cf8d0184ff11ec576e690035454e00c9c0a7d5343229dda6d1a4b71176268fd",
+  "windowsDownload": "https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.25.0-personagens-rigs/NullStack-Viamao-Historia.zip"
 }

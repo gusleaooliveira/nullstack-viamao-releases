@@ -1,16 +1,14 @@
-# Armas e mira — 1.24.0
+# Personagens e esqueletos — 1.25
 
-Seis armas: pistola, submetralhadora, escopeta, rifle longo, revólver e carabina. Os modelos CC0 já integrados do Kenney Blaster Kit são reutilizados; o revólver recebe tambor e cano próprios, e a carabina tem dimensões menores. Não há novo download de assets. Materiais e efeitos são compartilhados.
+As malhas continuam com a mesma forma, texturas e detalhes próximos. A compactação agora também reúne vértices totalmente idênticos: posição, normal, tangente, cores, todos os canais UV e pesos ósseos precisam coincidir. Costuras de textura e articulações diferentes são preservadas. Não há redução aproximada da silhueta.
 
-Mouse: botão direito segura a mira de ombro; esquerdo dispara. A roda ou teclas 1–6 trocam a arma. Q saca/guarda. C muda a distância da câmera. Submetralhadora e carabina disparam continuamente enquanto o botão estiver pressionado; as demais exigem um novo clique. A munição continua ilimitada.
+As cópias de um personagem compartilham a malha preparada. O corpo mantém os 23 ossos e as 84 animações existentes; cada mão mantém palma, cinco dedos e três articulações por dedo. As mãos agora são filhas dos respectivos pulsos, acompanhando o esqueleto mesmo entre atualizações de animação.
 
-Controle: analógico direito aponta, LT/L2 mira, RT/R2 dispara. LB/L1 + direcional esquerda/direita troca entre as seis armas; Y/Triângulo saca/guarda. No veículo, RT/R2 acelera, LT/L2 dá ré e RB/R1 dispara; botão direito do mouse gira a câmera. As indicações usam o modelo de controle escolhido em Áudio e controles.
+Os dedos só recalculam os alvos quando a pegada muda e param de escrever rotações quando estabilizam. Cada vértice da mão usa um único osso, correspondente aos pesos já existentes. Próximo ao jogador, as animações continuam a cada quadro; NPCs a mais de 25 m são amostrados a até 20 Hz e, a mais de 55 m, a até 10 Hz. A simulação, colisões e respostas dos NPCs continuam independentes dessa frequência visual. NPCs ocultos pela distância deixam de animar e renderizar o corpo e as mãos. A lista de renderizadores é completada após a criação do esqueleto, corrigindo a ordem de inicialização que deixava essas malhas fora do controle de visibilidade.
 
-A mira fica centralizada e visível nos modos com armas; o ponto âmbar confirma um acerto validado pelo anfitrião. Ao mirar, a câmera aproxima pelo ombro, reduz o campo de visão e a sensibilidade (mouse 62%, controle 38% da câmera livre). O rifle aproxima mais. Há recuo visual curto e recuperação gradual. Não há travamento automático em alvos.
+Sem novos assets externos. Modelos, licenças e originais anteriores são preservados. A comparação de vértices e os testes de deformação, corpo, mãos, armas e jogabilidade constam em documentacao/validacao/1.25.0. Ganho de FPS depende da cena e do equipamento; contagens de trabalho evitado não equivalem a um percentual de FPS garantido.
 
-Os disparos convergem do personagem para o ponto indicado pela câmera, respeitando paredes e alcance. O anfitrião valida direção, dano e intervalo dos tiros, inclusive de visitantes online. O personagem pode andar e girar durante o disparo. Menus, diálogos, morte e o modo Beat em up bloqueiam a mira/tiros conforme suas regras. Todos precisam usar Windows/web 1.24 na mesma sala.
-
-As configurações de velocidade, zona morta e inversão do controle permanecem em Áudio e controles. As verificações virtuais não equivalem a um teste com controle físico; os resultados efetivos e as capturas ficam em `documentacao/validacao/1.24.0`.
+Referência de skinning e atualização fora da tela: https://docs.unity.com/en-us/engine/6000.0/script-reference/unityengine/skinnedmeshrenderer .
 
 
-Novidades 1.24.0: leia ARMAS_1_24.md. Corridas e personalização: EXPANSAO_1_23.md. Assets e efeitos anteriores: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Entre nos círculos dourados para iniciar histórias liberadas. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.
+Novidades 1.25.0: leia PERSONAGENS_1_25.md. Corridas e personalização: EXPANSAO_1_23.md. Assets e efeitos anteriores: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Entre nos círculos dourados para iniciar histórias liberadas. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.

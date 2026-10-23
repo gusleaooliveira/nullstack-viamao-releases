@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_25_0",
+            "kind": "news",
+            "title": "1.25 — Personagens e esqueletos otimizados",
+            "body": "Malhas compartilhadas e remoção de vértices idênticos preservando texturas, normais e pesos.\n\nMãos ligadas aos pulsos, dedos articulados que param de recalcular quando a pose estabiliza. NPCs distantes atualizam animações com menor frequência; personagens próximos mantêm fluidez.\n\nWindows e navegador compatíveis.",
+            "updatedAt": 1792793958115
+        },
+        {
             "id": "release-1_24_0",
             "kind": "news",
             "title": "1.24 · Armas e mira para mouse e controle",

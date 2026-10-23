@@ -1,6 +1,6 @@
 {
-  "version": "1.24.0",
-  "release": "v1.24.0-armas-mira",
+  "version": "1.25.0",
+  "release": "v1.25.0-personagens-rigs",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -21,15 +21,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 126663549,
-      "sha256": "7ebd1aaa008a18002f968b0c13c243b35851a6cdc268240814c1f4d31e9c633a"
+      "bytes": 126667400,
+      "sha256": "7d874e709c3637d41b012acd9112c92bb1a4e65a7dae88501ec89d452f1129f9"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 114244167,
-      "sha256": "f81eda8e731bbca1f9ec2ca6df5961e290f483da2e22d73c06648324439bc90f"
+      "bytes": 114249006,
+      "sha256": "6cdb785b40ab3e8939bda48f62bceeca66b098531ec553f2a5eb6f2ff42f165c"
     }
   ],
-  "webRevision": "6c720565d002"
+  "webRevision": "21438fcb81f0"
 }
