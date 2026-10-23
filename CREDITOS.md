@@ -1474,3 +1474,6 @@ Conservar tambem os arquivos de licenca originais em conteudo.
 
 Fonte: https://poly.pizza/bundle/Ultimate-Modular-Men-Pack-ZiH8muWqwQ
 Licença: CC0; Quaternius
+
+Animações 1.20: Quaternius, Universal Animation Library Standard, CC0-1.0.
+https://quaternius.itch.io/universal-animation-library

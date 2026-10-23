@@ -1,0 +1,1382 @@
+[
+  {
+    "file": "igor-Idle_Loop.jpg",
+    "character": "igor",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "igor-Walk_Loop.jpg",
+    "character": "igor",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "igor-Sprint_Loop.jpg",
+    "character": "igor",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "igor-Crouch_Idle_Loop.jpg",
+    "character": "igor",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "igor-Driving_Loop.jpg",
+    "character": "igor",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "igor-Swim_Fwd_Loop.jpg",
+    "character": "igor",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "igor-Pistol_Shoot.jpg",
+    "character": "igor",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "igor-Punch_Jab.jpg",
+    "character": "igor",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "igor-Dance_Loop.jpg",
+    "character": "igor",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "igor-Death01.jpg",
+    "character": "igor",
+    "action": "Death01"
+  },
+  {
+    "file": "igor-Jump_Loop.jpg",
+    "character": "igor",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "lucas-Idle_Loop.jpg",
+    "character": "lucas",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "lucas-Walk_Loop.jpg",
+    "character": "lucas",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "lucas-Sprint_Loop.jpg",
+    "character": "lucas",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "lucas-Crouch_Idle_Loop.jpg",
+    "character": "lucas",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "lucas-Driving_Loop.jpg",
+    "character": "lucas",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "lucas-Swim_Fwd_Loop.jpg",
+    "character": "lucas",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "lucas-Pistol_Shoot.jpg",
+    "character": "lucas",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "lucas-Punch_Jab.jpg",
+    "character": "lucas",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "lucas-Dance_Loop.jpg",
+    "character": "lucas",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "lucas-Death01.jpg",
+    "character": "lucas",
+    "action": "Death01"
+  },
+  {
+    "file": "lucas-Jump_Loop.jpg",
+    "character": "lucas",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "matheus_v1-Idle_Loop.jpg",
+    "character": "matheus_v1",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "matheus_v1-Walk_Loop.jpg",
+    "character": "matheus_v1",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "matheus_v1-Sprint_Loop.jpg",
+    "character": "matheus_v1",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "matheus_v1-Crouch_Idle_Loop.jpg",
+    "character": "matheus_v1",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "matheus_v1-Driving_Loop.jpg",
+    "character": "matheus_v1",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "matheus_v1-Swim_Fwd_Loop.jpg",
+    "character": "matheus_v1",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "matheus_v1-Pistol_Shoot.jpg",
+    "character": "matheus_v1",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "matheus_v1-Punch_Jab.jpg",
+    "character": "matheus_v1",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "matheus_v1-Dance_Loop.jpg",
+    "character": "matheus_v1",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "matheus_v1-Death01.jpg",
+    "character": "matheus_v1",
+    "action": "Death01"
+  },
+  {
+    "file": "matheus_v1-Jump_Loop.jpg",
+    "character": "matheus_v1",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "matheus_v2-Idle_Loop.jpg",
+    "character": "matheus_v2",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "matheus_v2-Walk_Loop.jpg",
+    "character": "matheus_v2",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "matheus_v2-Sprint_Loop.jpg",
+    "character": "matheus_v2",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "matheus_v2-Crouch_Idle_Loop.jpg",
+    "character": "matheus_v2",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "matheus_v2-Driving_Loop.jpg",
+    "character": "matheus_v2",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "matheus_v2-Swim_Fwd_Loop.jpg",
+    "character": "matheus_v2",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "matheus_v2-Pistol_Shoot.jpg",
+    "character": "matheus_v2",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "matheus_v2-Punch_Jab.jpg",
+    "character": "matheus_v2",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "matheus_v2-Dance_Loop.jpg",
+    "character": "matheus_v2",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "matheus_v2-Death01.jpg",
+    "character": "matheus_v2",
+    "action": "Death01"
+  },
+  {
+    "file": "matheus_v2-Jump_Loop.jpg",
+    "character": "matheus_v2",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "gustavo-Idle_Loop.jpg",
+    "character": "gustavo",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "gustavo-Walk_Loop.jpg",
+    "character": "gustavo",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "gustavo-Sprint_Loop.jpg",
+    "character": "gustavo",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "gustavo-Crouch_Idle_Loop.jpg",
+    "character": "gustavo",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "gustavo-Driving_Loop.jpg",
+    "character": "gustavo",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "gustavo-Swim_Fwd_Loop.jpg",
+    "character": "gustavo",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "gustavo-Pistol_Shoot.jpg",
+    "character": "gustavo",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "gustavo-Punch_Jab.jpg",
+    "character": "gustavo",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "gustavo-Dance_Loop.jpg",
+    "character": "gustavo",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "gustavo-Death01.jpg",
+    "character": "gustavo",
+    "action": "Death01"
+  },
+  {
+    "file": "gustavo-Jump_Loop.jpg",
+    "character": "gustavo",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "mateus-Idle_Loop.jpg",
+    "character": "mateus",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "mateus-Walk_Loop.jpg",
+    "character": "mateus",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "mateus-Sprint_Loop.jpg",
+    "character": "mateus",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "mateus-Crouch_Idle_Loop.jpg",
+    "character": "mateus",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "mateus-Driving_Loop.jpg",
+    "character": "mateus",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "mateus-Swim_Fwd_Loop.jpg",
+    "character": "mateus",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "mateus-Pistol_Shoot.jpg",
+    "character": "mateus",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "mateus-Punch_Jab.jpg",
+    "character": "mateus",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "mateus-Dance_Loop.jpg",
+    "character": "mateus",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "mateus-Death01.jpg",
+    "character": "mateus",
+    "action": "Death01"
+  },
+  {
+    "file": "mateus-Jump_Loop.jpg",
+    "character": "mateus",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "henrique-Idle_Loop.jpg",
+    "character": "henrique",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "henrique-Walk_Loop.jpg",
+    "character": "henrique",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "henrique-Sprint_Loop.jpg",
+    "character": "henrique",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "henrique-Crouch_Idle_Loop.jpg",
+    "character": "henrique",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "henrique-Driving_Loop.jpg",
+    "character": "henrique",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "henrique-Swim_Fwd_Loop.jpg",
+    "character": "henrique",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "henrique-Pistol_Shoot.jpg",
+    "character": "henrique",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "henrique-Punch_Jab.jpg",
+    "character": "henrique",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "henrique-Dance_Loop.jpg",
+    "character": "henrique",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "henrique-Death01.jpg",
+    "character": "henrique",
+    "action": "Death01"
+  },
+  {
+    "file": "henrique-Jump_Loop.jpg",
+    "character": "henrique",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "lohan-Idle_Loop.jpg",
+    "character": "lohan",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "lohan-Walk_Loop.jpg",
+    "character": "lohan",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "lohan-Sprint_Loop.jpg",
+    "character": "lohan",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "lohan-Crouch_Idle_Loop.jpg",
+    "character": "lohan",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "lohan-Driving_Loop.jpg",
+    "character": "lohan",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "lohan-Swim_Fwd_Loop.jpg",
+    "character": "lohan",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "lohan-Pistol_Shoot.jpg",
+    "character": "lohan",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "lohan-Punch_Jab.jpg",
+    "character": "lohan",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "lohan-Dance_Loop.jpg",
+    "character": "lohan",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "lohan-Death01.jpg",
+    "character": "lohan",
+    "action": "Death01"
+  },
+  {
+    "file": "lohan-Jump_Loop.jpg",
+    "character": "lohan",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "luiz-Idle_Loop.jpg",
+    "character": "luiz",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "luiz-Walk_Loop.jpg",
+    "character": "luiz",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "luiz-Sprint_Loop.jpg",
+    "character": "luiz",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "luiz-Crouch_Idle_Loop.jpg",
+    "character": "luiz",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "luiz-Driving_Loop.jpg",
+    "character": "luiz",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "luiz-Swim_Fwd_Loop.jpg",
+    "character": "luiz",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "luiz-Pistol_Shoot.jpg",
+    "character": "luiz",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "luiz-Punch_Jab.jpg",
+    "character": "luiz",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "luiz-Dance_Loop.jpg",
+    "character": "luiz",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "luiz-Death01.jpg",
+    "character": "luiz",
+    "action": "Death01"
+  },
+  {
+    "file": "luiz-Jump_Loop.jpg",
+    "character": "luiz",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "miqueias-Idle_Loop.jpg",
+    "character": "miqueias",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "miqueias-Walk_Loop.jpg",
+    "character": "miqueias",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "miqueias-Sprint_Loop.jpg",
+    "character": "miqueias",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "miqueias-Crouch_Idle_Loop.jpg",
+    "character": "miqueias",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "miqueias-Driving_Loop.jpg",
+    "character": "miqueias",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "miqueias-Swim_Fwd_Loop.jpg",
+    "character": "miqueias",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "miqueias-Pistol_Shoot.jpg",
+    "character": "miqueias",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "miqueias-Punch_Jab.jpg",
+    "character": "miqueias",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "miqueias-Dance_Loop.jpg",
+    "character": "miqueias",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "miqueias-Death01.jpg",
+    "character": "miqueias",
+    "action": "Death01"
+  },
+  {
+    "file": "miqueias-Jump_Loop.jpg",
+    "character": "miqueias",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "silvio-Idle_Loop.jpg",
+    "character": "silvio",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "silvio-Walk_Loop.jpg",
+    "character": "silvio",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "silvio-Sprint_Loop.jpg",
+    "character": "silvio",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "silvio-Crouch_Idle_Loop.jpg",
+    "character": "silvio",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "silvio-Driving_Loop.jpg",
+    "character": "silvio",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "silvio-Swim_Fwd_Loop.jpg",
+    "character": "silvio",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "silvio-Pistol_Shoot.jpg",
+    "character": "silvio",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "silvio-Punch_Jab.jpg",
+    "character": "silvio",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "silvio-Dance_Loop.jpg",
+    "character": "silvio",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "silvio-Death01.jpg",
+    "character": "silvio",
+    "action": "Death01"
+  },
+  {
+    "file": "silvio-Jump_Loop.jpg",
+    "character": "silvio",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "diogo-Idle_Loop.jpg",
+    "character": "diogo",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "diogo-Walk_Loop.jpg",
+    "character": "diogo",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "diogo-Sprint_Loop.jpg",
+    "character": "diogo",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "diogo-Crouch_Idle_Loop.jpg",
+    "character": "diogo",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "diogo-Driving_Loop.jpg",
+    "character": "diogo",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "diogo-Swim_Fwd_Loop.jpg",
+    "character": "diogo",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "diogo-Pistol_Shoot.jpg",
+    "character": "diogo",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "diogo-Punch_Jab.jpg",
+    "character": "diogo",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "diogo-Dance_Loop.jpg",
+    "character": "diogo",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "diogo-Death01.jpg",
+    "character": "diogo",
+    "action": "Death01"
+  },
+  {
+    "file": "diogo-Jump_Loop.jpg",
+    "character": "diogo",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "talia-Idle_Loop.jpg",
+    "character": "talia",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "talia-Walk_Loop.jpg",
+    "character": "talia",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "talia-Sprint_Loop.jpg",
+    "character": "talia",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "talia-Crouch_Idle_Loop.jpg",
+    "character": "talia",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "talia-Driving_Loop.jpg",
+    "character": "talia",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "talia-Swim_Fwd_Loop.jpg",
+    "character": "talia",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "talia-Pistol_Shoot.jpg",
+    "character": "talia",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "talia-Punch_Jab.jpg",
+    "character": "talia",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "talia-Dance_Loop.jpg",
+    "character": "talia",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "talia-Death01.jpg",
+    "character": "talia",
+    "action": "Death01"
+  },
+  {
+    "file": "talia-Jump_Loop.jpg",
+    "character": "talia",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "gabriel-Idle_Loop.jpg",
+    "character": "gabriel",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "gabriel-Walk_Loop.jpg",
+    "character": "gabriel",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "gabriel-Sprint_Loop.jpg",
+    "character": "gabriel",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "gabriel-Crouch_Idle_Loop.jpg",
+    "character": "gabriel",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "gabriel-Driving_Loop.jpg",
+    "character": "gabriel",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "gabriel-Swim_Fwd_Loop.jpg",
+    "character": "gabriel",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "gabriel-Pistol_Shoot.jpg",
+    "character": "gabriel",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "gabriel-Punch_Jab.jpg",
+    "character": "gabriel",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "gabriel-Dance_Loop.jpg",
+    "character": "gabriel",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "gabriel-Death01.jpg",
+    "character": "gabriel",
+    "action": "Death01"
+  },
+  {
+    "file": "gabriel-Jump_Loop.jpg",
+    "character": "gabriel",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "dudu-Idle_Loop.jpg",
+    "character": "dudu",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "dudu-Walk_Loop.jpg",
+    "character": "dudu",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "dudu-Sprint_Loop.jpg",
+    "character": "dudu",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "dudu-Crouch_Idle_Loop.jpg",
+    "character": "dudu",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "dudu-Driving_Loop.jpg",
+    "character": "dudu",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "dudu-Swim_Fwd_Loop.jpg",
+    "character": "dudu",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "dudu-Pistol_Shoot.jpg",
+    "character": "dudu",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "dudu-Punch_Jab.jpg",
+    "character": "dudu",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "dudu-Dance_Loop.jpg",
+    "character": "dudu",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "dudu-Death01.jpg",
+    "character": "dudu",
+    "action": "Death01"
+  },
+  {
+    "file": "dudu-Jump_Loop.jpg",
+    "character": "dudu",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "gabriel_v2-Idle_Loop.jpg",
+    "character": "gabriel_v2",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "gabriel_v2-Walk_Loop.jpg",
+    "character": "gabriel_v2",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "gabriel_v2-Sprint_Loop.jpg",
+    "character": "gabriel_v2",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "gabriel_v2-Crouch_Idle_Loop.jpg",
+    "character": "gabriel_v2",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "gabriel_v2-Driving_Loop.jpg",
+    "character": "gabriel_v2",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "gabriel_v2-Swim_Fwd_Loop.jpg",
+    "character": "gabriel_v2",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "gabriel_v2-Pistol_Shoot.jpg",
+    "character": "gabriel_v2",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "gabriel_v2-Punch_Jab.jpg",
+    "character": "gabriel_v2",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "gabriel_v2-Dance_Loop.jpg",
+    "character": "gabriel_v2",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "gabriel_v2-Death01.jpg",
+    "character": "gabriel_v2",
+    "action": "Death01"
+  },
+  {
+    "file": "gabriel_v2-Jump_Loop.jpg",
+    "character": "gabriel_v2",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "lula-Idle_Loop.jpg",
+    "character": "lula",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "lula-Walk_Loop.jpg",
+    "character": "lula",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "lula-Sprint_Loop.jpg",
+    "character": "lula",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "lula-Crouch_Idle_Loop.jpg",
+    "character": "lula",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "lula-Driving_Loop.jpg",
+    "character": "lula",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "lula-Swim_Fwd_Loop.jpg",
+    "character": "lula",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "lula-Pistol_Shoot.jpg",
+    "character": "lula",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "lula-Punch_Jab.jpg",
+    "character": "lula",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "lula-Dance_Loop.jpg",
+    "character": "lula",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "lula-Death01.jpg",
+    "character": "lula",
+    "action": "Death01"
+  },
+  {
+    "file": "lula-Jump_Loop.jpg",
+    "character": "lula",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "Citizen-Idle_Loop.jpg",
+    "character": "Citizen",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "Citizen-Walk_Loop.jpg",
+    "character": "Citizen",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "Citizen-Sprint_Loop.jpg",
+    "character": "Citizen",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "Citizen-Crouch_Idle_Loop.jpg",
+    "character": "Citizen",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "Citizen-Driving_Loop.jpg",
+    "character": "Citizen",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "Citizen-Swim_Fwd_Loop.jpg",
+    "character": "Citizen",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "Citizen-Pistol_Shoot.jpg",
+    "character": "Citizen",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "Citizen-Punch_Jab.jpg",
+    "character": "Citizen",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "Citizen-Dance_Loop.jpg",
+    "character": "Citizen",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "Citizen-Death01.jpg",
+    "character": "Citizen",
+    "action": "Death01"
+  },
+  {
+    "file": "Citizen-Jump_Loop.jpg",
+    "character": "Citizen",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "Officer-Idle_Loop.jpg",
+    "character": "Officer",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "Officer-Walk_Loop.jpg",
+    "character": "Officer",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "Officer-Sprint_Loop.jpg",
+    "character": "Officer",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "Officer-Crouch_Idle_Loop.jpg",
+    "character": "Officer",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "Officer-Driving_Loop.jpg",
+    "character": "Officer",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "Officer-Swim_Fwd_Loop.jpg",
+    "character": "Officer",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "Officer-Pistol_Shoot.jpg",
+    "character": "Officer",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "Officer-Punch_Jab.jpg",
+    "character": "Officer",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "Officer-Dance_Loop.jpg",
+    "character": "Officer",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "Officer-Death01.jpg",
+    "character": "Officer",
+    "action": "Death01"
+  },
+  {
+    "file": "Officer-Jump_Loop.jpg",
+    "character": "Officer",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "Worker-Idle_Loop.jpg",
+    "character": "Worker",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "Worker-Walk_Loop.jpg",
+    "character": "Worker",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "Worker-Sprint_Loop.jpg",
+    "character": "Worker",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "Worker-Crouch_Idle_Loop.jpg",
+    "character": "Worker",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "Worker-Driving_Loop.jpg",
+    "character": "Worker",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "Worker-Swim_Fwd_Loop.jpg",
+    "character": "Worker",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "Worker-Pistol_Shoot.jpg",
+    "character": "Worker",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "Worker-Punch_Jab.jpg",
+    "character": "Worker",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "Worker-Dance_Loop.jpg",
+    "character": "Worker",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "Worker-Death01.jpg",
+    "character": "Worker",
+    "action": "Death01"
+  },
+  {
+    "file": "Worker-Jump_Loop.jpg",
+    "character": "Worker",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "Fighter-Idle_Loop.jpg",
+    "character": "Fighter",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "Fighter-Walk_Loop.jpg",
+    "character": "Fighter",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "Fighter-Sprint_Loop.jpg",
+    "character": "Fighter",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "Fighter-Crouch_Idle_Loop.jpg",
+    "character": "Fighter",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "Fighter-Driving_Loop.jpg",
+    "character": "Fighter",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "Fighter-Swim_Fwd_Loop.jpg",
+    "character": "Fighter",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "Fighter-Pistol_Shoot.jpg",
+    "character": "Fighter",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "Fighter-Punch_Jab.jpg",
+    "character": "Fighter",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "Fighter-Dance_Loop.jpg",
+    "character": "Fighter",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "Fighter-Death01.jpg",
+    "character": "Fighter",
+    "action": "Death01"
+  },
+  {
+    "file": "Fighter-Jump_Loop.jpg",
+    "character": "Fighter",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "Zombie-Idle_Loop.jpg",
+    "character": "Zombie",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "Zombie-Walk_Loop.jpg",
+    "character": "Zombie",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "Zombie-Sprint_Loop.jpg",
+    "character": "Zombie",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "Zombie-Crouch_Idle_Loop.jpg",
+    "character": "Zombie",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "Zombie-Driving_Loop.jpg",
+    "character": "Zombie",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "Zombie-Swim_Fwd_Loop.jpg",
+    "character": "Zombie",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "Zombie-Pistol_Shoot.jpg",
+    "character": "Zombie",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "Zombie-Punch_Jab.jpg",
+    "character": "Zombie",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "Zombie-Dance_Loop.jpg",
+    "character": "Zombie",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "Zombie-Death01.jpg",
+    "character": "Zombie",
+    "action": "Death01"
+  },
+  {
+    "file": "Zombie-Jump_Loop.jpg",
+    "character": "Zombie",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "PedMale-Idle_Loop.jpg",
+    "character": "PedMale",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "PedMale-Walk_Loop.jpg",
+    "character": "PedMale",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "PedMale-Sprint_Loop.jpg",
+    "character": "PedMale",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "PedMale-Crouch_Idle_Loop.jpg",
+    "character": "PedMale",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "PedMale-Driving_Loop.jpg",
+    "character": "PedMale",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "PedMale-Swim_Fwd_Loop.jpg",
+    "character": "PedMale",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "PedMale-Pistol_Shoot.jpg",
+    "character": "PedMale",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "PedMale-Punch_Jab.jpg",
+    "character": "PedMale",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "PedMale-Dance_Loop.jpg",
+    "character": "PedMale",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "PedMale-Death01.jpg",
+    "character": "PedMale",
+    "action": "Death01"
+  },
+  {
+    "file": "PedMale-Jump_Loop.jpg",
+    "character": "PedMale",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "PedFemale-Idle_Loop.jpg",
+    "character": "PedFemale",
+    "action": "Idle_Loop"
+  },
+  {
+    "file": "PedFemale-Walk_Loop.jpg",
+    "character": "PedFemale",
+    "action": "Walk_Loop"
+  },
+  {
+    "file": "PedFemale-Sprint_Loop.jpg",
+    "character": "PedFemale",
+    "action": "Sprint_Loop"
+  },
+  {
+    "file": "PedFemale-Crouch_Idle_Loop.jpg",
+    "character": "PedFemale",
+    "action": "Crouch_Idle_Loop"
+  },
+  {
+    "file": "PedFemale-Driving_Loop.jpg",
+    "character": "PedFemale",
+    "action": "Driving_Loop"
+  },
+  {
+    "file": "PedFemale-Swim_Fwd_Loop.jpg",
+    "character": "PedFemale",
+    "action": "Swim_Fwd_Loop"
+  },
+  {
+    "file": "PedFemale-Pistol_Shoot.jpg",
+    "character": "PedFemale",
+    "action": "Pistol_Shoot"
+  },
+  {
+    "file": "PedFemale-Punch_Jab.jpg",
+    "character": "PedFemale",
+    "action": "Punch_Jab"
+  },
+  {
+    "file": "PedFemale-Dance_Loop.jpg",
+    "character": "PedFemale",
+    "action": "Dance_Loop"
+  },
+  {
+    "file": "PedFemale-Death01.jpg",
+    "character": "PedFemale",
+    "action": "Death01"
+  },
+  {
+    "file": "PedFemale-Jump_Loop.jpg",
+    "character": "PedFemale",
+    "action": "Jump_Loop"
+  },
+  {
+    "file": "Acoes-arma.jpg",
+    "character": "No jogo",
+    "action": "arma"
+  },
+  {
+    "file": "Acoes-carro-preto.jpg",
+    "character": "No jogo",
+    "action": "carro-preto"
+  },
+  {
+    "file": "Acoes-igor-banheiro.jpg",
+    "character": "No jogo",
+    "action": "igor-banheiro"
+  },
+  {
+    "file": "Acoes-igor-bebendo.jpg",
+    "character": "No jogo",
+    "action": "igor-bebendo"
+  },
+  {
+    "file": "Acoes-onibus.jpg",
+    "character": "No jogo",
+    "action": "onibus"
+  },
+  {
+    "file": "Acoes-soco.jpg",
+    "character": "No jogo",
+    "action": "soco"
+  },
+  {
+    "file": "Acoes-talia-branca.jpg",
+    "character": "No jogo",
+    "action": "talia-branca"
+  },
+  {
+    "file": "Equipamentos-carro-silvio.jpg",
+    "character": "No jogo",
+    "action": "carro-silvio"
+  },
+  {
+    "file": "Equipamentos-itens-0.jpg",
+    "character": "No jogo",
+    "action": "itens-0"
+  },
+  {
+    "file": "Equipamentos-itens-1.jpg",
+    "character": "No jogo",
+    "action": "itens-1"
+  },
+  {
+    "file": "Equipamentos-itens-4.jpg",
+    "character": "No jogo",
+    "action": "itens-4"
+  },
+  {
+    "file": "Equipamentos-mochila-igor.jpg",
+    "character": "No jogo",
+    "action": "mochila-igor"
+  }
+]

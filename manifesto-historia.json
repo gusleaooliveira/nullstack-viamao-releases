@@ -1,6 +1,6 @@
 {
-  "version": "1.19.0",
-  "release": "v1.19.0-texturas",
+  "version": "1.20.0",
+  "release": "v1.20.0-animacoes",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -19,15 +19,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 122900068,
-      "sha256": "7b5ac2fa0acc3d43500cf869c750fa40d90d306bce3a577f9d4a6fa14a415692"
+      "bytes": 124421440,
+      "sha256": "68969108c4b9c04cdc586f978d4525b1770dad1258f2b9e7784f4cdb2bfff367"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 105243989,
-      "sha256": "a175b763c1122e0f6c4762909e2bc61ffe46a154d6c6d3e51b8edb93392943dc"
+      "bytes": 106808185,
+      "sha256": "8706b2a3d2df21aaf9259bcb0d8ef46182ef0dc67145aca06b2373e38d3569da"
     }
   ],
-  "webRevision": "2e85d49cebc1"
+  "webRevision": "f164511fa8d1"
 }

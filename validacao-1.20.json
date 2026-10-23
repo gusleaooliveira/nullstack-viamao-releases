@@ -1,0 +1,62 @@
+{
+  "Acoes": {
+    "passed": true,
+    "seconds": 16.53
+  },
+  "Equipamentos": {
+    "passed": true,
+    "seconds": 11.26
+  },
+  "Rigs": {
+    "passed": true,
+    "seconds": 28.56
+  },
+  "Personagens": {
+    "passed": true,
+    "seconds": 14.23
+  },
+  "Cidade": {
+    "passed": true,
+    "seconds": 22.68
+  },
+  "Arcade": {
+    "passed": true,
+    "seconds": 96.79
+  },
+  "Historias": {
+    "passed": true,
+    "seconds": 7.61
+  },
+  "Campanha": {
+    "passed": true,
+    "seconds": 51.81
+  },
+  "profileRestored": true,
+  "version": "1.20.0",
+  "rigChecks": 3553,
+  "humanoids": 24,
+  "clips": 42,
+  "handVertices": 416,
+  "captures": 276,
+  "originalPlayerGeometryPreserved": true,
+  "protocol": "nullstack-room-v15",
+  "canonicalBuildSourceFilesVerified": 125,
+  "animationBankSha256": "789271606bd057375843e39f365af258fedea46f4c6924708cef3e847aeae804",
+  "windowsBuildSucceeded": true,
+  "webBuildSucceeded": true,
+  "webNativeRenderVerified": true,
+  "Corpo": {
+    "passed": true,
+    "characters": 17,
+    "vertices": 240837,
+    "cameraCases": 1152,
+    "safePositions": 16,
+    "errors": []
+  },
+  "legacyAction113": {
+    "status": "obsolete-contract-not-applicable",
+    "passed": false,
+    "report": "Acoes113/acao-vozes.json",
+    "reason": "Historical 1.13 harness hardcodes protocol v13, 113 immediate Resources voices and old campaign text. Current release uses v15, streaming voices and expanded stories. Exploratory output retained; current actions/equipment/campaign suites pass."
+  }
+}
