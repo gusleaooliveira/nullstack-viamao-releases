@@ -1,6 +1,6 @@
 {
-  "version": "1.16.1",
-  "release": "v1.16.1-zumbis-garagem",
+  "version": "1.17.0",
+  "release": "v1.17.0-cidade-servicos",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -11,19 +11,23 @@
   "weapons": 4,
   "newVehicles": 6,
   "garageMissions": 3,
+  "cityServices": 5,
+  "graffitiSpots": 30,
+  "armorPickups": 8,
+  "hiddenWeapons": 8,
   "packages": [
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 109915642,
-      "sha256": "a572bde73babff31dfafc2107d4c4c0589796489958cec5a8783007ad813ecc3"
+      "bytes": 109343791,
+      "sha256": "989b2789a92c14b53ed3f7f1c5c913c6ac3e23ffeb60b20a605fc4fd81010d22"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 93013415,
-      "sha256": "32664672e78cc0b7582ac0d5bb165b7b58048ee35a344b8aa4b78aa2184357d9"
+      "bytes": 92487836,
+      "sha256": "b9cae44544bd0cdb77239c631fa406fa83f5c0729c7e117f58a4dc8b70358450"
     }
   ],
-  "webRevision": "a752bce699c2"
+  "webRevision": "7c3ba483f4a4"
 }
