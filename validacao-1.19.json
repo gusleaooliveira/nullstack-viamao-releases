@@ -1,0 +1,61 @@
+{
+  "Texturas": {
+    "passed": true,
+    "checks": 124,
+    "report": "Texturas/textures-validation.json"
+  },
+  "Assets": {
+    "passed": true,
+    "checks": 323,
+    "report": "Assets/assets-validation.json"
+  },
+  "Cidade": {
+    "passed": true,
+    "checks": 38,
+    "report": "Cidade/city-life.json"
+  },
+  "Arcade": {
+    "passed": true,
+    "checks": 45,
+    "report": "Arcade/arcade.json"
+  },
+  "Historias": {
+    "passed": true,
+    "checks": 127,
+    "report": "Historias/character-stories.json"
+  },
+  "Campanha": {
+    "passed": true,
+    "checks": null,
+    "report": "Campanha/story-validation.json"
+  },
+  "version": "1.19.0",
+  "protocol": "nullstack-room-v15",
+  "characterFilesUnchanged": 91,
+  "profileRestored": true,
+  "photos": 144,
+  "Blender": {
+    "passed": true,
+    "facesChecked": 376387,
+    "mixedSurfaceFaces": 0,
+    "nightGlassFaces": 1456,
+    "categories": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      13,
+      14,
+      15
+    ],
+    "packedAtlas": true
+  },
+  "latestVisualAndCampaignRun": "run-Texturas-Assets-Campanha.json"
+}

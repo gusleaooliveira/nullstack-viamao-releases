@@ -1,0 +1,186 @@
+{
+  "version": "1.19.0",
+  "atlas": "Surfaces",
+  "size": 2048,
+  "tilePixels": 480,
+  "gutterPixels": 16,
+  "licenseSource": "https://docs.ambientcg.com/license/",
+  "surfaces": [
+    {
+      "name": "Reboco",
+      "id": "PaintedPlaster017",
+      "meters": 2,
+      "source": "https://ambientcg.com/a/PaintedPlaster017",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\PaintedPlaster017\\PaintedPlaster017_1K-JPG.zip",
+      "sha256": "bae0380d82b6ccac8943b4980417cb3c9de5c896218339c108056f1dfb8e886c",
+      "index": 0
+    },
+    {
+      "name": "Tijolo",
+      "id": "Bricks005",
+      "meters": 2,
+      "source": "https://ambientcg.com/a/Bricks005",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\Bricks005\\Bricks005_1K-JPG.zip",
+      "sha256": "5d7b5584245ffa94eb74b9173c412e33a7cb012b75632a5125b426f9ff9fa0f6",
+      "index": 1
+    },
+    {
+      "name": "Concreto",
+      "id": "Concrete034",
+      "meters": 2,
+      "source": "https://ambientcg.com/a/Concrete034",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\Concrete034\\Concrete034_1K-JPG.zip",
+      "sha256": "5839d284d94ffb8d2a56df742ec522b13dd311c52dbd42b8fd33f0409ceedb81",
+      "index": 2
+    },
+    {
+      "name": "Asfalto",
+      "id": "Asphalt012",
+      "meters": 3,
+      "source": "https://ambientcg.com/a/Asphalt012",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\Asphalt012\\Asphalt012_1K-JPG.zip",
+      "sha256": "c077e5d1b21a4333829bb655043ee6a45ddcf82fef850528f91f4305ac11193d",
+      "index": 3
+    },
+    {
+      "name": "Calcada",
+      "id": "PavingStones036",
+      "meters": 2,
+      "source": "https://ambientcg.com/a/PavingStones036",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\PavingStones036\\PavingStones036_1K-JPG.zip",
+      "sha256": "91223aa46aa4275bb30df310fba788d8bfb740f2b1e9796ac0eb9a14f367e9ce",
+      "index": 4
+    },
+    {
+      "name": "Madeira",
+      "id": "Wood051",
+      "meters": 1.2,
+      "source": "https://ambientcg.com/a/Wood051",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\Wood051\\Wood051_1K-JPG.zip",
+      "sha256": "debf3d60f69a09c30613dc95a94da49c8116160ab8a29f77ac8e32cc33f1a1c3",
+      "index": 5
+    },
+    {
+      "name": "Metal",
+      "id": "Metal032",
+      "meters": 1.5,
+      "source": "https://ambientcg.com/a/Metal032",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\Metal032\\Metal032_1K-JPG.zip",
+      "sha256": "9e4f363905a647958c273154fa125d2a6440892d0e583f9b3af24bb08b5afc3c",
+      "index": 6
+    },
+    {
+      "name": "Telha",
+      "id": "RoofingTiles013A",
+      "meters": 2,
+      "source": "https://ambientcg.com/a/RoofingTiles013A",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\RoofingTiles013A\\RoofingTiles013A_1K-JPG.zip",
+      "sha256": "d2718f7b70f61b14ce68a8682f26ee9386223a530687d09428c6025fc4925101",
+      "index": 7
+    },
+    {
+      "name": "Grama",
+      "id": "Grass001",
+      "meters": 2,
+      "source": "https://ambientcg.com/a/Grass001",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\Grass001\\Grass001_1K-JPG.zip",
+      "sha256": "902f447a64171c8099589642d5bf2d1d6e52c40e94d957eb78eae722084b0cfb",
+      "index": 8
+    },
+    {
+      "name": "Terra",
+      "id": "Ground037",
+      "meters": 3,
+      "source": "https://ambientcg.com/a/Ground037",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\Ground037\\Ground037_1K-JPG.zip",
+      "sha256": "4e69db2b7251b1736fa70fe6fe4ab80d64bd220117dd5dd4c7caaead51c2574e",
+      "index": 9
+    },
+    {
+      "name": "Pedra",
+      "id": "Rock035",
+      "meters": 2,
+      "source": "https://ambientcg.com/a/Rock035",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\Rock035\\Rock035_1K-JPG.zip",
+      "sha256": "c5e4dbd7d5555734498834c1e09b799ef3d1f00c61fe08c0d953b93a8fb1bb95",
+      "index": 10
+    },
+    {
+      "name": "Tecido",
+      "id": "Fabric030",
+      "meters": 0.6,
+      "source": "https://ambientcg.com/a/Fabric030",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\Fabric030\\Fabric030_1K-JPG.zip",
+      "sha256": "82d4d00ccf901cf4707c5489005945ab8574933fc60437e26c6737f0436699e0",
+      "index": 11
+    },
+    {
+      "name": "Borracha",
+      "id": "Rubber004",
+      "meters": 0.7,
+      "source": "https://ambientcg.com/a/Rubber004",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\Rubber004\\Rubber004_1K-JPG.zip",
+      "sha256": "d8933e73c3b983892209bb143ca4bc13a48e4d55720ab12f6e6a303c96c84a31",
+      "index": 12
+    },
+    {
+      "name": "Plastico",
+      "id": "Plastic010",
+      "meters": 0.8,
+      "source": "https://ambientcg.com/a/Plastic010",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\Plastic010\\Plastic010_1K-JPG.zip",
+      "sha256": "46a2504dbef278475b85c846713804a36823c7151cb79c90728d5c6eab283a19",
+      "index": 13
+    },
+    {
+      "name": "Ceramica",
+      "id": "Tiles107",
+      "meters": 1.5,
+      "source": "https://ambientcg.com/a/Tiles107",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\Tiles107\\Tiles107_1K-JPG.zip",
+      "sha256": "ec41de6439d087cbd4b88ecd373cf240206715a3b3e022c0d556f9eb677940d0",
+      "index": 14
+    },
+    {
+      "name": "Papel",
+      "id": "Paper001",
+      "meters": 0.5,
+      "source": "https://ambientcg.com/a/Paper001",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\12-texturas-119\\Paper001\\Paper001_1K-JPG.zip",
+      "sha256": "5be094ffad8a6343ed96ec728e6eda3d84ae542cd2b16c32bc2ad67bb57a0013",
+      "index": 15
+    }
+  ]
+}

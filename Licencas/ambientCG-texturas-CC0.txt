@@ -1,0 +1,5 @@
+Created using materials from ambientCG.com / Lennart Demes.
+Licensed under Creative Commons CC0 1.0 Universal.
+https://creativecommons.org/publicdomain/zero/1.0/
+https://docs.ambientcg.com/license/
+See catalog.json for individual source URLs and archive hashes.

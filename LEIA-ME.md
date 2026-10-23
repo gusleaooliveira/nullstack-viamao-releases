@@ -41,4 +41,4 @@ O gerador `campanha_concreta.py` contém a revisão das 33 fases. A validação 
 Saves existentes continuam válidos. Windows e navegador mantêm saves separados e o modo história permanece solo. O modo livre online precisa de participantes usando a mesma versão 1.7.1.
 
 
-Novidades 1.18.0: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Conclua P01 e pause para escolher Histórias dos personagens. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.
+Novidades 1.19.0: leia TEXTURAS_1_19.md. Assets e efeitos anteriores: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Conclua P01 e pause para escolher Histórias dos personagens. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.
