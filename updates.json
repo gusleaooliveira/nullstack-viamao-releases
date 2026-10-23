@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_24_0",
+            "kind": "news",
+            "title": "1.24 · Armas e mira para mouse e controle",
+            "body": "Revólver e carabina: seis armas com seleção por teclas, roda do mouse ou controle.\n\nMira central alinhada ao disparo, câmera de ombro, aproximação e sensibilidade reduzida ao mirar com botão direito ou LT/L2. Recuo visual, confirmação de acerto e movimento durante os tiros.\n\nWindows e navegador compatíveis; disparos online validados pelo anfitrião.",
+            "updatedAt": 1792790767000
+        },
+        {
             "id": "release-1_23_0",
             "kind": "news",
             "title": "1.23 · Corridas, encontros e personalização",

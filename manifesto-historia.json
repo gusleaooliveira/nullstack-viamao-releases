@@ -1,6 +1,6 @@
 {
-  "version": "1.23.0",
-  "release": "v1.23.0-corridas",
+  "version": "1.24.0",
+  "release": "v1.24.0-armas-mira",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -8,7 +8,7 @@
     "zombie-survival",
     "beat-em-up"
   ],
-  "weapons": 4,
+  "weapons": 6,
   "newVehicles": 14,
   "garageMissions": 3,
   "cityServices": 11,
@@ -21,15 +21,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 126655432,
-      "sha256": "df6219754b9a14fcefe517de5baac3e9a09cdfa3449a917549550c6190fe2b93"
+      "bytes": 126663549,
+      "sha256": "7ebd1aaa008a18002f968b0c13c243b35851a6cdc268240814c1f4d31e9c633a"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 114225700,
-      "sha256": "ee7fb8b0cdc626684ce3abcc9a1c1f73517535d2123ddd9eb6c45fbe77f7fc75"
+      "bytes": 114244167,
+      "sha256": "f81eda8e731bbca1f9ec2ca6df5961e290f483da2e22d73c06648324439bc90f"
     }
   ],
-  "webRevision": "2bb3b06c984b"
+  "webRevision": "6c720565d002"
 }
