@@ -1,4 +1,4 @@
-# Modos Zumbi, Beat ’em up e garagem — 1.16.0
+# Modos Zumbi, Beat ’em up e garagem — 1.16.1
 
 Escolha seu personagem no menu e clique em **Sobrevivência Zumbi** ou **Beat ’em up**. São partidas solo independentes: o personagem escolhido é mantido e o progresso da campanha não é alterado.
 
@@ -35,8 +35,10 @@ A garagem oferece três missões repetíveis: **Entrega de picape**, **Ronda de 
 
 ## Compatibilidade e otimização
 
-Windows e web 1.16 usam os mesmos scripts e dados. Os campos adicionais de armas e veículos são enviados pelo anfitrião nas salas do modo livre. Use clientes da mesma versão; o hash de compatibilidade inclui a versão. Os modos Zumbi e Beat ’em up são solo.
+Windows e web 1.16.1 usam os mesmos scripts e dados. Os campos adicionais de armas e veículos são enviados pelo anfitrião nas salas do modo livre. Use clientes da mesma versão; o hash de compatibilidade inclui a versão. Os modos Zumbi e Beat ’em up são solo.
 
 A cidade estática continua no mapa Blender existente. Inimigos e novos veículos são dinâmicos, com malhas primitivas compartilhadas e materiais reaproveitados, sem novas texturas grandes nem dependências externas. As 78 fases e 387 falas da história permanecem disponíveis.
 
 Os relatórios de validação são testes automatizados com preparação explícita de estado, não gravações de jogo humano. O projeto registra Unity 6000.6.7f1; os pacotes desta entrega usam o patch instalado 6000.6.6f1.
+
+Correção 1.16.1: iniciar ou reiniciar qualquer desafio limpa a contagem pendente de inimigos antes da primeira onda.

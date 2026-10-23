@@ -1,6 +1,6 @@
 {
-  "version": "1.16.0",
-  "release": "v1.16.0-zumbis-garagem",
+  "version": "1.16.1",
+  "release": "v1.16.1-zumbis-garagem",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -15,15 +15,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 109915533,
-      "sha256": "2532799946ebae146fdceca0e5ee26cfd59a33885f03806a506ff2a871786477"
+      "bytes": 109915642,
+      "sha256": "a572bde73babff31dfafc2107d4c4c0589796489958cec5a8783007ad813ecc3"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 93013416,
-      "sha256": "cb90b32b5ba5a368d06421ec867eefd516ab5cb59e5586d769c7d5e20a540dc6"
+      "bytes": 93013415,
+      "sha256": "32664672e78cc0b7582ac0d5bb165b7b58048ee35a344b8aa4b78aa2184357d9"
     }
   ],
-  "webRevision": "adb8f90246e5"
+  "webRevision": "a752bce699c2"
 }
