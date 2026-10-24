@@ -1,6 +1,6 @@
 {
-  "version": "1.29.0",
-  "release": "v1.29.0-nuvem",
+  "version": "1.30.0",
+  "release": "v1.30.0-login",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -22,15 +22,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 126849351,
-      "sha256": "3452c83ceb1508efd416d2e72672b6ef9c1d2c2c95521d0971d0c41390b6c94b"
+      "bytes": 126850688,
+      "sha256": "a8f4f9d41e90b2f5cf914b4d6fa4c703066e7f12ebe4834489d31c3654265b1d"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 114480830,
-      "sha256": "95790ec2c7a774c0c3102f8f560ae8e2b2b52f0d9810f3a66a14eb7fe4686a46"
+      "bytes": 114488215,
+      "sha256": "1247f1b8e122498f6a925415f4b0430be2a2fbbcf071678900f3699a08611e2f"
     }
   ],
-  "webRevision": "f3298fcfb5eb"
+  "webRevision": "11bcd8946cd8"
 }

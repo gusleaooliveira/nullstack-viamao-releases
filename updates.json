@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_30_0",
+            "kind": "news",
+            "title": "1.30 — Login conectado e partidas mais leves",
+            "body": "Login pelo Google e GitHub quando configurados no servidor. Em Conta e nuvem (F10), entre com o provedor ou vincule sua conta atual para continuar o mesmo personagem e progresso no Windows e na web. Nenhuma conta é unida automaticamente por e-mail.\n\nSenhas locais protegidas por Argon2id, com migração após login válido. Fluxo externo com confirmação de código e proteção contra reutilização. Otimizações na criação de personagens, mira dos modos arcade, atualização de inimigos e visibilidade dos fliperamas. Painéis dos modos Zumbi e Beat em up reorganizados.",
+            "updatedAt": 1792883857049
+        },
+        {
             "id": "release-1_29_0",
             "kind": "news",
             "title": "1.29 — Sua conta, sua cidade",
