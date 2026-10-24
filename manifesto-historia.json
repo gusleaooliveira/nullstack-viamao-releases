@@ -1,6 +1,6 @@
 {
-  "version": "1.26.0",
-  "release": "v1.26.0-carreiras-cooperativo",
+  "version": "1.27.0",
+  "release": "v1.27.0-segredos",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -8,6 +8,7 @@
     "zombie-survival",
     "beat-em-up"
   ],
+  "secretEncounters": 8,
   "weapons": 6,
   "newVehicles": 14,
   "garageMissions": 3,
@@ -21,15 +22,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 126701121,
-      "sha256": "82238aa726f908c64e6f9fbf8860146e72d2f5fa80f58b8cd9648141801a27f0"
+      "bytes": 126713070,
+      "sha256": "1a39fdbefe8f39f302b3e2eb2f23e482776b811a076790a8d5a7072b7278e076"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 114299797,
-      "sha256": "11d58a7ae7e2f90e00e9f21bc3103e63791bf41ee754ee8dc5519a4f2d3824bf"
+      "bytes": 114319919,
+      "sha256": "3b0bc4be5c192401d4f7d0d9bbe448335f160edc97abffe3cc45467bf97187ac"
     }
   ],
-  "webRevision": "0bc7c0fb0eb6"
+  "webRevision": "d84732470704"
 }

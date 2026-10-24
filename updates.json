@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_27_0",
+            "kind": "news",
+            "title": "1.27 — Segredos e encontros inexplicáveis",
+            "body": "Oito mistérios pela cidade: criaturas, aparições, fragmentos e visitantes extraterrestres. Investigue pistas físicas e observe os encontros para registrar evidências. Alguns aparecem entre 20h e 5h; seis registros liberam o encontro final.\n\nCelular → Segredos: diário com rumores, pistas e GPS para a região. Descobertas, reputação e recompensas únicas ficam salvas por personagem e acompanham o save portátil.\n\nModelos originais de poucos polígonos, efeitos sem luzes extras e carregamento por proximidade. Windows e navegador devem usar a mesma versão.",
+            "updatedAt": 1792864796765
+        },
+        {
             "id": "release-1_26_0",
             "kind": "news",
             "title": "1.26 — Carreiras, patrimônio e história cooperativa",

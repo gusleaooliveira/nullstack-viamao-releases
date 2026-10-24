@@ -1,60 +1,41 @@
-# NullStack 1.26 — Carreiras, patrimônio e equipe
+# NullStack 1.27 — Diário do inexplicável
 
-## Como jogar
+Oito mistérios opcionais foram espalhados pela cidade. Não bloqueiam a campanha nem os trabalhos. Abra **P → Segredos · diário de rumores** para consultar dicas e marcar a região de um rumor no GPS. O GPS aponta para a região, não para a pista exata.
 
-- **I**, ou celular → Mochila: inventário, carreira, garagem, imóveis e porta-malas.
-- **F9**, ou celular → Recarregar arma: transfere munição da mochila para o carregador; recarga leva 1,4 s. O HUD mostra carregador / reserva. Modos arcade preservam a munição ilimitada.
-- **X**, ou celular → Cobertura: encoste numa parede. O personagem agacha e se move ao longo dela; X novamente solta a cobertura. Ctrl continua agachando livremente.
-- **F4**: trabalhos. O GPS leva primeiro ao veículo de serviço quando ele é necessário e depois à parada. Estacione e use E conforme a instrução; atendimento e portas exigem segurar E.
-- **F8**, ou celular → Salvar / transferir: três slots locais, backup automático, código e arquivo portátil.
+Procure vestígios pequenos com brilho turquesa no chão. A poucos passos, pressione **E** (Xbox X / PlayStation Quadrado) para investigar. A pista indica uma aparição próxima. Aproxime-se dela, guarde a arma e **segure a mesma tecla por três segundos** para registrar a evidência. Interromper a observação reinicia a contagem. Faça isso a pé, fora de missões, corridas e modos arcade.
 
-Teclado, mouse, Xbox e PlayStation continuam disponíveis. As novas telas usam a navegação de menus por controle e também aparecem no celular. A abertura de um seletor de arquivo e a transferência entre computadores/navegadores usam os recursos do sistema ou o código copiável.
+Alguns encontros acontecem apenas entre **20h e 5h**. É possível investigar suas pistas durante o dia; o diário avisa quando voltar. O ciclo de dia/noite continua funcionando. O anfitrião também mantém os controles existentes de horário.
 
-## Inventário e economia
+## Rumores, sem coordenadas exatas
 
-A mochila comporta 24 kg: seis tipos de munição, kit médico, lanche, colete, kit de reparo, kit de refrigeração, sementes, materiais e documento. A compra exige estar numa loja, restaurante ou ponto comercial do Centro. Consumíveis têm verificação de quantidade, proximidade e estado; peças de reparo não recuperam veículos explodidos. Sementes, materiais e documentos podem ser carregados, soltos e armazenados; os contratos atuais fornecem os insumos necessários e não os consomem da mochila.
+| Mistério | Região | Quando |
+| --- | --- | --- |
+| A última passageira | Terminal urbano | Noite |
+| Pegadas impossíveis | Sítio São José | Qualquer horário |
+| Sinal no reservatório | Largo / caixa-d'água | Noite |
+| Olhos na praça | Praça Cônego Bernardo Machado | Noite |
+| O boneco sem sombra | Florescente | Qualquer horário |
+| Fragmento que pulsa | Passo do Vigário | Qualquer horário |
+| O vigia do morro | Montanha Grande | Qualquer horário |
+| Contato zero | Mirante sul | Noite, após registrar seis dos outros sete |
 
-Objetos soltos podem ser recolhidos perto do personagem. Há no máximo 24 objetos temporários por sala, com duração de cinco minutos. O porta-malas de um veículo próprio parado aceita 60 kg; veículos roubados e emprestados não são armazenamento próprio.
+Os monstros e visitantes são encontros de observação e ambientação. Não são novos inimigos de combate. Movem-se suavemente em torno dos seus pontos de aparição, sem perseguir pedestres ou causar dano. O disco voador e seus tripulantes são cenários de descoberta, não veículos pilotáveis.
 
-Cada um dos 11 trabalhos tem XP separado: 40 XP por conclusão, nível a cada 100 XP e limite de nível 5. Cada nível acrescenta 20% ao pagamento base. O pagamento ocorre ao concluir o contrato, sem duplicação por repetir a interação final. Metas de primeiro trabalho, especialização, primeiro veículo comprado e primeiro imóvel dão bônus únicos. O banco preserva a conta por personagem já existente no jogo; numa sala, essa conta pertence ao livro do anfitrião, inclusive quando dois participantes escolhem o mesmo personagem.
+## Progresso e recompensas
 
-## Veículos e imóveis
+Pistas e evidências são registradas separadamente por personagem. Cada descoberta rende reputação e um pagamento único no banco: de R$ 150 a R$ 300 nos primeiros sete casos e R$ 1.000 no encontro final. Registrar todos os oito concede mais R$ 1.500. Rever uma aparição não repete o pagamento.
 
-A garagem do Centro, do terminal e de um imóvel permite comprar, retirar, guardar e recuperar veículos próprios. A caminhonete inicial pertence ao personagem. Cada tipo pode ser comprado uma vez por personagem; os serviços emprestam o veículo adequado e roubos continuam provocando perseguição.
+O progresso acompanha os slots e o save portátil de **F8**, junto da carreira. Saves anteriores continuam válidos e iniciam com zero descobertas. A transferência Windows ↔ navegador continua por arquivo/código, sem nuvem automática. Na sala, comandos de proximidade, horário, tempo de observação e pagamento são validados pelo anfitrião; o perfil e o banco usam as mesmas regras de personagem da versão anterior. As aparições são exibidas conforme o progresso do próprio personagem: participantes podem estar em etapas diferentes.
 
-Vida, posição, pintura, preparação, aerofólio e porta-malas são salvos. O veículo próprio ativo reaparece após carregar o perfil; se a posição estiver ocupada, a retirada procura um ponto livre próximo na rua. Veículos guardados na garagem aguardam retirada. Um veículo destruído exige seguro, custando 10% do preço, com mínimo de R$ 100. Compras e retiradas são validadas pelo anfitrião; não é possível retirar outro veículo dirigindo ou durante perseguição.
+Windows e web desta atualização usam **1.27.0 / nullstack-room-v17**. Não misture versões numa sala.
 
-Há três objetivos de patrimônio: quarto e garagem no Centro (R$ 1.800), casa em São Lucas (R$ 4.500) e oficina com garagem (R$ 9.000). São propriedades econômicas e pontos de garagem persistentes; esta atualização não cria interiores residenciais novos.
+## Modelagem e desempenho
 
-## Polícia, navegação e piscina
+Os novos vestígios, monstros, aparições, cristais, discos e ETs são geometria original gerada pelo jogo, com cores por vértice. Reutilizam os sons de interface já licenciados; não houve download de novos assets. Não alteram os personagens existentes nem o mapa estático do Blender.
 
-A polícia registra a última posição conhecida, verifica visão e obstáculos e busca nessa região quando perde contato. Agachar e usar cobertura diminuem a distância de detecção. Trocar roupa ou veículo fora de vista ajuda a despistar; a mudança não torna o jogador invisível diante de um policial. Guardar a arma e render-se a um policial próximo encerra a busca com multa.
+Cada local utiliza duas malhas combinadas, um material compartilhado e um shader simples. Sem luzes adicionais, colisores, IA ou script de atualização por criatura. A seleção por distância ocorre cinco vezes por segundo; o cache tem no máximo oito locais, apenas os dois mais próximos em um raio de 100 m ficam ativos e os encontros distantes ficam desativados. Somente as aparições próximas são animadas. As âncoras são verificadas contra a colisão final do mapa durante a compilação, não recalculadas por quadro.
 
-Pedestres, policiais e inimigos usam desvio local e buscas de caminho limitadas por quadro. O tráfego verifica obstáculos à frente e tenta retornar quando bloqueado; colisões de veículos jogáveis usam passos menores e intervalo entre danos repetidos. O GPS distingue percursos a pé e de veículo. Os pontos de transporte procuram área livre suficiente para veículos maiores.
-
-A piscina tem abertura física, fundo, rampa contínua de entrada e saída e câmera limitada acima da água. A animação de natação tem prioridade sobre a pose de arma; disparos ficam bloqueados na água.
-
-## História cooperativa, escolhas e cutscenes
-
-Entre no círculo dourado da missão. Num grupo, **o anfitrião inicia a história sem desmontar a sala**; os demais participantes são reunidos no início. Um participante que entrar depois também aparece perto da equipe. Interações, coleta, transporte, resgate, combate e defesa são processados pelo anfitrião; objetivos e inimigos são replicados. Tiros entre membros da equipe não causam dano durante a história. A derrota acontece quando toda a equipe é derrubada.
-
-O anfitrião controla conversas, respostas e escolhas. Nas missões com confronto comum depois do tutorial, escolha aproximação discreta ou direta. A discreta substitui confrontos comuns por neutralização de terminais e concede mais reputação e kit médico; a direta mantém combate e concede mais dinheiro e munição. Chefes mantêm suas mecânicas. A decisão fica salva por missão; recompensas de conclusão são concedidas uma vez por personagem.
-
-As missões têm apresentação com câmera no cenário, contato, contexto e objetivo, além de encerramento. A apresentação vista fica registrada; a equipe recebe o tempo da cutscene pelo anfitrião. Enter / A pula a apresentação. São sequências no mundo do jogo usando os cenários e personagens existentes, sem vídeos externos.
-
-## Salvamento Windows ↔ navegador
-
-Exporte o arquivo JSON ou copie o código em F8, leve para a outra plataforma e importe fora de salas, missões e modos arcade. No navegador há um seletor de arquivo; no Windows o arquivo exportado fica no diretório persistente do jogo, indicado na tela, e a importação também aceita o código. A substituição tem confirmação e preserva um backup anterior.
-
-O pacote contém campanha, escolhas, dinheiro, perfis dos personagens, inventário, carreira e veículos. O importador verifica formato, limites e checksum antes de modificar o progresso. O checksum detecta corrupção, não constitui autenticação nem proteção contra edição voluntária. Slots e backups são locais: **não há conta, sincronização automática em nuvem nem recuperação em outro navegador sem transferir o arquivo/código**. Dados temporários como perseguição, contrato em andamento e objetos largados não fazem parte do save portátil. O perfil próprio recebido da sala é preservado ao sair; o anfitrião continua sendo a autoridade durante a sessão.
-
-Windows e web devem usar 1.26 e protocolo `nullstack-room-v16`. Não misture executáveis de versões anteriores na mesma sala.
-
-## Assets e desempenho
-
-Reutiliza modelos, texturas, sons e as 84 animações já integradas, preservando suas licenças e as malhas otimizadas da versão anterior. Não houve necessidade de novos downloads. Busca de caminhos tem orçamento compartilhado; itens temporários têm limite e materiais/modelos são reutilizados. A abertura da piscina é processada uma vez, com deduplicação dos vértices resultantes; não há reconstrução de malha por quadro. No multiplayer são enviados os oito lançamentos bancários mais recentes por conta; o livro local mantém até 40.
-
-Os resultados e capturas da validação ficam em `documentacao/validacao/1.26.0`. Consulte os relatórios finais para distinguir testes de regras com preparação de cenário, movimentação física e verificações no navegador.
+As capturas e os testes em `documentacao/validacao/1.27.0` usam preparação de cenário para conferir cada descoberta, as regras de horário, o encontro final, pagamentos únicos e o save portátil. Não equivalem a uma campanha inteira jogada manualmente.
 
 
-Novidades 1.26.0: leia CARREIRAS_1_26.md. Corridas e personalização: EXPANSAO_1_23.md. Assets e efeitos anteriores: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Entre nos círculos dourados para iniciar histórias liberadas. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.
+Novidades 1.27.0: leia SEGREDOS_1_27.md. Carreiras: CARREIRAS_1_26.md. Corridas e personalização: EXPANSAO_1_23.md. Assets e efeitos anteriores: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Entre nos círculos dourados para iniciar histórias liberadas. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.

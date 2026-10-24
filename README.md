@@ -1,5 +1,5 @@
-# NullStack 1.26 — Carreiras e cooperativo
+# NullStack 1.27 — Segredos da cidade
 
-[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Windows](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.26.0-carreiras-cooperativo) · [Capturas](galeria-1.26/)
+[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Windows](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.27.0-segredos) · [Capturas](galeria-1.27/)
 
-Mochila, carreiras, economia, garagem persistente, escolhas, cutscenes e missões cooperativas. Saves portáteis por arquivo/código; sem nuvem automática. [Otimizações e limites](CARREIRAS_1_26.md). Preserva os modos, corridas, missões e personalização anteriores.
+Oito mistérios com pistas, criaturas, ETs, diário e recompensas persistentes. Celular → Segredos. Saves portáteis por arquivo/código; sem nuvem automática. [Otimizações e limites](SEGREDOS_1_27.md). Preserva os modos, corridas, missões e personalização anteriores.
