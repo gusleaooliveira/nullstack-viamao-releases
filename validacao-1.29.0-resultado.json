@@ -218,8 +218,8 @@
     "accountsIsolated": true,
     "concurrentRevisionProtected": true,
     "disposableAccountsRemoved": true,
-    "credentialsRead": false,
     "backendTestedCommit": "ce56e95b00724a77cbbeb09ded32611952204794",
-    "newsSeedOnlySinceTests": true
+    "newsSeedOnlySinceTests": true,
+    "productionCredentialsRead": false
   }
 }
