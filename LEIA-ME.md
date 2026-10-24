@@ -1,41 +1,14 @@
-# NullStack 1.27 — Diário do inexplicável
+# NullStack 1.27.1 — Orientação de Claude e Carl Johnson
 
-Oito mistérios opcionais foram espalhados pela cidade. Não bloqueiam a campanha nem os trabalhos. Abra **P → Segredos · diário de rumores** para consultar dicas e marcar a região de um rumor no GPS. O GPS aponta para a região, não para a pista exata.
+Claude e CJ estavam virados de costas em relação ao eixo de movimento, ao esqueleto e à mira. A geometria dos dois modelos agora recebe rotação de 180° no eixo vertical antes da montagem do rig. O eixo do jogador e das armas continua o mesmo; não há inversão de controles nem de câmera.
 
-Procure vestígios pequenos com brilho turquesa no chão. A poucos passos, pressione **E** (Xbox X / PlayStation Quadrado) para investigar. A pista indica uma aparição próxima. Aproxime-se dela, guarde a arma e **segure a mesma tecla por três segundos** para registrar a evidência. Interromper a observação reinicia a contagem. Faça isso a pé, fora de missões, corridas e modos arcade.
+A criação do modelo foi centralizada para aplicar a mesma correção ao personagem local, aos jogadores remotos, à prévia de seleção e aos retratos das conversas. Os demais personagens mantêm a orientação anterior. Não houve substituição de texturas ou modelos, espelhamento, aumento de vértices ou alteração das licenças.
 
-Alguns encontros acontecem apenas entre **20h e 5h**. É possível investigar suas pistas durante o dia; o diário avisa quando voltar. O ciclo de dia/noite continua funcionando. O anfitrião também mantém os controles existentes de horário.
+Os oito mistérios e todo o progresso da 1.27 continuam disponíveis. Windows e navegador devem usar os pacotes 1.27.1 na mesma sala, protocolo nullstack-room-v17. Consulte SEGREDOS_1_27.md e CARREIRAS_1_26.md para os demais sistemas.
 
-## Rumores, sem coordenadas exatas
+Os testes registram frente, costas, caminhada, arma e retrato de cada personagem e conferem deslocamento, orientação do corpo em relação ao movimento e à mira e vínculo das mãos aos pulsos. Os testes anteriores de malhas e armas verificam regressões. O executor preserva e restaura o perfil Windows original. Não equivale a uma campanha completa jogada novamente.
 
-| Mistério | Região | Quando |
-| --- | --- | --- |
-| A última passageira | Terminal urbano | Noite |
-| Pegadas impossíveis | Sítio São José | Qualquer horário |
-| Sinal no reservatório | Largo / caixa-d'água | Noite |
-| Olhos na praça | Praça Cônego Bernardo Machado | Noite |
-| O boneco sem sombra | Florescente | Qualquer horário |
-| Fragmento que pulsa | Passo do Vigário | Qualquer horário |
-| O vigia do morro | Montanha Grande | Qualquer horário |
-| Contato zero | Mirante sul | Noite, após registrar seis dos outros sete |
-
-Os monstros e visitantes são encontros de observação e ambientação. Não são novos inimigos de combate. Movem-se suavemente em torno dos seus pontos de aparição, sem perseguir pedestres ou causar dano. O disco voador e seus tripulantes são cenários de descoberta, não veículos pilotáveis.
-
-## Progresso e recompensas
-
-Pistas e evidências são registradas separadamente por personagem. Cada descoberta rende reputação e um pagamento único no banco: de R$ 150 a R$ 300 nos primeiros sete casos e R$ 1.000 no encontro final. Registrar todos os oito concede mais R$ 1.500. Rever uma aparição não repete o pagamento.
-
-O progresso acompanha os slots e o save portátil de **F8**, junto da carreira. Saves anteriores continuam válidos e iniciam com zero descobertas. A transferência Windows ↔ navegador continua por arquivo/código, sem nuvem automática. Na sala, comandos de proximidade, horário, tempo de observação e pagamento são validados pelo anfitrião; o perfil e o banco usam as mesmas regras de personagem da versão anterior. As aparições são exibidas conforme o progresso do próprio personagem: participantes podem estar em etapas diferentes.
-
-Windows e web desta atualização usam **1.27.0 / nullstack-room-v17**. Não misture versões numa sala.
-
-## Modelagem e desempenho
-
-Os novos vestígios, monstros, aparições, cristais, discos e ETs são geometria original gerada pelo jogo, com cores por vértice. Reutilizam os sons de interface já licenciados; não houve download de novos assets. Não alteram os personagens existentes nem o mapa estático do Blender.
-
-Cada local utiliza duas malhas combinadas, um material compartilhado e um shader simples. Sem luzes adicionais, colisores, IA ou script de atualização por criatura. A seleção por distância ocorre cinco vezes por segundo; o cache tem no máximo oito locais, apenas os dois mais próximos em um raio de 100 m ficam ativos e os encontros distantes ficam desativados. Somente as aparições próximas são animadas. As âncoras são verificadas contra a colisão final do mapa durante a compilação, não recalculadas por quadro.
-
-As capturas e os testes em `documentacao/validacao/1.27.0` usam preparação de cenário para conferir cada descoberta, as regras de horário, o encontro final, pagamentos únicos e o save portátil. Não equivalem a uma campanha inteira jogada manualmente.
+As vistas isoladas de frente e costas usam os modelos normalizados no editor, sem animação, para evitar obstruções por veículos e outros objetos. Caminhada, mira e vínculos das mãos são verificados no executável; os retratos usam o renderizador de conversa do jogo.
 
 
-Novidades 1.27.0: leia SEGREDOS_1_27.md. Carreiras: CARREIRAS_1_26.md. Corridas e personalização: EXPANSAO_1_23.md. Assets e efeitos anteriores: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Entre nos círculos dourados para iniciar histórias liberadas. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.
+Novidades 1.27.1: leia ORIENTACAO_1_27_1.md. Carreiras: CARREIRAS_1_26.md. Corridas e personalização: EXPANSAO_1_23.md. Assets e efeitos anteriores: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Entre nos círculos dourados para iniciar histórias liberadas. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.

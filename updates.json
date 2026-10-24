@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_27_1",
+            "kind": "news",
+            "title": "1.27.1 — Frente e costas de Claude e CJ corrigidas",
+            "body": "Claude e Carl Johnson agora olham para o mesmo lado do movimento e da mira. Correção aplicada antes da montagem do esqueleto, preservando as mãos e as armas. A prévia de seleção e os retratos de conversa usam a mesma orientação.\n\nMantém os oito mistérios, a carreira e os saves da versão 1.27. Use Windows e web 1.27.1 juntos.",
+            "updatedAt": 1792867390245
+        },
+        {
             "id": "release-1_27_0",
             "kind": "news",
             "title": "1.27 — Segredos e encontros inexplicáveis",

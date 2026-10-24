@@ -1,6 +1,6 @@
 {
-  "version": "1.27.0",
-  "release": "v1.27.0-segredos",
+  "version": "1.27.1",
+  "release": "v1.27.1-orientacao",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -22,15 +22,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 126713070,
-      "sha256": "1a39fdbefe8f39f302b3e2eb2f23e482776b811a076790a8d5a7072b7278e076"
+      "bytes": 126714643,
+      "sha256": "0add47405c36ec47de9ee54cf1a5b68b615cb9c5accdcf92ee73859d126f27bd"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 114319919,
-      "sha256": "3b0bc4be5c192401d4f7d0d9bbe448335f160edc97abffe3cc45467bf97187ac"
+      "bytes": 114326626,
+      "sha256": "9ccfc9dcf0d312b2fe6076f1c64d65203cd8265b90e9a02afce9f120f476d99e"
     }
   ],
-  "webRevision": "d84732470704"
+  "webRevision": "0a7466acd73c"
 }
