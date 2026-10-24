@@ -22,15 +22,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 126849367,
-      "sha256": "d9745813de060abacafe5e9851a23b454bbd15161631aa620b2b4f1b1feb25f0"
+      "bytes": 126849351,
+      "sha256": "3452c83ceb1508efd416d2e72672b6ef9c1d2c2c95521d0971d0c41390b6c94b"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 114480810,
-      "sha256": "82685f4af581aefef3018246ce43e7111fea1e02e36fbb4c7ec32335bb478757"
+      "bytes": 114480830,
+      "sha256": "95790ec2c7a774c0c3102f8f560ae8e2b2b52f0d9810f3a66a14eb7fe4686a46"
     }
   ],
-  "webRevision": "241946a3ce0e"
+  "webRevision": "f3298fcfb5eb"
 }

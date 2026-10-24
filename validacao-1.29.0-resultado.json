@@ -210,7 +210,7 @@
   "apiPostgreSQL": {
     "passed": true,
     "version": "1.29.0",
-    "backendCommit": "ce56e95b00724a77cbbeb09ded32611952204794",
+    "backendCommit": "a7dd3120e5937ce461e061fa46bbf248f7207fed",
     "endpoint": "https://nullstack-viamao-salas-production.up.railway.app",
     "cloudChecksLocal": 30,
     "cloudChecksProduction": 30,
@@ -218,6 +218,8 @@
     "accountsIsolated": true,
     "concurrentRevisionProtected": true,
     "disposableAccountsRemoved": true,
-    "credentialsRead": false
+    "credentialsRead": false,
+    "backendTestedCommit": "ce56e95b00724a77cbbeb09ded32611952204794",
+    "newsSeedOnlySinceTests": true
   }
 }
