@@ -1,36 +1,34 @@
-# NullStack 1.28 — Railway e PostgreSQL
+# 1.29 — Sua conta, sua cidade
 
-Salas: https://nullstack-viamao-salas-production.up.railway.app/api/room
+## Entrar e continuar
 
-Notícias e anúncios: https://nullstack-viamao-salas-production.up.railway.app/api/content
+Abra **Conta e nuvem** no menu, ou pressione **F10**. Crie um usuário (3–24 letras, números, ponto, hífen ou `_`) com senha de pelo menos 15 caracteres. Guarde o código de recuperação mostrado no cadastro: ele permite recuperar acesso sem e-mail e é substituído após cada recuperação.
 
-Fonte da API: https://github.com/gusleaooliveira/nullstack-viamao-salas, branch main. Fonte Unity: https://github.com/gusleaooliveira/nullstack-viamao-jogo. Web permanece no GitHub Pages; Windows e web 1.28 usam a mesma API e protocolo nullstack-room-v17.
+Na primeira conta, escolha **Enviar progresso deste dispositivo** e confirme. Para continuar em outro Windows ou navegador, entre na mesma conta e escolha **Continuar com o progresso da nuvem**. O carregamento fica disponível fora de salas, missões e modos arcade. Antes de substituir o progresso local, o jogo preserva um backup em F8 → Recuperar backup anterior.
 
-## Railway
+Personagem, nome, aparência, história/checkpoints, banco, dinheiro, mochila, carreira dos trabalhos, garagem, propriedades e descobertas acompanham o save. A posição externa é retomada quando segura; interiores retornam ao acesso da cidade. Missões retomam seus checkpoints pelos marcadores. O servidor guarda o progresso no PostgreSQL privado do Railway.
 
-Serviço nullstack-viamao-salas e banco Postgres-dCYV, no mesmo projeto. O Dockerfile na raiz instala apenas as dependências da API e inicia Node em 0.0.0.0:$PORT. Sem comando adicional do Wrangler. Variáveis da API:
+Após escolher o progresso, o jogo salva automaticamente a cada 60 segundos e agenda uma sincronização após checkpoints e mudanças de personagem. O envio funciona no modo solo e nas salas, usando o progresso local do jogador; os minigames arcade não entram nesse save. F10 também permite envio manual. Ao sair da conta, o jogo tenta salvar primeiro. Aguarde a confirmação antes de fechar; fechar abruptamente pode perder as alterações posteriores ao último envio.
 
-```text
-DATABASE_URL=${{Postgres-dCYV.DATABASE_URL}}
-NODE_ENV=production
-CONTENT_ADMIN_KEY=<segredo configurado diretamente no Railway>
-```
+Se outro dispositivo salvar primeiro, a sincronização pausa: atualize o progresso disponível e escolha continuar da nuvem ou confirmar o envio local. Não há sobrescrita silenciosa. Se a rede falhar, o progresso local permanece disponível. O modo convidado e os arquivos/códigos de F8 continuam funcionando.
 
-PORT é fornecida pelo Railway. Nenhuma senha ou chave vai para o jogo, Git ou backup. Não é necessário implantar o fonte Unity no Railway.
+A sessão fica somente na memória do jogo: entre novamente depois de fechar o programa. A senha nunca é gravada nos arquivos do jogo; no servidor usa scrypt com salt individual. Sessões e códigos de recuperação são armazenados como hashes. Recuperar acesso revoga as sessões anteriores. As últimas três revisões anteriores do save são conservadas no banco.
 
-## Dados e compatibilidade
+## HUD e fliperamas
 
-As tabelas e índices PostgreSQL são criados automaticamente, de forma idempotente. Transações usam o mesmo cliente, com bloqueio por sala e por conteúdo. Preserva tokens, limites, mensagens sem duplicação, confirmação de recebimento, estado e CORS.
+HUD com painéis escuros arredondados, verde-água para vida/dinheiro, colete contextual, munição agrupada, minimapa e estado da nuvem. Avisos não aparecem sobre a tela de conta; os controles completos continuam em F1.
 
-As salas antigas são temporárias e devem ser recriadas na nova API. O D1 antigo não é convertido automaticamente. O feed público de notícias já disponível no jogo é preservado no PostgreSQL, sem sobrescrever registros existentes; anúncios exclusivos do serviço antigo exigem exportação. O acesso público direto ao endpoint antigo retornou 403 nesta migração. Não alteramos sua autenticação.
+São **24 fliperamas, em oito locais**, indicados por pontos roxos no mapa M. Máquinas originais modeladas no Blender, com atlas compartilhado e 340 triângulos por máquina, colisão sólida e descarte visual por distância. Estão sinalizadas **EM BREVE**. Não possuem jogos ou cobrança; os jogos serão definidos posteriormente.
 
-Os saves continuam locais, transferíveis por arquivo/código; esta mudança não adiciona contas ou sincronização de saves em nuvem. Personagens, mapas, assets, licenças, missões e os oito mistérios anteriores são preservados.
+O arquivo `mapa-blender/NullStack-Viamao.blend` contém a coleção `FLIPERAMAS_129`. A geometria adicional é exportada separadamente para `Resources/Arcade129`; a malha base da cidade permanece preservada. O layout passou por verificação de espaço livre contra os colisores do mapa.
 
-## Reconstrução
+## Railway e reconstrução
 
-Unity 6000.6.6f1. Fonte canônico NullStack-Unity. Compile com `python ferramentas-historia/compilar_128.py windows web`. Valide com `python ferramentas-historia/validar_128.py Salas Orientacao Otimizacao Armas`. O validador restaura o perfil Windows após os testes.
+Mesmo projeto, serviço `nullstack-viamao-salas` e banco `Postgres-dCYV`. Nenhuma nova variável é necessária: mantenha `DATABASE_URL` com referência ao banco, `NODE_ENV=production`, `CONTENT_ADMIN_KEY` privada e `PORT` da plataforma. As migrações criam as tabelas adicionais sem apagar salas ou conteúdo existentes.
 
-API: veja RAILWAY.md no repositório de salas. Os testes locais usam PostgreSQL real isolado; em produção não revelam nem modificam a chave administrativa. Resultados e limites efetivamente verificados ficam em documentacao/validacao/1.28.0.
+APIs HTTPS: `/api/account` e `/api/save` em `https://nullstack-viamao-salas-production.up.railway.app`. Fonte do backend em `gusleaooliveira/nullstack-viamao-salas`; instruções em `RAILWAY.md`. API de conteúdo e protocolo `nullstack-room-v17` preservados. Use Windows e web 1.29 juntos.
+
+Unity 6000.6.6f1: `python ferramentas-historia/compilar_129.py windows web`. Testes com perfil limpo e restauração exata do perfil original: `validar_129.py Nuvem --clean-profile` e regressões em `documentacao/validacao/1.29.0`. Credenciais de testes e saves particulares ficam fora do Git e dos backups. O backup do código no Drive não é um dump das contas de produção.
 
 
-Novidades 1.28.0: leia RAILWAY_1_28.md. Carreiras: CARREIRAS_1_26.md. Corridas e personalização: EXPANSAO_1_23.md. Assets e efeitos anteriores: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Entre nos círculos dourados para iniciar histórias liberadas. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.
+Novidades 1.29.0: leia NUVEM_1_29.md. Carreiras: CARREIRAS_1_26.md. Corridas e personalização: EXPANSAO_1_23.md. Assets e efeitos anteriores: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Entre nos círculos dourados para iniciar histórias liberadas. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.

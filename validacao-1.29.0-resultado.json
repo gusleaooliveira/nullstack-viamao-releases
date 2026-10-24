@@ -1,0 +1,223 @@
+{
+  "version": "1.29.0",
+  "protocol": "nullstack-room-v17",
+  "cloudSync": true,
+  "portableSaves": true,
+  "newSecrets": 0,
+  "existingSecrets": 8,
+  "Nuvem": {
+    "passed": true,
+    "physicalControllerTested": false,
+    "checks": 49,
+    "cabinets": 24,
+    "sites": 8,
+    "triangles": 340,
+    "errors": []
+  },
+  "Sistemas": {
+    "passed": true,
+    "checks": 63,
+    "errors": [],
+    "pictures": [
+      "garagem-persistente.png",
+      "mochila-carreira.png",
+      "piscina-entrada.png",
+      "piscina-nadando.png",
+      "piscina-saida.png",
+      "cutscene-missao.png"
+    ],
+    "poolStart": {
+      "x": -88.16767883300781,
+      "y": 32.37698745727539,
+      "z": 90.93536376953125
+    },
+    "poolSwim": {
+      "x": -88.16767883300781,
+      "y": 31.2869815826416,
+      "z": 100.95734405517578
+    },
+    "poolExit": {
+      "x": -88.16767883300781,
+      "y": 32.9664306640625,
+      "z": 90.90216827392578
+    }
+  },
+  "Orientacao": {
+    "passed": true,
+    "checks": 54,
+    "errors": [],
+    "pictures": [
+      "claude-frente.png",
+      "claude-costas.png",
+      "claude-andando.png",
+      "claude-arma.png",
+      "claude-retrato.png",
+      "cj-frente.png",
+      "cj-costas.png",
+      "cj-andando.png",
+      "cj-arma.png",
+      "cj-retrato.png"
+    ]
+  },
+  "Otimizacao": {
+    "passed": true,
+    "checks": 142,
+    "errors": [],
+    "characters": [
+      {
+        "name": "Igor",
+        "sourceVertices": 14550,
+        "animatedVertices": 13816,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Lucas",
+        "sourceVertices": 13434,
+        "animatedVertices": 12549,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Matheus - visual 1",
+        "sourceVertices": 13138,
+        "animatedVertices": 12349,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Matheus - visual 2",
+        "sourceVertices": 13395,
+        "animatedVertices": 12694,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Gustavo",
+        "sourceVertices": 13765,
+        "animatedVertices": 13214,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Mateus / Fredinho",
+        "sourceVertices": 13623,
+        "animatedVertices": 12484,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Henrique",
+        "sourceVertices": 14330,
+        "animatedVertices": 13773,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Lohan",
+        "sourceVertices": 13108,
+        "animatedVertices": 12223,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Luiz",
+        "sourceVertices": 13857,
+        "animatedVertices": 12853,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Miqueias",
+        "sourceVertices": 12900,
+        "animatedVertices": 12202,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Silvio",
+        "sourceVertices": 13836,
+        "animatedVertices": 13227,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Diogo / Diego",
+        "sourceVertices": 13135,
+        "animatedVertices": 12217,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Talia",
+        "sourceVertices": 14832,
+        "animatedVertices": 14187,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Gabriel",
+        "sourceVertices": 13164,
+        "animatedVertices": 12439,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Dudu",
+        "sourceVertices": 18728,
+        "animatedVertices": 18283,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Gabriel - visual 2",
+        "sourceVertices": 15144,
+        "animatedVertices": 14261,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Lula",
+        "sourceVertices": 13922,
+        "animatedVertices": 13922,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Claude",
+        "sourceVertices": 1396,
+        "animatedVertices": 1166,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Carl Johnson \u00c2\u00b7 CJ",
+        "sourceVertices": 2167,
+        "animatedVertices": 1741,
+        "handVertices": 832,
+        "cached": true
+      }
+    ],
+    "handWritesBefore": 271,
+    "handWritesAfter": 271
+  },
+  "Armas": {
+    "passed": true,
+    "physicalControllerTested": false,
+    "checks": 55,
+    "errors": []
+  },
+  "apiPostgreSQL": {
+    "passed": true,
+    "version": "1.29.0",
+    "backendCommit": "ce56e95b00724a77cbbeb09ded32611952204794",
+    "endpoint": "https://nullstack-viamao-salas-production.up.railway.app",
+    "cloudChecksLocal": 30,
+    "cloudChecksProduction": 30,
+    "roomSmokeProduction": true,
+    "accountsIsolated": true,
+    "concurrentRevisionProtected": true,
+    "disposableAccountsRemoved": true,
+    "credentialsRead": false
+  }
+}

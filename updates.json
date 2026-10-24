@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_29_0",
+            "kind": "news",
+            "title": "1.29 — Sua conta, sua cidade",
+            "body": "Login e salvamento na nuvem pelo PostgreSQL: continue com o mesmo personagem, aparência e progresso no Windows e na web. Entre em Conta e nuvem (F10), escolha o progresso e ative o salvamento automático. Conflitos entre dispositivos exigem confirmação; saves locais continuam disponíveis.\n\nHUD redesenhado com informações agrupadas, barras compactas, dinheiro, munição e estado da nuvem. 24 fliperamas em oito locais da cidade, modelados no Blender, com indicação Em breve. Os jogos dessas máquinas serão definidos depois.",
+            "updatedAt": 1792876427037
+        },
+        {
             "id": "release-1_28_0",
             "kind": "news",
             "title": "1.28 — Salas e APIs no Railway",
