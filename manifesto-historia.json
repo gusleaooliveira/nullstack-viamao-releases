@@ -1,6 +1,6 @@
 {
-  "version": "1.27.1",
-  "release": "v1.27.1-orientacao",
+  "version": "1.28.0",
+  "release": "v1.28.0-railway",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -22,15 +22,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 126714643,
-      "sha256": "0add47405c36ec47de9ee54cf1a5b68b615cb9c5accdcf92ee73859d126f27bd"
+      "bytes": 126715879,
+      "sha256": "b8b091cbbf801d1759377996324481e571d06294ea5c689eafe99f6cb1ff734a"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 114326626,
-      "sha256": "9ccfc9dcf0d312b2fe6076f1c64d65203cd8265b90e9a02afce9f120f476d99e"
+      "bytes": 114326969,
+      "sha256": "f61b3452f1e810d22a81cf23e80ac1fac6f1949d58cf26dce7b156765c357a90"
     }
   ],
-  "webRevision": "0a7466acd73c"
+  "webRevision": "42f4368a38ef"
 }

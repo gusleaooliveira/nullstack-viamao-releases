@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_28_0",
+            "kind": "news",
+            "title": "1.28 — Salas e APIs no Railway",
+            "body": "Salas online e conteúdo da cidade agora usam a API Railway com armazenamento PostgreSQL. Mantém os personagens corrigidos, as missões, os oito mistérios e os saves portáteis. Use Windows e web 1.28 juntos. Não adiciona sincronização automática de saves.",
+            "updatedAt": 1792869706252
+        },
+        {
             "id": "release-1_27_1",
             "kind": "news",
             "title": "1.27.1 — Frente e costas de Claude e CJ corrigidas",

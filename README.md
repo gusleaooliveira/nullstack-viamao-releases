@@ -1,5 +1,5 @@
-# NullStack 1.27.1 — Orientação de Claude e CJ
+# NullStack 1.28.0 — Railway e PostgreSQL
 
-[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Windows](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.27.1-orientacao) · [Capturas](galeria-1.27.1/)
+[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Windows](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.28.0-railway) · [Capturas](galeria-1.28.0/)
 
-Frente e costas de Claude e CJ corrigidas no jogo, na seleção e nos retratos. Preserva os oito mistérios da 1.27. Saves portáteis por arquivo/código; sem nuvem automática. [Otimizações e limites](ORIENTACAO_1_27_1.md). Preserva os modos, corridas, missões e personalização anteriores.
+Salas, notícias e anúncios usam a API Railway com PostgreSQL. Preserva os oito mistérios da 1.27. Saves portáteis por arquivo/código; sem nuvem automática. [Migração e limites](RAILWAY_1_28.md). Preserva os modos, corridas, missões e personalização anteriores.

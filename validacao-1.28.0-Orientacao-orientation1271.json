@@ -1,0 +1,17 @@
+{
+    "passed": true,
+    "checks": 54,
+    "errors": [],
+    "pictures": [
+        "claude-frente.png",
+        "claude-costas.png",
+        "claude-andando.png",
+        "claude-arma.png",
+        "claude-retrato.png",
+        "cj-frente.png",
+        "cj-costas.png",
+        "cj-andando.png",
+        "cj-arma.png",
+        "cj-retrato.png"
+    ]
+}
