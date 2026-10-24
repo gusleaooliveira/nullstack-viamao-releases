@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_26_0",
+            "kind": "news",
+            "title": "1.26 — Carreiras, patrimônio e história cooperativa",
+            "body": "Navegação com desvio de obstáculos, GPS a pé e de transporte e paradas revisadas. Piscina com entrada e câmera revisadas.\n\nMochila, munição e recarga, consumíveis, porta-malas, níveis nos 11 trabalhos, metas econômicas, compras e garagem persistente. Polícia busca a última posição conhecida; agachamento e cobertura ajudam a se esconder.\n\nMissões com escolhas de aproximação, cutscenes e objetivos compartilhados pelo anfitrião e sua equipe.\n\nF8: slots locais e transferência de saves Windows ↔ navegador por arquivo ou código. Não é sincronização automática em nuvem. Windows e web precisam estar na mesma versão.",
+            "updatedAt": 1792856505459
+        },
+        {
             "id": "release-1_25_0",
             "kind": "news",
             "title": "1.25 — Personagens e esqueletos otimizados",

@@ -1,6 +1,6 @@
 {
-  "version": "1.25.0",
-  "release": "v1.25.0-personagens-rigs",
+  "version": "1.26.0",
+  "release": "v1.26.0-carreiras-cooperativo",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -21,15 +21,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 126667400,
-      "sha256": "7d874e709c3637d41b012acd9112c92bb1a4e65a7dae88501ec89d452f1129f9"
+      "bytes": 126701121,
+      "sha256": "82238aa726f908c64e6f9fbf8860146e72d2f5fa80f58b8cd9648141801a27f0"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 114249006,
-      "sha256": "6cdb785b40ab3e8939bda48f62bceeca66b098531ec553f2a5eb6f2ff42f165c"
+      "bytes": 114299797,
+      "sha256": "11d58a7ae7e2f90e00e9f21bc3103e63791bf41ee754ee8dc5519a4f2d3824bf"
     }
   ],
-  "webRevision": "21438fcb81f0"
+  "webRevision": "0bc7c0fb0eb6"
 }
