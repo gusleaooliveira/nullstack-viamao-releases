@@ -3,7 +3,7 @@
   "protocol": "nullstack-room-v17",
   "passed": true,
   "physicalControllerTested": false,
-  "liveCrossplayTested": false,
+  "liveCrossplayTested": true,
   "backendChanged": false,
   "Pedestres": {
     "passed": true,
@@ -593,5 +593,16 @@
       "H15-3"
     ],
     "errors": []
+  },
+  "crossplay": {
+    "passed": true,
+    "version": "1.32.0",
+    "host": "published WebGL",
+    "client": "Windows",
+    "players": 2,
+    "snapshots": 60,
+    "profileRestored": true,
+    "cloudSaveWritten": false,
+    "seconds": 105.68
   }
 }
