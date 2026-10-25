@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_33_0",
+            "kind": "news",
+            "title": "1.33 — Criaturas e visitantes dos mistérios",
+            "body": "Novos modelos importados para as oito aparições: ETs, criaturas de chifres, cão sombrio, espectros e vigia de pedra. Cores preservadas, animações de espera e detalhes de silhueta. Modelos próximos mantêm a geometria; LOD distante simplificado, um material compartilhado e poses de espera interpoladas sem carregar o esqueleto completo dos monstros. Preserva pistas, horários, recompensas, descobertas salvas e Windows/web.",
+            "updatedAt": 1792916414157
+        },
+        {
             "id": "release-1_32_0",
             "kind": "news",
             "title": "1.32 — Pedestres corrigidos e acabamento visual",

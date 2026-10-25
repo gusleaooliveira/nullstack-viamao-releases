@@ -1,6 +1,6 @@
 {
-  "version": "1.32.0",
-  "release": "v1.32.0-graficos",
+  "version": "1.33.0",
+  "release": "v1.33.0-misterios",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -8,6 +8,8 @@
     "zombie-survival",
     "beat-em-up"
   ],
+  "mysteryModels": 8,
+  "mysteryIdlePoseSamples": 48,
   "secretEncounters": 8,
   "weapons": 6,
   "newVehicles": 15,
@@ -22,15 +24,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 128133666,
-      "sha256": "c337920c706e66d5a6828f71765a1dd7b128703507e6d4857250b3d90b9bbffc"
+      "bytes": 131473794,
+      "sha256": "55bff226682444d9fb5f1bfc81ab49814ed971586fcd136dc1cd312b093735f6"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 115755553,
-      "sha256": "275999a9cc6db40d6a3f1eb71da9e8a55d94909a5df77eaf5786e47ddf92003f"
+      "bytes": 115156942,
+      "sha256": "15f47d374f0d566bd85fe8f1ea043a87c94e03608392f5d87ae3eb23f9c6e6f5"
     }
   ],
-  "webRevision": "d3ad709a8fd4"
+  "webRevision": "182926fd21cd"
 }

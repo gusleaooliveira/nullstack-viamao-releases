@@ -1,14 +1,19 @@
-# Gráficos e pedestres — 1.32
+# Mistérios 1.33.0
 
-Correção do eixo vertical do jogger e das cores ausentes em modelos NPC. Cores de pele, roupas e cabelo são mantidas na malha; partes compatíveis compartilham um único renderer por corpo. A geometria e as texturas dos personagens são preservadas.
+Novos modelos CC0 de Quaternius para as oito aparições. ET e ET com capacete: Animated Alien; criatura com chifres, espectros, fragmento vivo e guardião: Ultimate Monsters; cão sombrio: Wolf do Animal Pack Vol.2. O guardião recebeu uma paleta de pedra; o lobo, uma paleta escura. Os discos e vestígios permanecem formas leves produzidas pelo jogo.
 
-F7 alterna Econômico, Equilibrado (padrão) e Detalhado. O acabamento usa uma única passagem de suavização de bordas e cor; o modo econômico a desliga. Sombras têm alcance limitado e luzes locais não geram sombras. Animações fora do campo da câmera são avaliadas com intervalo maior, preservando a simulação e a visibilidade ao voltar.
+- https://quaternius.com/packs/animatedalien.html
+- https://quaternius.com/packs/ultimatemonsters.html
+- https://opengameart.org/content/animated-animales-low-poly
+- Licença: https://creativecommons.org/publicdomain/zero/1.0/
 
-O céu fica vinculado à câmera principal; a neblina termina perto do alcance real do mapa. Mantém os modelos de veículos e as seis armas da 1.31, personagem oculto ao embarcar, tiro combinado com deslocamento, 40 carros, 64 pedestres e sete prédios de missão. Créditos em CREDITOS_1_31.md; nenhuma licença foi alterada.
+Os modelos próximos preservam a geometria. A distância usa malhas com cerca de 55% menos triângulos. Seis poses amostradas da animação de espera original são interpoladas por blend shapes no runtime, sem manter os esqueletos completos dos monstros. Os originais animados e seus esqueletos ficam preservados no fonte e no Drive. Um material compartilhado e cores por vértice dispensam texturas adicionais no runtime. FBX selecionados: 18,588,848 → 3,754,736 bytes, incluindo LODs (redução de 79.8%). Não representa benchmark de FPS. O sistema mantém no máximo dois locais ativos; o nível distante não atualiza poses.
 
-GitHub no Railway: GITHUB_CLIENT_ID, GITHUB_CLIENT_SECRET e PUBLIC_BASE_URL=https://nullstack-viamao-salas-production.up.railway.app. Callback: https://nullstack-viamao-salas-production.up.railway.app/api/oauth/github/callback. NODE_ENV=production; DATABASE_URL permanece no PostgreSQL existente. Secrets somente nas variáveis do serviço.
+As pistas, horários, oito IDs, recompensas e descobertas salvas permanecem compatíveis. Não há mudança de protocolo (nullstack-room-v17). Windows e web devem usar a mesma versão 1.33.0. F7 mantém os perfis gráficos da 1.32.
 
-Compilar: python ferramentas-historia/compilar_132.py windows web. Testar: python ferramentas-historia/validar_132.py Pedestres Melhorias Armas Sistemas Otimizacao Campanha Salas --clean-profile. Resultados e limites são registrados em documentacao/validacao/1.32.0.
+Reconstrução: python ferramentas-historia/baixar_misterios_133.py; Blender --background --python ferramentas-historia/modelos_misterios_133.py; python ferramentas-historia/compilar_133.py. PrepareMysteries133 cria materiais/prefabs e configura poses/LOD. Originais e licenças: assets-baixados/15-misterios-133; catálogo: ASSETS_1_33.json. Testes e fotos: documentacao/validacao/1.33.0.
+
+A versão web usa Gzip e descompressão nativa do loader Unity (fallback no navegador), compatível com hospedagem estática sem cabeçalhos Content-Encoding. Os três arquivos comprimidos terminam em .unityweb.
 
 
-Novidades 1.32.0: leia GRAFICOS_1_32.md. Carreiras: CARREIRAS_1_26.md. Corridas e personalização: EXPANSAO_1_23.md. Assets e efeitos anteriores: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Entre nos círculos dourados para iniciar histórias liberadas. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.
+Novidades 1.33.0: leia MISTERIOS_1_33.md. Carreiras: CARREIRAS_1_26.md. Corridas e personalização: EXPANSAO_1_23.md. Assets e efeitos anteriores: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Entre nos círculos dourados para iniciar histórias liberadas. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.

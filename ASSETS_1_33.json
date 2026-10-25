@@ -1,0 +1,104 @@
+{
+  "version": "1.33.0",
+  "sources": [
+    {
+      "file": "Alien.fbx",
+      "bytes": 3482204,
+      "sha256": "ce50bb2da6b94f43bf5867abee152bf7afbf7ca93c1e1d0e4c5bc92f323da269",
+      "author": "Quaternius",
+      "license": "CC0-1.0",
+      "source": "https://quaternius.com/packs/animatedalien.html",
+      "download": "https://drive.google.com/uc?export=download&id=1SClOYN2ELhqC5nAivANxY1i4TLMwWumi"
+    },
+    {
+      "file": "AlienHelmet.fbx",
+      "bytes": 3500508,
+      "sha256": "0d97b922a7caf3832dbc2d52561e2b0709b225300ce5bcc52b0fab731e1b44d4",
+      "author": "Quaternius",
+      "license": "CC0-1.0",
+      "source": "https://quaternius.com/packs/animatedalien.html",
+      "download": "https://drive.google.com/uc?export=download&id=1Msrh4jmqvQlBq_oMdapAijwip12CJ2Pe"
+    },
+    {
+      "file": "Demon.fbx",
+      "bytes": 3463660,
+      "sha256": "88ca081ed981e44e79dc9bb0ccca58759848f70b300e4893c3a7a34a3ee4d5af",
+      "author": "Quaternius",
+      "license": "CC0-1.0",
+      "source": "https://quaternius.com/packs/ultimatemonsters.html",
+      "download": "https://drive.google.com/uc?export=download&id=1sTTMBk576jvY59k6kI4zNim3elEWqC3g"
+    },
+    {
+      "file": "Yeti.fbx",
+      "bytes": 3390716,
+      "sha256": "4a8cac621c9595f4ccb19c16e4bb590014c01b4b2994674122b0caf2b74de58d",
+      "author": "Quaternius",
+      "license": "CC0-1.0",
+      "source": "https://quaternius.com/packs/ultimatemonsters.html",
+      "download": "https://drive.google.com/uc?export=download&id=1mxDJESd4TqxjXJ-d9Zj83c7tZRWKen_4"
+    },
+    {
+      "file": "Ghost.fbx",
+      "bytes": 1784076,
+      "sha256": "e7d6ce7e0b08e43c387ab814ef1c7db6464e80f3f5eeabba224862445cd3910c",
+      "author": "Quaternius",
+      "license": "CC0-1.0",
+      "source": "https://quaternius.com/packs/ultimatemonsters.html",
+      "download": "https://drive.google.com/uc?export=download&id=1Ckp0j9VClWKOTPlyfuMQBz7vFpqn2t3_"
+    },
+    {
+      "file": "GhostSkull.fbx",
+      "bytes": 1786252,
+      "sha256": "1f0c4bed4489aef8927668e3fd7f63827dc3c99ec413694a62c8f12485d4f936",
+      "author": "Quaternius",
+      "license": "CC0-1.0",
+      "source": "https://quaternius.com/packs/ultimatemonsters.html",
+      "download": "https://drive.google.com/uc?export=download&id=1pQDfJwnc4r3PiVL73h4waXkqFuFngl6Y"
+    },
+    {
+      "file": "Goleling.fbx",
+      "bytes": 820204,
+      "sha256": "dfd78b43710499661f7bf353953b9ee18da977c252ac9cb963b520a783d1d947",
+      "author": "Quaternius",
+      "license": "CC0-1.0",
+      "source": "https://quaternius.com/packs/ultimatemonsters.html",
+      "download": "https://drive.google.com/uc?export=download&id=1j55qAtUkuKb6I56SXJ00p0OMCLm8NqpR"
+    },
+    {
+      "file": "Atlas_Monsters.png",
+      "bytes": 9007,
+      "sha256": "b970ed1359ce749fd81a8395d58ff5f3044d843213e17fb94b97892d417c0af9",
+      "author": "Quaternius",
+      "license": "CC0-1.0",
+      "source": "https://quaternius.com/packs/ultimatemonsters.html",
+      "download": "https://drive.google.com/uc?export=download&id=1CtLGgAKj-6a6GGNVNQT7GRPM7uyo9Fj8"
+    },
+    {
+      "file": "Alien-License.txt",
+      "bytes": 364,
+      "sha256": "83d8959f9fc56353ed571fbe2dc52e4bcd64508e2399501cd45ac2ce3df0bf8c",
+      "author": "Quaternius",
+      "license": "CC0-1.0",
+      "source": "https://quaternius.com/packs/animatedalien.html",
+      "download": "https://drive.google.com/uc?export=download&id=1MhrE5nFKpVAFHMeMXIMZP-ly01CazB-N"
+    },
+    {
+      "file": "Monsters-License.txt",
+      "bytes": 374,
+      "sha256": "de990ef6fc68cffd7fd1ae342c4d0c823b541b8848d8f76bca5d3339f4de6f6e",
+      "author": "Quaternius",
+      "license": "CC0-1.0",
+      "source": "https://quaternius.com/packs/ultimatemonsters.html",
+      "download": "https://drive.google.com/uc?export=download&id=16GqsDGESyEOfRbc4dS7EqAwkIUSIW4_y"
+    },
+    {
+      "file": "Animal-Pack-Vol2.zip",
+      "author": "Quaternius",
+      "license": "CC0-1.0",
+      "source": "https://opengameart.org/content/animated-animales-low-poly",
+      "download": "https://opengameart.org/sites/default/files/Animal%20Pack%20Vol.2%20by%20%40Quaternius.zip",
+      "bytes": 2069972,
+      "sha256": "6d8f6789d65dbdb352ebad98a4209f26b41b384e87d81bc05e9ca76139db1248"
+    }
+  ]
+}
