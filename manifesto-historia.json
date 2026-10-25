@@ -1,6 +1,6 @@
 {
-  "version": "1.30.0",
-  "release": "v1.30.0-login",
+  "version": "1.31.0",
+  "release": "v1.31.0-cidade",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -10,7 +10,7 @@
   ],
   "secretEncounters": 8,
   "weapons": 6,
-  "newVehicles": 14,
+  "newVehicles": 15,
   "garageMissions": 3,
   "cityServices": 11,
   "characters": 19,
@@ -22,15 +22,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 126850688,
-      "sha256": "a8f4f9d41e90b2f5cf914b4d6fa4c703066e7f12ebe4834489d31c3654265b1d"
+      "bytes": 128138027,
+      "sha256": "b0e7f38c96bdb5c0f90abd51816fc3abb7fb9a67302952bcacfeff01df93c480"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 114488215,
-      "sha256": "1247f1b8e122498f6a925415f4b0430be2a2fbbcf071678900f3699a08611e2f"
+      "bytes": 115720473,
+      "sha256": "0502ab7784eaeba39b1bc4567e1c089fe830d9bd5e140ea33ab747ae449a4e59"
     }
   ],
-  "webRevision": "11bcd8946cd8"
+  "webRevision": "ea4c9a0ccd05"
 }

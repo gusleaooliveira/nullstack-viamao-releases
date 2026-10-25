@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_31_0",
+            "kind": "news",
+            "title": "1.31 — Cidade viva e nova frota",
+            "body": "Novos modelos de carros, motos, caminhão, ônibus, avião e helicóptero; seis modelos distintos de armas. Personagens ocultos ao embarcar. Tiro com animação de tronco preservando a passada; veículos aéreos inclinam durante a subida. Mais trânsito e pedestres com atividades e objetos nas mãos. Sete novas fachadas de locais de missão modeladas no Blender. Céu com gradiente contínuo, neblina distante e cores/texturas com mais contraste.",
+            "updatedAt": 1792903674423
+        },
+        {
             "id": "release-1_30_0",
             "kind": "news",
             "title": "1.30 — Login conectado e partidas mais leves",
