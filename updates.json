@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_35_0",
+            "kind": "news",
+            "title": "1.35 — Câmera, jogabilidade e acabamento visual",
+            "body": "Correção de câmera ao encostar em obstáculos e carregamento das colisões antes do teleporte. Aparições terrestres permanecem no chão. Cidade com iluminação mais legível e cores refinadas. Setores fora da câmera deixam de ser desenhados, com margem para sombras; checagens visuais dos pedestres são espaçadas. Mantém os treze mistérios, campanhas e compatibilidade Windows/web.",
+            "updatedAt": 1792959056927
+        },
+        {
             "id": "release-1_34_0",
             "kind": "news",
             "title": "1.34 — Folclore brasileiro e cutscenes",

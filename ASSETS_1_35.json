@@ -1,0 +1,14 @@
+{
+  "version": "1.35.0",
+  "newDownloads": false,
+  "reusedCatalogs": [
+    "ASSETS_1_31.json",
+    "ASSETS_1_33.json",
+    "ASSETS_1_34.json"
+  ],
+  "changes": [
+    "Correções de câmera, teleporte e aparições",
+    "Otimização de setores e atualização de NPCs",
+    "Iluminação e acabamento de cores"
+  ]
+}
