@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_34_0",
+            "kind": "news",
+            "title": "1.34 — Folclore brasileiro e cutscenes",
+            "body": "Cinco novos mistérios: Curupira, Boitatá, Mapinguari, Iara e Anhangá, com modelos da coleção jogo-indio, animações e LODs. Mantém os oito mistérios anteriores e seu progresso. Cutscenes com planos estáveis, transições suaves, nome de quem fala e enquadramento com proteção contra obstáculos.",
+            "updatedAt": 1792920266930
+        },
+        {
             "id": "release-1_33_0",
             "kind": "news",
             "title": "1.33 — Criaturas e visitantes dos mistérios",

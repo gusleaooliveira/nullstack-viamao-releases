@@ -1,0 +1,50 @@
+{
+  "version": "1.34.0",
+  "items": [
+    {
+      "id": "curupira",
+      "source": "jogo-indio/modelos/animados/curupira.glb",
+      "sha256": "78cda830174605a33cd9dc898ba2dc7543c3b3daa60f9c916967193927ba3a74",
+      "provenance": "Asset disponibilizado pelo proprietário na pasta jogo-indio; não reclassificado como CC0.",
+      "original": "assets-baixados/16-folclore-134/curupira.glb"
+    },
+    {
+      "id": "boitata",
+      "source": "jogo-indio/modelos/animados/boitata.glb",
+      "sha256": "fd25592342537352acb3a5bfe4a3dea02ca80470b20d53868b32f737ee304fb4",
+      "provenance": "Asset disponibilizado pelo proprietário na pasta jogo-indio; não reclassificado como CC0.",
+      "original": "assets-baixados/16-folclore-134/boitata.glb"
+    },
+    {
+      "id": "mapinguari",
+      "source": "jogo-indio/modelos/animados/mapinguari.glb",
+      "sha256": "f44b684632a867352b5333b05032cdee037d6bb7838652d64dea5279d01a5c3c",
+      "provenance": "Asset disponibilizado pelo proprietário na pasta jogo-indio; não reclassificado como CC0.",
+      "original": "assets-baixados/16-folclore-134/mapinguari.glb"
+    },
+    {
+      "id": "iara",
+      "source": "jogo-indio/modelos/animados/iara.glb",
+      "sha256": "041275a719d954ed3992f823c3ee9aa2afa03f4146565c69eb834c589f283317",
+      "provenance": "Asset disponibilizado pelo proprietário na pasta jogo-indio; não reclassificado como CC0.",
+      "original": "assets-baixados/16-folclore-134/iara.glb"
+    },
+    {
+      "id": "anhanga_corrompido",
+      "source": "jogo-indio/modelos/animados/anhanga_corrompido.glb",
+      "sha256": "1d2453e22dee62f6259463de8f90361fcc2dabe5c5dabe8d29d4ac3f70a63af7",
+      "provenance": "Asset disponibilizado pelo proprietário na pasta jogo-indio; não reclassificado como CC0.",
+      "original": "assets-baixados/16-folclore-134/anhanga_corrompido.glb"
+    }
+  ],
+  "research": [
+    {
+      "url": "https://sketchfab.com/3d-models/corpo-seco-1703ddd25f32477abcb0f03d5ccd3ca4",
+      "status": "alternativa pesquisada; não utilizada"
+    },
+    {
+      "url": "https://www.meshy.ai/cs/3d-models/mapinguari-01a002b1-85a2-7923-9577-dade244c4e4f",
+      "status": "alternativa pesquisada; utilizado modelo local fornecido pelo proprietário"
+    }
+  ]
+}
