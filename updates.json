@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_32_0",
+            "kind": "news",
+            "title": "1.32 — Pedestres corrigidos e acabamento visual",
+            "body": "Pedestres com eixo vertical corrigido e cores de roupas, pele e cabelo preservadas. Partes compatíveis unidas para reduzir chamadas de desenho, mantendo a forma. Suavização de bordas, acabamento de cores e três perfis gráficos por F7. Animação de NPCs fora da câmera recebe orçamento menor. Céu associado à câmera principal e neblina alinhada ao alcance de desenho. Preserva frota, seis armas, prédios de missões, Windows/web e login Google/GitHub.",
+            "updatedAt": 1792912034618
+        },
+        {
             "id": "release-1_31_0",
             "kind": "news",
             "title": "1.31 — Cidade viva e nova frota",

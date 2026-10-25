@@ -1,6 +1,6 @@
 {
-  "version": "1.31.0",
-  "release": "v1.31.0-cidade",
+  "version": "1.32.0",
+  "release": "v1.32.0-graficos",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -22,15 +22,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 128138027,
-      "sha256": "b0e7f38c96bdb5c0f90abd51816fc3abb7fb9a67302952bcacfeff01df93c480"
+      "bytes": 128133666,
+      "sha256": "c337920c706e66d5a6828f71765a1dd7b128703507e6d4857250b3d90b9bbffc"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 115720473,
-      "sha256": "0502ab7784eaeba39b1bc4567e1c089fe830d9bd5e140ea33ab747ae449a4e59"
+      "bytes": 115755553,
+      "sha256": "275999a9cc6db40d6a3f1eb71da9e8a55d94909a5df77eaf5786e47ddf92003f"
     }
   ],
-  "webRevision": "ea4c9a0ccd05"
+  "webRevision": "d3ad709a8fd4"
 }
