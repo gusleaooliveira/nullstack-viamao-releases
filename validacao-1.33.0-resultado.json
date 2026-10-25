@@ -612,5 +612,22 @@
       "H15-3"
     ],
     "errors": []
+  },
+  "browser": {
+    "passed": true,
+    "version": "1.33.0",
+    "revision": "182926fd21cd",
+    "unityGzipFallbackLoaded": true,
+    "menuRendered": true,
+    "soloMovementTested": true,
+    "gameJavaScriptErrors": 0,
+    "unrelatedChromeExtensionErrorExcluded": true,
+    "cloudSaveWritten": false,
+    "publishedMenuVerified": true
+  },
+  "builds": {
+    "windows": true,
+    "web": true,
+    "webRevision": "182926fd21cd"
   }
 }
