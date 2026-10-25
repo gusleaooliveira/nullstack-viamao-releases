@@ -3,7 +3,7 @@
   "protocol": "nullstack-room-v17",
   "passed": true,
   "physicalControllerTested": false,
-  "liveCrossplayTested": false,
+  "liveCrossplayTested": true,
   "backendChanged": false,
   "Melhorias": {
     "passed": true,
@@ -328,5 +328,19 @@
       "H15-3"
     ],
     "errors": []
+  },
+  "crossplay": {
+    "passed": true,
+    "version": "1.31.0",
+    "host": "published WebGL",
+    "client": "Windows",
+    "players": 2,
+    "snapshots": 75,
+    "protocol": "nullstack-room-v17",
+    "screenshot": "Navegador/crossplay131.png",
+    "physicalControllerTested": false,
+    "clientExited": true,
+    "hostRoomClosed": true,
+    "profileRestored": true
   }
 }

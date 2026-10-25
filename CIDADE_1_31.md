@@ -19,3 +19,9 @@ F10 abre Conta e nuvem. Google e GitHub estão configurados no Railway; faça lo
 ## Restauração
 
 Use os arquivos correntes 01 (fonte), 02 (Blender), 05 (Windows), 06 (web) e 14 (validação) do Drive, seguindo BACKUP_DRIVE.md. Os complementos históricos de música e vozes 15, 17 e 18 continuam necessários para reconstruir todo o áudio. Não inclua caches Unity nem credenciais. Backend PostgreSQL permanece no repositório próprio.
+
+## Validação da entrega
+
+Windows e web compilados; 45 verificações novas, 55 de armas, 142 de personagens, 63 de sistemas, 21 missões principais, 57 opcionais e 353 objetivos. Sala real entre a web publicada e Windows: dois jogadores e 75 snapshots. Perfis Windows restaurados após os testes. Não houve teste com controle físico; entradas de controle foram simuladas nos testes de armas.
+
+Os novos originais estão em materiais-originais/cidade-1.31/modelos-originais.zip no fonte: extraia em assets-baixados/14-cidade-131 se quiser refazer a conversão sem baixar novamente. As posições estabilizadas estão em Story/campaign.json; ao alterar colisões/prédios, remova City131/anchors-frozen.txt, saneie os pontos uma vez e fixe-os antes das duas compilações.
