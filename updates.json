@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_36_0",
+            "kind": "news",
+            "title": "1.36 — Versões dos personagens, camisetas e bonés",
+            "body": "Os personagens originais continuam disponíveis. Seis aparências adicionais: Igor v2, Gustavo v3, Matheus alternativo, Silvio Kratos e Miqueias dinossauro/sapo. Troque em Personalização (F6), preservando identidade e progresso. Seis estampas, dois bonés com cores personalizáveis e duas imagens nos outdoors. Modelos otimizados; escolhas incluídas no salvamento. A personagem do encontro “me vê dois reais?” agora se chama Louca. Windows e web compatíveis.",
+            "updatedAt": 1793026800000
+        },
+        {
             "id": "release-1_35_0",
             "kind": "news",
             "title": "1.35 — Câmera, jogabilidade e acabamento visual",

@@ -1,6 +1,6 @@
 {
-  "version": "1.35.0",
-  "release": "v1.35.0-polimento",
+  "version": "1.36.0",
+  "release": "v1.36.0-roupas",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -8,6 +8,10 @@
     "zombie-survival",
     "beat-em-up"
   ],
+  "alternateAppearances": 6,
+  "billboardImages": 2,
+  "shirtPrints": 6,
+  "capDesigns": 2,
   "mysteryModels": 13,
   "mysteryIdlePoseSamples": 78,
   "secretEncounters": 13,
@@ -24,15 +28,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 137995898,
-      "sha256": "39dc10530ffe789874ba7e4611d9fad7be53638756749c839eb1541d6fc70359"
+      "bytes": 154901909,
+      "sha256": "fb9403d148d519c1d238323e788178061f09175d8bc2fc699df7c2b08bb6fafe"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 122089973,
-      "sha256": "025cd2a5d9b187fa39c110ad36b87b9520b835764cfc736fab6295f385b3d18a"
+      "bytes": 131215360,
+      "sha256": "291ff1accee2d9c258457151fe4adc5ebafeb5e1d25176d005da5ba17a8e18ef"
     }
   ],
-  "webRevision": "73e54fcf8d11"
+  "webRevision": "593c9739940a"
 }

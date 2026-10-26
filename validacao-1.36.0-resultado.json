@@ -1,0 +1,335 @@
+{
+  "version": "1.36.0",
+  "protocol": "nullstack-room-v17",
+  "passed": true,
+  "physicalControllerTested": false,
+  "liveCrossplayTested": false,
+  "backendChanged": false,
+  "Expansao": {
+    "passed": true,
+    "checks": 252,
+    "errors": [],
+    "captures": [
+      "claude-importado.png",
+      "cj-importado.png",
+      "carro-9.png",
+      "carro-10.png",
+      "carro-11.png",
+      "carro-12.png",
+      "carro-13.png",
+      "carro-14.png",
+      "personalizacao.png",
+      "corrida-0.png",
+      "corrida-1.png",
+      "corrida-2.png",
+      "louca-dois-reais.png",
+      "gesto-4.png",
+      "gesto-5.png",
+      "gesto-6.png",
+      "gesto-7.png",
+      "sangue.png",
+      "pedestre-jogger.png",
+      "pedestre-bluewoman.png"
+    ],
+    "botDistance": 109.99444580078125
+  },
+  "Variantes": {
+    "passed": true,
+    "checks": 95,
+    "variants": 6,
+    "errors": []
+  },
+  "Roupas": {
+    "passed": true,
+    "checks": 193,
+    "capTriangles": 480,
+    "capVertices": 311,
+    "errors": [],
+    "pictures": [
+      "personagem-0.png",
+      "personagem-17.png",
+      "personagem-18.png",
+      "camiseta-1.png",
+      "camiseta-2.png",
+      "camiseta-3.png",
+      "camiseta-4.png",
+      "camiseta-5.png",
+      "camiseta-6.png",
+      "bone-1.png",
+      "bone-2.png",
+      "camiseta-cor-azul.png",
+      "bone-cor-amarelo.png",
+      "personalizacao-menu.png"
+    ]
+  },
+  "Sistemas": {
+    "passed": true,
+    "checks": 64,
+    "errors": [],
+    "pictures": [
+      "garagem-persistente.png",
+      "mochila-carreira.png",
+      "piscina-entrada.png",
+      "piscina-nadando.png",
+      "piscina-saida.png",
+      "cutscene-missao.png"
+    ],
+    "poolStart": {
+      "x": -88.16767883300781,
+      "y": 32.37698745727539,
+      "z": 90.93536376953125
+    },
+    "poolSwim": {
+      "x": -88.16767883300781,
+      "y": 31.287023544311523,
+      "z": 100.93585968017578
+    },
+    "poolExit": {
+      "x": -88.16767883300781,
+      "y": 32.94306182861328,
+      "z": 90.93309020996094
+    }
+  },
+  "Otimizacao": {
+    "passed": true,
+    "checks": 142,
+    "errors": [],
+    "characters": [
+      {
+        "name": "Igor",
+        "sourceVertices": 14550,
+        "animatedVertices": 13816,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Lucas",
+        "sourceVertices": 13434,
+        "animatedVertices": 12549,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Matheus - visual 1",
+        "sourceVertices": 13138,
+        "animatedVertices": 12349,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Matheus - visual 2",
+        "sourceVertices": 13395,
+        "animatedVertices": 12694,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Gustavo",
+        "sourceVertices": 13765,
+        "animatedVertices": 13214,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Mateus / Fredinho",
+        "sourceVertices": 13623,
+        "animatedVertices": 12484,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Henrique",
+        "sourceVertices": 14330,
+        "animatedVertices": 13773,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Lohan",
+        "sourceVertices": 13108,
+        "animatedVertices": 12223,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Luiz",
+        "sourceVertices": 13857,
+        "animatedVertices": 12853,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Miqueias",
+        "sourceVertices": 12900,
+        "animatedVertices": 12202,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Silvio",
+        "sourceVertices": 13836,
+        "animatedVertices": 13227,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Diogo / Diego",
+        "sourceVertices": 13135,
+        "animatedVertices": 12217,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Talia",
+        "sourceVertices": 14832,
+        "animatedVertices": 14187,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Gabriel",
+        "sourceVertices": 13164,
+        "animatedVertices": 12439,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Dudu",
+        "sourceVertices": 18728,
+        "animatedVertices": 18283,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Gabriel - visual 2",
+        "sourceVertices": 15144,
+        "animatedVertices": 14261,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Lula",
+        "sourceVertices": 13922,
+        "animatedVertices": 13922,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Claude",
+        "sourceVertices": 1396,
+        "animatedVertices": 1166,
+        "handVertices": 832,
+        "cached": true
+      },
+      {
+        "name": "Carl Johnson \u00b7 CJ",
+        "sourceVertices": 2167,
+        "animatedVertices": 1741,
+        "handVertices": 832,
+        "cached": true
+      }
+    ],
+    "handWritesBefore": 271,
+    "handWritesAfter": 271
+  },
+  "Armas": {
+    "passed": true,
+    "physicalControllerTested": false,
+    "checks": 55,
+    "errors": []
+  },
+  "Campanha": {
+    "passed": true,
+    "saveResume": true,
+    "checkpointRecovery": true,
+    "combatInput": true,
+    "mapGround": true,
+    "blenderMap": true,
+    "main": 21,
+    "optional": 57,
+    "objectives": 353,
+    "sourceRenderers": 3683,
+    "renderChunks": 328,
+    "completed": [
+      "P01",
+      "P02",
+      "M01",
+      "M02",
+      "M03",
+      "M04",
+      "M05",
+      "M06",
+      "M07",
+      "M08",
+      "M09",
+      "M10",
+      "C01",
+      "C02",
+      "C03",
+      "C04",
+      "C05",
+      "C06",
+      "C07",
+      "F01",
+      "E01",
+      "U01",
+      "U02",
+      "U03",
+      "U04",
+      "U05",
+      "U06",
+      "U07",
+      "U08",
+      "U09",
+      "U10",
+      "U11",
+      "U12",
+      "H01-1",
+      "H01-2",
+      "H01-3",
+      "H02-1",
+      "H02-2",
+      "H02-3",
+      "H03-1",
+      "H03-2",
+      "H03-3",
+      "H04-1",
+      "H04-2",
+      "H04-3",
+      "H05-1",
+      "H05-2",
+      "H05-3",
+      "H06-1",
+      "H06-2",
+      "H06-3",
+      "H07-1",
+      "H07-2",
+      "H07-3",
+      "H08-1",
+      "H08-2",
+      "H08-3",
+      "H09-1",
+      "H09-2",
+      "H09-3",
+      "H10-1",
+      "H10-2",
+      "H10-3",
+      "H11-1",
+      "H11-2",
+      "H11-3",
+      "H12-1",
+      "H12-2",
+      "H12-3",
+      "H13-1",
+      "H13-2",
+      "H13-3",
+      "H14-1",
+      "H14-2",
+      "H14-3",
+      "H15-1",
+      "H15-2",
+      "H15-3"
+    ],
+    "errors": []
+  }
+}

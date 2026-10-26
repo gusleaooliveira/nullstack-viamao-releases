@@ -1,0 +1,186 @@
+{
+  "version": "1.36.0",
+  "items": [
+    {
+      "id": 1,
+      "asset": "NullStack-Unity/Assets/Resources/Apparel136/shirt-1.png",
+      "original": "assets-baixados/17-roupas-136/shirt-1.png",
+      "sha256": "d2b13b578e08f87dc61c66434623c52d19b749312ea7dd4ff0219714fd6b8d5e",
+      "reference": "assets-baixados/17-roupas-136/referencias/referencia-01.png",
+      "referenceSha256": "d2b13b578e08f87dc61c66434623c52d19b749312ea7dd4ff0219714fd6b8d5e",
+      "method": "reference RGB mask in Fabric136.shader",
+      "maxTextureSize": 512
+    },
+    {
+      "id": 2,
+      "asset": "NullStack-Unity/Assets/Resources/Apparel136/shirt-2.png",
+      "original": "assets-baixados/17-roupas-136/shirt-2.png",
+      "sha256": "de797cedf52e0d2406845079be8c61c4af023f17152a6b25f87fa76e4fb81783",
+      "reference": "assets-baixados/17-roupas-136/referencias/referencia-02.png",
+      "referenceSha256": "e9face9c794468a53ef9ec98e3895d2a65f03b2633812e575eba119136a95f1b",
+      "method": "built-in image_gen transparent reference derivation",
+      "maxTextureSize": 512
+    },
+    {
+      "id": 3,
+      "asset": "NullStack-Unity/Assets/Resources/Apparel136/shirt-3.png",
+      "original": "assets-baixados/17-roupas-136/shirt-3.png",
+      "sha256": "b1274cedf970731fd6294db3444822bb6fcebe3c4b4041aec1e53ba96d14fcc3",
+      "reference": "assets-baixados/17-roupas-136/referencias/referencia-03.png",
+      "referenceSha256": "b1274cedf970731fd6294db3444822bb6fcebe3c4b4041aec1e53ba96d14fcc3",
+      "method": "reference RGB mask in Fabric136.shader",
+      "maxTextureSize": 512
+    },
+    {
+      "id": 4,
+      "asset": "NullStack-Unity/Assets/Resources/Apparel136/shirt-4.png",
+      "original": "assets-baixados/17-roupas-136/shirt-4.png",
+      "sha256": "b9b181bdb665346b8751c31234b3df8a852df7ba341337cc233766d0e3e57860",
+      "reference": "assets-baixados/17-roupas-136/referencias/referencia-04.png",
+      "referenceSha256": "c66edb9dfcc17262e47816c3d76c1b9dcd471d0e836bc0561fd3fa9da651af97",
+      "method": "built-in image_gen transparent reference derivation",
+      "maxTextureSize": 512
+    },
+    {
+      "id": 5,
+      "asset": "NullStack-Unity/Assets/Resources/Apparel136/shirt-5.png",
+      "original": "assets-baixados/17-roupas-136/shirt-5.png",
+      "sha256": "a2ed0f04352d0a09004144da439867868c8907eb29cce8cf10c9c2f7d300b3fb",
+      "reference": "assets-baixados/17-roupas-136/referencias/referencia-05.png",
+      "referenceSha256": "960dfadfbc115207b8b4034311d86c60f9f44ac60d2d3181b004f8b1860ff3ef",
+      "method": "built-in image_gen transparent reference derivation",
+      "maxTextureSize": 512
+    },
+    {
+      "id": 6,
+      "asset": "NullStack-Unity/Assets/Resources/Apparel136/shirt-6.png",
+      "original": "assets-baixados/17-roupas-136/shirt-6.png",
+      "sha256": "7526dd90b0afe16e4510e0dccb12efed85b40452a89eaca5cf8625a04baddbf4",
+      "reference": "assets-baixados/17-roupas-136/referencias/referencia-06.png",
+      "referenceSha256": "753548cae6b78f8f21ff80e746964970d627d8c009584fafe2a9719ddd07ab1c",
+      "method": "built-in image_gen transparent reference derivation",
+      "maxTextureSize": 512
+    },
+    {
+      "id": 7,
+      "asset": "NullStack-Unity/Assets/Resources/Apparel136/cap-1.png",
+      "original": "assets-baixados/17-roupas-136/cap-1.png",
+      "sha256": "9c507f9f2f342fd58f55310fe22b449e44ea14e28492e7c9017ca9015b2eb1af",
+      "reference": "assets-baixados/17-roupas-136/referencias/referencia-07.png",
+      "referenceSha256": "155ea1d35fa10cff198ffa246b86fcb9dd6b177e7167afbcb14b637543f539f9",
+      "method": "built-in image_gen transparent reference derivation",
+      "maxTextureSize": 512
+    },
+    {
+      "id": 8,
+      "asset": "NullStack-Unity/Assets/Resources/Apparel136/cap-2.png",
+      "original": "assets-baixados/17-roupas-136/cap-2.png",
+      "sha256": "04a25463992240ad8951bbdadab90ab8875e9dda45542b623492c94850f6d20f",
+      "reference": "assets-baixados/17-roupas-136/referencias/referencia-08.png",
+      "referenceSha256": "37c2e361bc1f99df7c125d7aa4404e635dfd9a1f828f2b797a72545d6402f691",
+      "method": "built-in image_gen transparent reference derivation",
+      "maxTextureSize": 512
+    }
+  ],
+  "capMesh": {
+    "generator": "NullStack-Unity/Assets/Editor/ApparelBuild136.cs",
+    "vertices": 311,
+    "triangles": 480
+  },
+  "licenseNotice": "Referências do proprietário, sem reclassificação como CC0. Artes derivadas por IA; não afilia o jogo a titulares das marcas.",
+  "characterVariants": [
+    {
+      "character": "igor",
+      "variant": "v2",
+      "label": "Igor v2",
+      "original": "igor v2.glb",
+      "sourceSha256": "68b7999c5a1778f8d64e380e3aa95a1c41ed1d9dc00660c48d25c5c037a7ab77",
+      "beforeTriangles": 1860375,
+      "afterTriangles": 18000,
+      "textureSize": 1024,
+      "resource": "Characters/Variants136/igor/v2"
+    },
+    {
+      "character": "gustavo",
+      "variant": "v3",
+      "label": "Gustavo v3",
+      "original": "gustavo v3.glb",
+      "sourceSha256": "e01707dcff16db8eda81e03a5dd101f8fd36445f78bbf2c8a5423382302fb38c",
+      "beforeTriangles": 1916720,
+      "afterTriangles": 18000,
+      "textureSize": 1024,
+      "resource": "Characters/Variants136/gustavo/v3"
+    },
+    {
+      "character": "matheus_v1",
+      "variant": "novo",
+      "label": "Matheus alternativo",
+      "original": "matheus.glb",
+      "sourceSha256": "60c0d4b5844b79eb115efb17201cda0fccfc7cb188ebb652f52f019ea767096c",
+      "beforeTriangles": 1899622,
+      "afterTriangles": 17999,
+      "textureSize": 1024,
+      "resource": "Characters/Variants136/matheus_v1/novo"
+    },
+    {
+      "character": "silvio",
+      "variant": "kratos",
+      "label": "Silvio · Kratos",
+      "original": "kratos 3d model.glb",
+      "sourceSha256": "577684b2d18c337127b684fbdf2082e12ea629cffe5c849b33f13d57c2065c47",
+      "beforeTriangles": 1935385,
+      "afterTriangles": 18000,
+      "textureSize": 1024,
+      "resource": "Characters/Variants136/silvio/kratos"
+    },
+    {
+      "character": "miqueias",
+      "variant": "dinossauro",
+      "label": "Miqueias · Dinossauro",
+      "original": "dinosaur character 3d model.glb",
+      "sourceSha256": "3b419ed82d20ae4c79c9bd8c055495c8413d5683420170899f3ab20a6930f48f",
+      "beforeTriangles": 1903692,
+      "afterTriangles": 17999,
+      "textureSize": 1024,
+      "resource": "Characters/Variants136/miqueias/dinossauro"
+    },
+    {
+      "character": "miqueias",
+      "variant": "sapo",
+      "label": "Miqueias · Sapo",
+      "original": "cartoon frog 3d model.glb",
+      "sourceSha256": "9942e99eb822f2b52a14b03121d7fe562f1bf8248cae014da56f066d65b5006c",
+      "beforeTriangles": 1934078,
+      "afterTriangles": 18000,
+      "textureSize": 1024,
+      "resource": "Characters/Variants136/miqueias/sapo"
+    }
+  ],
+  "originalCatalogPreserved": true,
+  "billboards": [
+    {
+      "path": "NullStack-Unity/Assets/Resources/Billboards136/image-1.png",
+      "sha256": "02d163caf2bd0368769ada6d74dbbba82e1b03c22f440aba08c47524659a950a",
+      "source": "Imagem fornecida pelo proprietário",
+      "displayOnly": true
+    },
+    {
+      "path": "NullStack-Unity/Assets/Resources/Billboards136/image-2.png",
+      "sha256": "e409facc3ff559353a85ee6f4c1244c8268f13695ed5eedae12376566cf771ae",
+      "source": "Imagem fornecida pelo proprietário",
+      "displayOnly": true
+    }
+  ],
+  "runtimeTextureLimits": {
+    "Windows": {
+      "apparel": 512,
+      "billboards": 2048,
+      "characterVariants": 1024
+    },
+    "Web": {
+      "apparel": 256,
+      "billboards": 512,
+      "characterVariants": 1024
+    }
+  }
+}
