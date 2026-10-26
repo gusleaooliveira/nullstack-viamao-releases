@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_38_0",
+            "kind": "news",
+            "title": "1.38 — Animais, motos e colisões da cidade",
+            "body": "Animais com caminhada suave, pausas e movimentos de alimentação; gatos e ratos com articulações leves e malhas compartilhadas. Motos com rodas em movimento, direção, inclinação e colisão mais estreita. Pedestres com cápsula física, proteção ao atravessar obstáculos e atropelamento ajustado ao tamanho do veículo. Posto de saúde retirado da rua; 166 prédios do mapa revisados e volumes fechados de colisão no Blender. Mantém Windows e web, personagens e progresso.",
+            "updatedAt": 1793048820662
+        },
+        {
             "id": "release-1_37_0",
             "kind": "news",
             "title": "1.37 — HUD, menus e acesso às versões",
