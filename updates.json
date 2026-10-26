@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_37_0",
+            "kind": "news",
+            "title": "1.37 — HUD, menus e acesso às versões",
+            "body": "Garagem centralizada com veículos e trabalhos separados, fundo opaco e HUD oculto. Personalização organizada em abas; versões dos personagens aparecem primeiro, com prévia. Celular com atalho de aparências no topo. Menu indica personagens com versões extras: Igor v2, Gustavo v3, Matheus, Silvio Kratos e Miqueias dinossauro/sapo. Originais e progresso preservados. Interface adaptada a janelas pequenas e Windows/web.",
+            "updatedAt": 1793043731624
+        },
+        {
             "id": "release-1_36_0",
             "kind": "news",
             "title": "1.36 — Versões dos personagens, camisetas e bonés",

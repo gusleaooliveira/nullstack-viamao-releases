@@ -1,30 +1,14 @@
-# Versões dos personagens, camisetas e bonés — 1.36.0
+# Interface 1.37
 
-Abra **F6** ou Celular → Personalizar personagem/carro. Role até **Estampa da camiseta**: Lula stencil, Lulou, Eu sou a Lenda, Estrela e óculos, Metallurgica preto e Metallurgica vermelho. Sem estampa mantém a personalização anterior. **Camiseta** muda a cor do tecido; Original usa a cor de referência da estampa.
+Garagem centralizada com duas colunas: veículos e trabalhos. O fundo oculta o HUD e o minimapa; botões e listas cabem em janelas curtas. Feche em Voltar ao jogo ou F3/Esc.
 
-Em **Modelo do boné**, escolha Original, LULA branco ou LULA vermelho com emblema e arte na aba. A cor do boné é independente da camiseta. Sem chapéu tira o acessório e preserva a escolha para a próxima vez. Use **Ver roupa de frente** para fechar o menu e girar a câmera. Teclado/mouse e a navegação de controle existentes continuam disponíveis.
+Personalização em quatro abas: Personagem / versões, Roupas e bonés, Veículo e Gestos / opções. A primeira aba mostra os modelos disponíveis e sua prévia. Abra pelo primeiro botão do celular (P → Aparências / roupas) ou F6 no Windows. A prévia é renderizada apenas enquanto sua aba estiver visível.
 
-Escolhas salvas por personagem no perfil local e no mesmo payload do save portátil e de nuvem. Para levar ao outro dispositivo, use a mesma conta e as opções existentes de enviar/carregar progresso; não substitui automaticamente um save em conflito. Novos campos têm zero como padrão, preservando saves antigos. Windows e web precisam estar na 1.36 para mostrar as novas peças em salas. O protocolo das salas permanece nullstack-room-v17.
+Versões extras confirmadas no catálogo: Igor v2, Gustavo v3, Matheus alternativo, Silvio Kratos e Miqueias dinossauro e sapo. Não são novas identidades: os 19 personagens originais e seu dinheiro, missões e progresso continuam disponíveis. No menu inicial, o sinal + indica quem tem versões extras; selecione um deles, entre no jogo e abra Aparências.
 
-O boné usa uma malha original compartilhada de 311 vértices/480 triângulos. Camisetas reaproveitam os pesos do esqueleto existente e são recortadas nas costuras, com geometria compartilhada por modelo. Materiais de estampas e texturas são compartilhados; importação com mipmaps e limite de 512 pixels. Nenhum esqueleto, mão ou corpo original é substituído.
+Mantém teclado/mouse, navegação de interface por controle e protocolo nullstack-room-v17 entre Windows e web. Nenhum teste físico de controle, login ou crossplay ao vivo é declarado nesta atualização. O perfil Windows é restaurado após os testes automatizados.
 
-As oito referências foram enviadas pelo proprietário. Seis artes finais derivadas com a ferramenta integrada image_gen; duas referências brancas preservam o desenho original com máscara do fundo vermelho no shader. Originais, hashes e método em ASSETS_1_36.json; prompts e referências no pacote 40-originais-roupas-1.36.0.zip. Não são reclassificados como CC0. Preparação no Unity: ApparelBuild136.Prepare; não precisa de Blender para compilar. O mapa estático não mudou.
-
-Teste de roupas: 19 personagens, camiseta/boné, corrida/tiro/natação, persistência por personagem, snapshot de rede, round trip de save portátil, rejeição de opções inválidas e cache de materiais. Fotos reais em documentacao/validacao/1.36.0/Roupas. Regressões e limites efetivamente verificados constam no resultado.json da versão. Controle físico, login de produção e crossplay ao vivo não são declarados revalidados por esses testes.
-
-## Versões adicionais dos personagens
-
-Os 19 personagens originais e suas identidades permanecem no catálogo. Os novos modelos são aparências do mesmo personagem, não novos slots de progresso: Igor → Original/Igor v2; Gustavo → Original/Gustavo v3; Matheus (primeira entrada) → Original/Matheus alternativo; Silvio → Original/Silvio Kratos; Miqueias → Original/Dinossauro/Sapo. Em F6, role até **Versão do mesmo personagem**. Troque fora de veículos e corridas. A prévia do menu usa a última versão salva.
-
-A escolha compartilha dinheiro, missões, trabalhos e história do personagem existente; o valor zero mantém o original em saves antigos. É incluída no snapshot de rede e no salvamento portátil/nuvem existente. Os seis GLBs enviados são preservados nos complementos de backup 41; cópias de trabalho foram reduzidas de aproximadamente 1,9 milhão para até 18 mil triângulos, com texturas de 1024 pixels e malhas/esqueletos em cache por versão. Scripts Blender reproduzem a preparação. Nenhum modelo original do catálogo foi sobrescrito.
-
-As duas imagens enviadas foram aplicadas à frente e ao verso dos dois primeiros outdoors. A proporção é preservada. Textos, links e QR codes são somente parte da imagem; o jogo não os abre. Os outros outdoors mantêm o sistema de anúncios.
-
-A troca de versão recria somente o visual: não recria/remove o veículo atual. Validação de versões: 95 verificações, incluindo veículo preservado, pesos dos dedos do sapo, animações, retorno aos originais, snapshot e salvamento. Roupas: 193 verificações nos 19 personagens originais.
-
-A personagem do encontro opcional “me vê dois reais?” passa a se chamar **Louca** no HUD, mensagens e novos registros de doação. Identificadores internos, perseguição, pagamentos e progresso permanecem compatíveis.
-
-As proporções das imagens são preservadas na importação. No Windows, roupas e bonés usam até 512 pixels e outdoors até 2048; na web, até 256 e 512, respectivamente. Os seis modelos adicionais mantêm texturas de 1024 nas duas plataformas. Arquivos originais preservados nos backups.
+Ferramentas: compilar_137.py windows web; validar_137.py Interface Variantes Roupas Expansao --clean-profile. Originais dos modelos e roupas não mudaram: backups 40 e 41 da 1.36 permanecem válidos.
 
 
-Novidades 1.36.0: leia ROUPAS_1_36.md. Carreiras: CARREIRAS_1_26.md. Corridas e personalização: EXPANSAO_1_23.md. Assets e efeitos anteriores: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Entre nos círculos dourados para iniciar histórias liberadas. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.
+Novidades 1.37.0: leia INTERFACE_1_37.md. Carreiras: CARREIRAS_1_26.md. Corridas e personalização: EXPANSAO_1_23.md. Assets e efeitos anteriores: leia ASSETS_1_18.md para modelos, efeitos, animais, HUD e GPS. Leia MODOS_1_16.md para Zumbi, Beat em up, armas, garagem e missões. Histórias: HISTORIAS_PERSONAGENS_1_15.md. Entre nos círculos dourados para iniciar histórias liberadas. Banco: BANCO_1_12.md. Cidade viva: CIDADE_VIVA_1_11.md. Poderes: PODERES_1_10.md.

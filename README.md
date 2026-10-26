@@ -1,5 +1,5 @@
-# NullStack 1.36.0 — Versões dos personagens, camisetas e bonés
+# NullStack 1.37 — HUD e menus
 
-[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Windows](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.36.0-roupas) · [Capturas](galeria-1.36.0/)
+[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/) · [Windows](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.37.0-interface) · [Capturas](galeria-1.37.0/)
 
-Seis aparências alternativas: Igor v2, Gustavo v3, Matheus, Silvio Kratos e Miqueias dinossauro/sapo. Os 19 personagens originais permanecem; cada versão usa o progresso do mesmo personagem. A personagem do encontro opcional agora se chama Louca. Duas imagens nos outdoors, seis estampas de camiseta e dois bonés baseados nas referências fornecidas. Abra F6, role até Versão do mesmo personagem para trocar o modelo, ou escolha estampa e cor e use Ver roupa de frente. Aparência salva por personagem no mesmo save portátil e de nuvem; login e envio/carregamento seguem as escolhas existentes. Boné de 311 vértices e 480 triângulos, texturas limitadas a 512 pixels, malhas e materiais compartilhados. Mantém cidade, veículos, armas, história, treze mistérios e compatibilidade Windows/web. [Guia](ROUPAS_1_36.md).
+Garagem centralizada, sem sobreposição do HUD, e personalização em abas. Versões dos personagens na primeira aba e atalho no topo do celular. Igor v2, Gustavo v3, Matheus, Silvio Kratos e Miqueias dinossauro/sapo confirmados; originais e progresso preservados. [Guia](INTERFACE_1_37.md).

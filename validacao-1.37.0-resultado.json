@@ -1,0 +1,70 @@
+{
+  "version": "1.37.0",
+  "protocol": "nullstack-room-v17",
+  "passed": true,
+  "physicalControllerTested": false,
+  "liveCrossplayTested": false,
+  "backendChanged": false,
+  "Interface": {
+    "passed": true,
+    "checks": 28,
+    "errors": []
+  },
+  "Expansao": {
+    "passed": true,
+    "checks": 252,
+    "errors": [],
+    "captures": [
+      "claude-importado.png",
+      "cj-importado.png",
+      "carro-9.png",
+      "carro-10.png",
+      "carro-11.png",
+      "carro-12.png",
+      "carro-13.png",
+      "carro-14.png",
+      "personalizacao.png",
+      "corrida-0.png",
+      "corrida-1.png",
+      "corrida-2.png",
+      "louca-dois-reais.png",
+      "gesto-4.png",
+      "gesto-5.png",
+      "gesto-6.png",
+      "gesto-7.png",
+      "sangue.png",
+      "pedestre-jogger.png",
+      "pedestre-bluewoman.png"
+    ],
+    "botDistance": 109.99444580078125
+  },
+  "Variantes": {
+    "passed": true,
+    "checks": 95,
+    "variants": 6,
+    "errors": []
+  },
+  "Roupas": {
+    "passed": true,
+    "checks": 193,
+    "capTriangles": 480,
+    "capVertices": 311,
+    "errors": [],
+    "pictures": [
+      "personagem-0.png",
+      "personagem-17.png",
+      "personagem-18.png",
+      "camiseta-1.png",
+      "camiseta-2.png",
+      "camiseta-3.png",
+      "camiseta-4.png",
+      "camiseta-5.png",
+      "camiseta-6.png",
+      "bone-1.png",
+      "bone-2.png",
+      "camiseta-cor-azul.png",
+      "bone-cor-amarelo.png",
+      "personalizacao-menu.png"
+    ]
+  }
+}
