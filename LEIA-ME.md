@@ -1,9 +1,7 @@
-# Henrique v2 e Matheus v3 — 1.46.0
+# Talia v2 — 1.47.0
 
-Selecione Henrique e abra Personalização → Versão do personagem → Henrique v2. O Henrique original continua disponível. Banco, poderes, missões e progresso são do mesmo personagem; aparência salva no perfil existente.
+Selecione Talia e abra Personalização → Versão do personagem → Talia v2. A Talia original continua disponível, com o mesmo gato companheiro, banco, poderes, missões e progresso. Aparência salva no perfil existente.
 
-GLB funny costume man preservado sem alterações, com Blender e exportador em ferramentas-historia/originais146. Modelo otimizado para cerca de 18 mil triângulos, textura até 1024 pixels e animação pelo esqueleto do jogo.
+GLB pink dress girl preservado sem alterações, com Blender e exportador em ferramentas-historia/originais147. Cópia otimizada para cerca de 18 mil triângulos e textura até 1024 pixels, animada pelo esqueleto do jogo. Cabeça preservada e transição da roupa entre as pernas ajustada.
 
-Igor v4, Luiz v2 e os Lulas do modo zumbi preservados: seis na primeira onda, mais dois por onda seguinte e limite de doze vivos. Capturas não se sobrepõem e há proteção de dois segundos ao escapar. Todos da sala devem usar 1.46.0 / protocolo v24.
-
-Matheus v3: selecione Matheus - visual 1 e abra Personalização → Versão do personagem → Matheus v3. O original e a aparência Matheus alternativo continuam disponíveis, com o mesmo banco, poderes e progresso. O personagem separado Matheus - visual 2 continua preservado. GLB child character original e Blender também em ferramentas-historia/originais146.
+Henrique v2, Matheus v3, Igor v4, Luiz v2 e mais Lulas preservados: seis na primeira onda do zumbi com Igor, mais dois por onda e limite de doze vivos, com uma captura por vez. Todos da sala devem usar 1.47.0 / protocolo v25.

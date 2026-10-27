@@ -1,6 +1,6 @@
 {
-  "version": "1.46.0",
-  "release": "v1.46.0-personagens",
+  "version": "1.47.0",
+  "release": "v1.47.0-talia-v2",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -8,7 +8,7 @@
     "zombie-survival",
     "beat-em-up"
   ],
-  "alternateAppearances": 11,
+  "alternateAppearances": 12,
   "billboardImages": 2,
   "shirtPrints": 12,
   "capDesigns": 2,
@@ -31,24 +31,24 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 165366185,
-      "sha256": "f200965f6626667a6d2246d4a47a19db860b8c020e4246d260aaad31e5c308ff"
+      "bytes": 166588373,
+      "sha256": "4c1f417f98844c6ea7f061785267454982d9c93c2500c70844202ae17dcd02cc"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 141805524,
-      "sha256": "c5d30cf4a45c5f04d0eff8b594ea65b06803353b346381247bbbe7265e2b571d"
+      "bytes": 143048647,
+      "sha256": "78c1cb5837ad031ff86eef23fa77e3eb05fd8b5edaa84d028b301ec32df26242"
     }
   ],
-  "webRevision": "e97229bd71f4",
+  "webRevision": "8c09193194ad",
   "extraBillboards": 4,
   "pedestrians": 192,
   "traffic": 120,
   "policePatrols": 6,
   "policeMaximum": 20,
   "cashDrops": true,
-  "protocol": "nullstack-room-v24",
+  "protocol": "nullstack-room-v25",
   "radioUnityStream": true,
   "radioAutostart": true,
   "destructibleObjects": 228,
@@ -63,8 +63,6 @@
   "lulaChaseMaxAlive": 12,
   "matheusVersions": 3,
   "henriqueVersions": 2,
-  "newSkins": [
-    "Henrique v2",
-    "Matheus v3"
-  ]
+  "taliaVersions": 2,
+  "newSkin": "Talia v2"
 }

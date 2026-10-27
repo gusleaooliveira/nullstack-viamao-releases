@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_47_0",
+            "kind": "news",
+            "title": "1.47.0 — Talia v2",
+            "body": "Talia ganha a aparência v2 com vestido rosa, a partir do modelo fornecido pelo proprietário. Original, gato companheiro, banco, poderes e progresso preservados. Modelo otimizado e animado para Windows e web. Henrique v2, Matheus v3, Igor v4, Luiz v2 e mais Lulas no modo zumbi do Igor mantidos. Todos da sala precisam da mesma versão, protocolo v25.",
+            "updatedAt": 1793124205637
+        },
+        {
             "id": "release-1_46_0",
             "kind": "news",
             "title": "1.46.0 — Henrique v2 e Matheus v3",
