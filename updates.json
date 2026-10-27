@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_50_0",
+            "kind": "news",
+            "title": "1.50.0 — Mais variedade nas ruas",
+            "body": "24 novas aparências de pedestres: seis de GTA III, seis de Vice City, seis de San Andreas e seis da Kenney. O catálogo passa de quatro para 28 visuais civis, mantendo 140 pedestres por proximidade. Os outros personagens continuam nas ruas do solo e cada jogador escolhe livremente nas salas. Use a versão 1.50.0 em todos os dispositivos; protocolo v28.",
+            "updatedAt": 1793138400000
+        },
+        {
             "id": "release-1_49_0",
             "kind": "news",
             "title": "1.49.0 — Personagens na cidade solo",

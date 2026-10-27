@@ -1,6 +1,6 @@
 {
-  "version": "1.49.0",
-  "release": "v1.49.0-personagens-solo",
+  "version": "1.50.0",
+  "release": "v1.50.0-pedestres-variedade",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -31,23 +31,23 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 165384877,
-      "sha256": "03ca3c12474e2f8f496872cf01a410ebf727199dc65ad8f5d6eb07be71e1b2e7"
+      "bytes": 166979528,
+      "sha256": "851179fb123ef0bd62d555d60b916bec4abc7456824394815f8d3b99786d8ab8"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 141836653,
-      "sha256": "35b3d87cb32fc8d2af948f290165fa92c2e5c80901e0415fe37d4173e2d629d9"
+      "bytes": 143474407,
+      "sha256": "d10f88547c2aead96bcd577d1a75f2157dce9d63e600976e3696a851b453b630"
     }
   ],
-  "webRevision": "74a443ffefd1",
+  "webRevision": "5c69b253a54a",
   "extraBillboards": 4,
   "traffic": 120,
   "policePatrols": 6,
   "policeMaximum": 20,
   "cashDrops": true,
-  "protocol": "nullstack-room-v27",
+  "protocol": "nullstack-room-v28",
   "radioUnityStream": true,
   "radioAutostart": true,
   "destructibleObjects": 228,
@@ -69,5 +69,11 @@
   "pedestrianRetentionRadius": 180,
   "pedestrianPoolMax": 2292,
   "soloCast": true,
-  "soloCastCount": 18
+  "soloCastCount": 18,
+  "pedestrianAppearances": 28,
+  "newPedestrianAppearances": 24,
+  "gta3PedestriansAdded": 6,
+  "viceCityPedestriansAdded": 6,
+  "sanAndreasPedestriansAdded": 6,
+  "kenneyPedestriansAdded": 6
 }

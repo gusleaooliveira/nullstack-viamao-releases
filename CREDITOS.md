@@ -1507,3 +1507,6 @@ Licença: CC0; Quaternius
 
 
 1.49.0: RadioUnityStream (sjbmcg; uso pessoal, não comercial), NLayer 1.16.0 (MIT); adaptador web próprio. SomaFM: somafm.com. Destruição reutiliza modelos e licenças anteriores.
+
+
+1.50.0: RadioUnityStream (sjbmcg; uso pessoal, não comercial), NLayer 1.16.0 (MIT); adaptador web próprio. SomaFM: somafm.com. Destruição reutiliza modelos e licenças anteriores.

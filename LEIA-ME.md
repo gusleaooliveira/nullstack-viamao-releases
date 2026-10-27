@@ -1,7 +1,9 @@
-# Personagens na cidade solo — 1.49.0
+# 1.50.0 â€” Mais variedade nas ruas
 
-Em Jogando sozinho, os outros18 personagens originais circulam como pedestres. O personagem escolhido não é duplicado no elenco. Ao trocar de personagem, a escalação se atualiza. Os18 ocupam vagas dentro da população por proximidade de cerca de140, não somam18 ao limite. Eles têm rotinas de pedestre; não criam novas contas ou progresso de jogador. Aparições, distância e reaproveitamento seguem as regras do streaming.
+24 novas aparÃªncias: seis de GTA III, seis de Vice City, seis de San Andreas e seis da Kenney. O catÃ¡logo de pedestres civis passa de 4 para 28.
 
-Em salas de rede, o elenco solo é substituído por pedestres genéricos; todos continuam livres para escolher qualquer personagem disponível. Todos da sala devem atualizar para1.49.0 / protocolo v27.
+Mantidos 140 pedestres por proximidade, reaproveitamento dos distantes, colisÃ£o, trÃ¢nsito, atividades, dano e dinheiro. Modelos de baixo nÃºmero de polÃ­gonos usam texturas pequenas e o cache compartilhado de rigs/materiais.
 
-Talia v2 foi retirada do seletor e dos recursos distribuídos. A Talia original e seu gato permanecem. Preferências antigas e saves portáteis com a aparência removida são migrados para a original, mantendo banco e progresso. Os arquivos de origem e derivados foram preservados no fonte privado, fora de Resources, para recuperação histórica; não entram nos novos pacotes jogáveis.
+No solo os outros 18 personagens continuam como pedestres. Nas salas os jogadores escolhem livremente. Todos os participantes devem atualizar para 1.50.0 / protocolo nullstack-room-v28. Talia v2 continua removida.
+
+ProcedÃªncia e licenÃ§as: Licencas/People150 no pacote jogÃ¡vel. GTA Ã© conteÃºdo proprietÃ¡rio de Rockstar, nÃ£o CC0; Kenney Ã© CC0. Originais e ferramentas de conversÃ£o preservados no fonte privado.

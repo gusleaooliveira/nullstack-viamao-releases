@@ -1,7 +1,7 @@
 {
-  "version": "1.49.0",
-  "protocol": "nullstack-room-v27",
+  "version": "1.50.0",
+  "protocol": "nullstack-room-v28",
   "endpoint": "https://nullstack-viamao-salas.classyray67.chatgpt.site/api/room",
-  "wasmSha256": "a3a6396a9295e9c76e0ba6d4627c109b9034e59be0d84bd6d31a57997f38af8e",
-  "windowsDownload": "https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.49.0-personagens-solo/NullStack-Viamao-Historia.zip"
+  "wasmSha256": "b884ae38ba3abdf990350d194171aace5405ade32a7634eac24300f79f1fbd8a",
+  "windowsDownload": "https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.50.0-pedestres-variedade/NullStack-Viamao-Historia.zip"
 }

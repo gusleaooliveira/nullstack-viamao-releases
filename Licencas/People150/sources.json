@@ -1,0 +1,444 @@
+[
+  {
+    "key": "gta3_male02",
+    "game": "gta3",
+    "modelId": 30,
+    "name": "male02",
+    "page": "https://gtastuff.com/models/?game=gta3&id=30",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/gta3_male02/male02.dff",
+        "url": "https://gtastuff.namecdsl.xyz/gta3/files/dff/male02.dff",
+        "bytes": 63247,
+        "sha256": "3096aee11077b844fd28c22da3d63b0c3ce9a3a71f90eab89999c3eb69799107"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/gta3_male02/male02.txd",
+        "url": "https://gtastuff.namecdsl.xyz/gta3/files/txd/male02.txd",
+        "bytes": 67584,
+        "sha256": "11be1d1e824d8e5e22d0a811c560c7356561424a7a37670ca5a4456196bb1b3f"
+      }
+    ]
+  },
+  {
+    "key": "gta3_fatmale01",
+    "game": "gta3",
+    "modelId": 32,
+    "name": "fatmale01",
+    "page": "https://gtastuff.com/models/?game=gta3&id=32",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/gta3_fatmale01/fatmale01.dff",
+        "url": "https://gtastuff.namecdsl.xyz/gta3/files/dff/fatmale01.dff",
+        "bytes": 62289,
+        "sha256": "ceb708beab2d376bdf5b6cda165a56e0d04067a54ef34b322ac8411e00d2fdd3"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/gta3_fatmale01/fatmale01.txd",
+        "url": "https://gtastuff.namecdsl.xyz/gta3/files/txd/fatmale01.txd",
+        "bytes": 67584,
+        "sha256": "0894b777746f662daca45e6cc556936e78710b41c0e1080ee745ea437d18a93d"
+      }
+    ]
+  },
+  {
+    "key": "gta3_female01",
+    "game": "gta3",
+    "modelId": 34,
+    "name": "female01",
+    "page": "https://gtastuff.com/models/?game=gta3&id=34",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/gta3_female01/female01.dff",
+        "url": "https://gtastuff.namecdsl.xyz/gta3/files/dff/female01.dff",
+        "bytes": 65543,
+        "sha256": "ccff391e3b2f752b46761d1fd3d17759789a06616cb6f33f3c9e240c9c9e02fb"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/gta3_female01/female01.txd",
+        "url": "https://gtastuff.namecdsl.xyz/gta3/files/txd/female01.txd",
+        "bytes": 67584,
+        "sha256": "95040d76036b0b4d88ceea82c1ef28a2cbbc3e02f99ca00d4ef93db8f1bc3ffa"
+      }
+    ]
+  },
+  {
+    "key": "gta3_ct_wom1",
+    "game": "gta3",
+    "modelId": 47,
+    "name": "ct_wom1",
+    "page": "https://gtastuff.com/models/?game=gta3&id=47",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/gta3_ct_wom1/ct_wom1.dff",
+        "url": "https://gtastuff.namecdsl.xyz/gta3/files/dff/ct_wom1.dff",
+        "bytes": 67313,
+        "sha256": "6a255c0e84b252a579d8fa0f08d2661ab398a78411f7f6a52f2b088dcdabe6b7"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/gta3_ct_wom1/ct_wom1.txd",
+        "url": "https://gtastuff.namecdsl.xyz/gta3/files/txd/ct_wom1.txd",
+        "bytes": 67584,
+        "sha256": "b913ec7c0e67ef0e00c89f79d315b1180e11544f4c628335e794f3ea4cbe67a7"
+      }
+    ]
+  },
+  {
+    "key": "gta3_worker1",
+    "game": "gta3",
+    "modelId": 57,
+    "name": "worker1",
+    "page": "https://gtastuff.com/models/?game=gta3&id=57",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/gta3_worker1/worker1.dff",
+        "url": "https://gtastuff.namecdsl.xyz/gta3/files/dff/worker1.dff",
+        "bytes": 64881,
+        "sha256": "b36236d58554e741f5002a52a93e28cd1cb274ce4164ef0bd84f42a48ac71fb5"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/gta3_worker1/worker1.txd",
+        "url": "https://gtastuff.namecdsl.xyz/gta3/files/txd/worker1.txd",
+        "bytes": 67584,
+        "sha256": "d3965f9e0e4f91f81bf1c0ad7cf39964b6bf1b7422979649f54bbcda8f3f6765"
+      }
+    ]
+  },
+  {
+    "key": "gta3_const1",
+    "game": "gta3",
+    "modelId": 74,
+    "name": "const1",
+    "page": "https://gtastuff.com/models/?game=gta3&id=74",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/gta3_const1/const1.dff",
+        "url": "https://gtastuff.namecdsl.xyz/gta3/files/dff/const1.dff",
+        "bytes": 65047,
+        "sha256": "1460bc5b5b804180cb24f0663e63cccc34af81740194b4602eb9b573956c7c90"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/gta3_const1/const1.txd",
+        "url": "https://gtastuff.namecdsl.xyz/gta3/files/txd/const1.txd",
+        "bytes": 67584,
+        "sha256": "c9377c4f2d52bb73c2c61fd394de7089378debc246b687a769f4e5805f603944"
+      }
+    ]
+  },
+  {
+    "key": "vc_hfyst",
+    "game": "vc",
+    "modelId": 9,
+    "name": "HFYST",
+    "page": "https://gtastuff.com/models/?game=vc&id=9",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/vc_hfyst/hfyst.dff",
+        "url": "https://gtastuff.namecdsl.xyz/vc/files/dff/hfyst.dff",
+        "bytes": 61441,
+        "sha256": "0a97a1e43bf281d13d0a35ce8cf922f6bbc881d399ff7260af1cb4f2103965a1"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/vc_hfyst/hfyst.txd",
+        "url": "https://gtastuff.namecdsl.xyz/vc/files/txd/hfyst.txd",
+        "bytes": 22064,
+        "sha256": "718d69fe9b577cee9612d5702876ff22409c1e701b06c852e0cd7992dc46a80e"
+      }
+    ]
+  },
+  {
+    "key": "vc_hmost",
+    "game": "vc",
+    "modelId": 12,
+    "name": "HMOST",
+    "page": "https://gtastuff.com/models/?game=vc&id=12",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/vc_hmost/hmost.dff",
+        "url": "https://gtastuff.namecdsl.xyz/vc/files/dff/hmost.dff",
+        "bytes": 73873,
+        "sha256": "d8bca0a021dc08b9eb9537bc16081576ddbf4fbdf7d13b66c871c443a76ff2ce"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/vc_hmost/hmost.txd",
+        "url": "https://gtastuff.namecdsl.xyz/vc/files/txd/hmost.txd",
+        "bytes": 22064,
+        "sha256": "fc211e1828eb71cb8d3dce703e2755d2cb4793ab5089a98d1387a191dd6963fb"
+      }
+    ]
+  },
+  {
+    "key": "vc_hfybu",
+    "game": "vc",
+    "modelId": 21,
+    "name": "HFYBU",
+    "page": "https://gtastuff.com/models/?game=vc&id=21",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/vc_hfybu/hfybu.dff",
+        "url": "https://gtastuff.namecdsl.xyz/vc/files/dff/hfybu.dff",
+        "bytes": 63561,
+        "sha256": "4f04447a88ccf4245b17f5c7b79d9c5f4da7a9f5fc73c7bac8a0af8504b36660"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/vc_hfybu/hfybu.txd",
+        "url": "https://gtastuff.namecdsl.xyz/vc/files/txd/hfybu.txd",
+        "bytes": 22064,
+        "sha256": "0855708173378e02bf3181400c2382897b0b291cb98f6aa576ebf5d8128a82e2"
+      }
+    ]
+  },
+  {
+    "key": "vc_bmodk",
+    "game": "vc",
+    "modelId": 29,
+    "name": "BMODK",
+    "page": "https://gtastuff.com/models/?game=vc&id=29",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/vc_bmodk/bmodk.dff",
+        "url": "https://gtastuff.namecdsl.xyz/vc/files/dff/bmodk.dff",
+        "bytes": 70061,
+        "sha256": "759d01ac1c9c4f1f70acbd2a6e0a203b8ddccc120b374f875f1694f4f859a43e"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/vc_bmodk/bmodk.txd",
+        "url": "https://gtastuff.namecdsl.xyz/vc/files/txd/bmodk.txd",
+        "bytes": 22064,
+        "sha256": "4cdcb14f6a886706e6851f1abdc56871b1e84dcd8b8a7287f41575ff5cfc2052"
+      }
+    ]
+  },
+  {
+    "key": "vc_wfyst",
+    "game": "vc",
+    "modelId": 49,
+    "name": "WFYST",
+    "page": "https://gtastuff.com/models/?game=vc&id=49",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/vc_wfyst/wfyst.dff",
+        "url": "https://gtastuff.namecdsl.xyz/vc/files/dff/wfyst.dff",
+        "bytes": 63621,
+        "sha256": "30bccb7750d3b7811da544b00f645184cf8815061c2a284eed9d2a3e1f831ed8"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/vc_wfyst/wfyst.txd",
+        "url": "https://gtastuff.namecdsl.xyz/vc/files/txd/wfyst.txd",
+        "bytes": 22064,
+        "sha256": "f538550068a5e87ab354b6e7c90d55c9690ef233c9f487cf365773e3d0dc11e0"
+      }
+    ]
+  },
+  {
+    "key": "vc_wmybu",
+    "game": "vc",
+    "modelId": 68,
+    "name": "WMYBU",
+    "page": "https://gtastuff.com/models/?game=vc&id=68",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/vc_wmybu/wmybu.dff",
+        "url": "https://gtastuff.namecdsl.xyz/vc/files/dff/wmybu.dff",
+        "bytes": 71233,
+        "sha256": "bf6275258a457ef5fb1218d97ca878cc7f87802972e6a0293cb7a399f4dc187b"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/vc_wmybu/wmybu.txd",
+        "url": "https://gtastuff.namecdsl.xyz/vc/files/txd/wmybu.txd",
+        "bytes": 22064,
+        "sha256": "ebbb4debf7c27bcd1f50d3a29c10187c603fa4c859af3a2580f48302ce624afc"
+      }
+    ]
+  },
+  {
+    "key": "sa_bfost",
+    "game": "sa",
+    "modelId": 10,
+    "name": "bfost",
+    "page": "https://gtastuff.com/models/?game=sa&id=10",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/sa_bfost/bfost.dff",
+        "url": "https://gtastuff.com/api/file?name=bfost.dff",
+        "bytes": 67584,
+        "sha256": "5b869e30972246de3919ac8291e5309ed73119c6edf36de6b046716b6480f357"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/sa_bfost/bfost.txd",
+        "url": "https://gtastuff.com/api/file?name=bfost.txd",
+        "bytes": 133120,
+        "sha256": "a87777d88713b702234dd000f08aaaa468527f37336cea843c00af45e86f90fe"
+      }
+    ]
+  },
+  {
+    "key": "sa_bmybu",
+    "game": "sa",
+    "modelId": 17,
+    "name": "bmybu",
+    "page": "https://gtastuff.com/models/?game=sa&id=17",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/sa_bmybu/bmybu.dff",
+        "url": "https://gtastuff.com/api/file?name=bmybu.dff",
+        "bytes": 67584,
+        "sha256": "00cfb80c1d2920e2c611f257054631d132424df017286c33c259d4b5e864096b"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/sa_bmybu/bmybu.txd",
+        "url": "https://gtastuff.com/api/file?name=bmybu.txd",
+        "bytes": 133120,
+        "sha256": "c51f5eebcb951d41f4cdb90ba17b78b943cd81093c012b6c8fbf3e995523debe"
+      }
+    ]
+  },
+  {
+    "key": "sa_bmyst",
+    "game": "sa",
+    "modelId": 22,
+    "name": "bmyst",
+    "page": "https://gtastuff.com/models/?game=sa&id=22",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/sa_bmyst/bmyst.dff",
+        "url": "https://gtastuff.com/api/file?name=bmyst.dff",
+        "bytes": 88064,
+        "sha256": "e82925f2d6ab84f6754ba729ed9675146b51c9c8c1b707a2e01ee788e0077e16"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/sa_bmyst/bmyst.txd",
+        "url": "https://gtastuff.com/api/file?name=bmyst.txd",
+        "bytes": 18432,
+        "sha256": "eff773a3e0a0de05328607fca0597080b85f53bee72723502ce73a7e00284c3c"
+      }
+    ]
+  },
+  {
+    "key": "sa_wmycon",
+    "game": "sa",
+    "modelId": 27,
+    "name": "wmycon",
+    "page": "https://gtastuff.com/models/?game=sa&id=27",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/sa_wmycon/wmycon.dff",
+        "url": "https://gtastuff.com/api/file?name=wmycon.dff",
+        "bytes": 88064,
+        "sha256": "1aebd7f404f69b60f1220ff89f8d171793ddc9c6b9099d3b5c222f4b0f70afe9"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/sa_wmycon/wmycon.txd",
+        "url": "https://gtastuff.com/api/file?name=wmycon.txd",
+        "bytes": 133120,
+        "sha256": "70b7b6b71652072086e17b78f730c0b500b45fbc53eec882eea88d52d098bbcd"
+      }
+    ]
+  },
+  {
+    "key": "sa_hfost",
+    "game": "sa",
+    "modelId": 39,
+    "name": "hfost",
+    "page": "https://gtastuff.com/models/?game=sa&id=39",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/sa_hfost/hfost.dff",
+        "url": "https://gtastuff.com/api/file?name=hfost.dff",
+        "bytes": 67584,
+        "sha256": "311e39f4f6a71015cf013b598e789439b0c47cd29d5cfd5043f9a861224a592c"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/sa_hfost/hfost.txd",
+        "url": "https://gtastuff.com/api/file?name=hfost.txd",
+        "bytes": 133120,
+        "sha256": "f52e09e5ccab7ef2f1b8811ffde52b95e05908c8ed22cf07eb77a45953011b6e"
+      }
+    ]
+  },
+  {
+    "key": "sa_wmymech",
+    "game": "sa",
+    "modelId": 50,
+    "name": "wmymech",
+    "page": "https://gtastuff.com/models/?game=sa&id=50",
+    "author": "Rockstar Games / DMA Design / Rockstar North",
+    "license": "Original GTA content; proprietary, not CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/sa_wmymech/wmymech.dff",
+        "url": "https://gtastuff.com/api/file?name=wmymech.dff",
+        "bytes": 79872,
+        "sha256": "8a23767238d078d1c86675c6bc1edb354751bfc326e87d6cc91f008e36fb08cc"
+      },
+      {
+        "file": "materiais-originais/pedestres-1.50/sa_wmymech/wmymech.txd",
+        "url": "https://gtastuff.com/api/file?name=wmymech.txd",
+        "bytes": 133120,
+        "sha256": "00a9dcdd5fb67465c6729f64ee3c2140b28349972a559c95afc3002a72271d5e"
+      }
+    ]
+  },
+  {
+    "key": "kenney-protagonists",
+    "page": "https://kenney.nl/assets/animated-characters-protagonists",
+    "author": "Kenney",
+    "license": "CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/kenney-protagonists.zip",
+        "url": "https://kenney.nl/media/pages/assets/animated-characters-protagonists/608191acc4-1774773108/kenney_animated-characters-protagonists.zip",
+        "bytes": 581441,
+        "sha256": "ec3787de70fa2200256848d74201b10f6b6c3126594e9857bf989753312c2b84"
+      }
+    ]
+  },
+  {
+    "key": "kenney-retro",
+    "page": "https://kenney.nl/assets/animated-characters-retro",
+    "author": "Kenney",
+    "license": "CC0",
+    "files": [
+      {
+        "file": "materiais-originais/pedestres-1.50/kenney-retro.zip",
+        "url": "https://kenney.nl/media/pages/assets/animated-characters-retro/93305a3c49-1774772819/kenney_animated-characters-retro.zip",
+        "bytes": 706472,
+        "sha256": "1d03f1fb001f3cf629425b69c898df58261a316616220ea25b58bd35298e6882"
+      }
+    ]
+  }
+]

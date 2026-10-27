@@ -9,8 +9,8 @@
 </head>
 <body>
 <canvas id="unity-canvas" tabindex="0" aria-label="Jogo NullStack Viamão"></canvas>
-<section id="loading"><small>NULLSTACK</small><h1>Igor em Produção</h1><p id="status">Preparando a cidade…</p><progress id="progress" value="0" max="1"></progress><p>Modo história + multiplayer Windows / navegador<br>Zumbi · Beat em up · Garagem · Histórias pessoais<br><a href="https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.49.0-personagens-solo">Windows compatível com esta versão</a></p><p id="error">Não foi possível iniciar o jogo. Recarregue a página em um navegador atualizado.<br><a href="https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.49.0-personagens-solo">Baixar a versão Windows</a></p></section>
-<script src="Build/NullStack-Viamao-Historia-Web.loader.js?v=1.49.0-74a443ffefd1"></script>
+<section id="loading"><small>NULLSTACK</small><h1>Igor em Produção</h1><p id="status">Preparando a cidade…</p><progress id="progress" value="0" max="1"></progress><p>Modo história + multiplayer Windows / navegador<br>Zumbi · Beat em up · Garagem · Histórias pessoais<br><a href="https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.50.0-pedestres-variedade">Windows compatível com esta versão</a></p><p id="error">Não foi possível iniciar o jogo. Recarregue a página em um navegador atualizado.<br><a href="https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.50.0-pedestres-variedade">Baixar a versão Windows</a></p></section>
+<script src="Build/NullStack-Viamao-Historia-Web.loader.js?v=1.50.0-5c69b253a54a"></script>
 <script>
 const canvas=document.getElementById('unity-canvas');
 canvas.addEventListener('keydown',event=>{if(event.code==='F7')event.preventDefault();});
@@ -23,9 +23,9 @@ if(pointerLock)canvas.requestPointerLock=function(){
  catch(error){window.nsPointerLockUnavailable=true;console.warn('Captura do cursor indisponível neste navegador incorporado.');}
 };
 let dataBlob139;
-(async()=>{document.getElementById('status').textContent='Baixando a cidade…';const pieces=await Promise.all(["Build/NullStack-Viamao-Historia-Web.data.part00.unityweb?v=1.49.0-74a443ffefd1", "Build/NullStack-Viamao-Historia-Web.data.part01.unityweb?v=1.49.0-74a443ffefd1"].map(async url=>{const response=await fetch(url);if(!response.ok)throw new Error('Download interrompido: '+response.status);return response.arrayBuffer();}));dataBlob139=URL.createObjectURL(new Blob(pieces,{type:'application/octet-stream'}));return createUnityInstance(canvas,{
- dataUrl:dataBlob139,cacheControl:url=>url.startsWith('blob:')?'no-store':'must-revalidate',frameworkUrl:'Build/NullStack-Viamao-Historia-Web.framework.js.unityweb?v=1.49.0-74a443ffefd1',codeUrl:'Build/NullStack-Viamao-Historia-Web.wasm.unityweb?v=1.49.0-74a443ffefd1',
- streamingAssetsUrl:'StreamingAssets',companyName:'NullStack',productName:'NullStack · Viamão',productVersion:'1.49.0',matchWebGLToCanvasSize:true,devicePixelRatio:Math.min(window.devicePixelRatio||1,1.25),
+(async()=>{document.getElementById('status').textContent='Baixando a cidade…';const pieces=await Promise.all(["Build/NullStack-Viamao-Historia-Web.data.part00.unityweb?v=1.50.0-5c69b253a54a", "Build/NullStack-Viamao-Historia-Web.data.part01.unityweb?v=1.50.0-5c69b253a54a"].map(async url=>{const response=await fetch(url);if(!response.ok)throw new Error('Download interrompido: '+response.status);return response.arrayBuffer();}));dataBlob139=URL.createObjectURL(new Blob(pieces,{type:'application/octet-stream'}));return createUnityInstance(canvas,{
+ dataUrl:dataBlob139,cacheControl:url=>url.startsWith('blob:')?'no-store':'must-revalidate',frameworkUrl:'Build/NullStack-Viamao-Historia-Web.framework.js.unityweb?v=1.50.0-5c69b253a54a',codeUrl:'Build/NullStack-Viamao-Historia-Web.wasm.unityweb?v=1.50.0-5c69b253a54a',
+ streamingAssetsUrl:'StreamingAssets',companyName:'NullStack',productName:'NullStack · Viamão',productVersion:'1.50.0',matchWebGLToCanvasSize:true,devicePixelRatio:Math.min(window.devicePixelRatio||1,1.25),
 },progress=>{document.getElementById('progress').value=progress;document.getElementById('status').textContent='Carregando a cidade… '+Math.round(progress*100)+'%';});})().then(()=>{if(dataBlob139)URL.revokeObjectURL(dataBlob139);document.getElementById('loading').style.display='none';canvas.focus();}).catch(error=>{if(dataBlob139)URL.revokeObjectURL(dataBlob139);console.error(error);document.getElementById('error').style.display='block';document.getElementById('status').textContent='O carregamento foi interrompido.';});
 </script>
 </body>

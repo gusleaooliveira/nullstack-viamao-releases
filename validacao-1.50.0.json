@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "version": "1.50.0",
+  "checks": 262,
+  "tests": [
+    "documentacao/validacao/1.50.0/Variedade/people150.json",
+    "documentacao/validacao/1.50.0/Elenco/solo149.json",
+    "documentacao/validacao/1.50.0/Proximidade/crowd148.json",
+    "documentacao/validacao/1.50.0/Urbano/urban138.json"
+  ],
+  "pedestrianAppearances": 28,
+  "newAppearances": 24,
+  "targetPerObserver": 140,
+  "profileRestored": true,
+  "roomModeFixtures": true,
+  "remoteObserverFixtures": true,
+  "liveCrossplayTested": false,
+  "physicalControllerTested": false,
+  "browserGameplayTested": false
+}
