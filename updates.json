@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_39_1",
+            "kind": "news",
+            "title": "1.39.1 — Novas camisetas e outdoors",
+            "body": "Cinco estampas novas: Sid (É o vibes e o codas né), Mounjaro em branco, arcos dourados em camiseta preta e branca, e Mounjaro roxa. Personalização com 11 estampas, cores combináveis e salvamento por personagem. Mais quatro outdoors fixos com a imagem enviada no Centro, São Lucas, Estalagem e Vila Universal; GPS com 14 pontos. Estampas e placas anteriores preservadas.",
+            "updatedAt": 1793106814224
+        },
+        {
             "id": "release-1_39_0",
             "kind": "news",
             "title": "1.39 — Cheats, lazer e novos mistérios",

@@ -1474,3 +1474,6 @@ Conservar tambem os arquivos de licenca originais em conteudo.
 
 Fonte: https://poly.pizza/bundle/Ultimate-Modular-Men-Pack-ZiH8muWqwQ
 Licença: CC0; Quaternius
+
+
+1.39.1: estampa adicional a partir da imagem enviada pelo proprietário, preservada sem alteração de pixels.

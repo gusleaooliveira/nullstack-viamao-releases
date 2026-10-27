@@ -1,4 +1,4 @@
 {
-  "endpoint": "https://nullstack-viamao-salas.classyray67.chatgpt.site/api/room",
+  "endpoint": "https://nullstack-viamao-salas-production.up.railway.app/api/room",
   "repository": "https://github.com/gusleaooliveira/nullstack-viamao-salas"
 }

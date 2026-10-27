@@ -1,6 +1,6 @@
 {
-  "version": "1.39.0",
-  "release": "v1.39.0-cheats-lazer",
+  "version": "1.39.1",
+  "release": "v1.39.1-camisetas-outdoors",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -10,12 +10,12 @@
   ],
   "alternateAppearances": 6,
   "billboardImages": 2,
-  "shirtPrints": 6,
+  "shirtPrints": 11,
   "capDesigns": 2,
   "mysteryModels": 13,
   "mysteryIdlePoseSamples": 78,
   "secretEncounters": 16,
-  "newSigns": 10,
+  "newSigns": 14,
   "weapons": 21,
   "cheats": 19,
   "leisureActivities": 7,
@@ -31,15 +31,17 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 158439371,
-      "sha256": "1e9416986c98fa504147580566da8e30aeb018460bbc946878f17599d78a7e85"
+      "bytes": 158110722,
+      "sha256": "46c5cd947de251fa437d2d0c135897fae2ae9f860d5723aa094ad6f65e5623ed"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 133360167,
-      "sha256": "6091892d9e3c9ceea0727035769d815f9537d5531931c942f79817e0c3683d52"
+      "bytes": 134498576,
+      "sha256": "0e286f841eeaff6f8b80247233881fe45a387a7ce099f0cb38e6d0d22ec21d2c"
     }
   ],
-  "webRevision": "b96b0051fe76"
+  "webRevision": "a54ec29c0a75",
+  "newShirt": "É o vibes e o codas né",
+  "extraBillboards": 4
 }
