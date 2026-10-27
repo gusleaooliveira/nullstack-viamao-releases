@@ -1,7 +1,7 @@
 {
-  "version": "1.38.0",
+  "version": "1.39.0",
   "protocol": "nullstack-room-v17",
   "endpoint": "https://nullstack-viamao-salas.classyray67.chatgpt.site/api/room",
-  "wasmSha256": "f84fd22e6202bb4763279e8ec9f3f36d04846583185f2820f69eb75366065f6c",
-  "windowsDownload": "https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.38.0-cidade/NullStack-Viamao-Historia.zip"
+  "wasmSha256": "9652709ace3b63417851b6796bac2158bcdde58e92a0afd8ed1a629a28b30673",
+  "windowsDownload": "https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.39.0-cheats-lazer/NullStack-Viamao-Historia.zip"
 }

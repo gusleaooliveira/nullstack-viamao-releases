@@ -1,6 +1,6 @@
 {
-  "version": "1.38.0",
-  "release": "v1.38.0-cidade",
+  "version": "1.39.0",
+  "release": "v1.39.0-cheats-lazer",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -14,9 +14,12 @@
   "capDesigns": 2,
   "mysteryModels": 13,
   "mysteryIdlePoseSamples": 78,
-  "secretEncounters": 13,
-  "weapons": 6,
-  "newVehicles": 15,
+  "secretEncounters": 16,
+  "newSigns": 10,
+  "weapons": 21,
+  "cheats": 19,
+  "leisureActivities": 7,
+  "newVehicles": 19,
   "garageMissions": 3,
   "cityServices": 11,
   "characters": 19,
@@ -28,15 +31,15 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 154911938,
-      "sha256": "fbca60f5c5c59a2c90989142766e913655a216e72967af807defa108972115cb"
+      "bytes": 158439371,
+      "sha256": "1e9416986c98fa504147580566da8e30aeb018460bbc946878f17599d78a7e85"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 131276869,
-      "sha256": "d2d0589555edd94490f909b4090bf9951e0a064459f969410e15e750684d09bd"
+      "bytes": 133360167,
+      "sha256": "6091892d9e3c9ceea0727035769d815f9537d5531931c942f79817e0c3683d52"
     }
   ],
-  "webRevision": "8c79df3494d0"
+  "webRevision": "b96b0051fe76"
 }

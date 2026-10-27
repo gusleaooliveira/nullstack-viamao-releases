@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_39_0",
+            "kind": "news",
+            "title": "1.39 — Cheats, lazer e novos mistérios",
+            "body": "19 códigos no solo; pacotes de armas, jetpack e veículos especiais. Polícia gradual com reforços, arrombamento, intimidação, ataque furtivo, defesa, esquiva, cobertura e recuperação gradual. Corações e coletes na cidade. Visuais prontos. Futebol, basquete, corrida a pé, dança, sinuca, roleta e caça-níquel com dinheiro fictício. Dez novas placas e outdoors com as imagens enviadas. Três encontros secretos: o círculo do pneu, o chamado aos ETs e o caminhão com um homem agarrado à frente. Outdoor do pastel retirado da frente da Cria. Academias em três prédios próprios, com portas e equipamentos.",
+            "updatedAt": 1793071098577
+        },
+        {
             "id": "release-1_38_0",
             "kind": "news",
             "title": "1.38 — Animais, motos e colisões da cidade",

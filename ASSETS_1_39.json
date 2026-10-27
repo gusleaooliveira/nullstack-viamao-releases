@@ -1,0 +1,59 @@
+{
+  "version": "1.39.0",
+  "newDownloads": [],
+  "reusedAssets": [
+    {
+      "path": "Assets/Resources/Rigs120",
+      "use": "Civis, policiais e participantes dos esportes; rig e animações em cache"
+    },
+    {
+      "path": "Assets/Resources/Mysteries133/Alien/Actor.prefab",
+      "use": "Visitante no chamado aos ETs"
+    },
+    {
+      "path": "Assets/Resources/City131/Truck",
+      "use": "Caminhão do novo encontro"
+    },
+    {
+      "path": "Assets/Resources/Animations120 e Animations122",
+      "use": "Orações com IK de mãos, reação, golpes, caminhada e chamado"
+    }
+  ],
+  "originalGeometry": [
+    "15 armas especiais",
+    "Hydra, Rhino, Hunter e Monster estilizados",
+    "jetpack",
+    "corações",
+    "arenas esportivas e mesas",
+    "pneu e disco voador",
+    "dez placas, 552 triângulos"
+  ],
+  "userSuppliedImages": {
+    "manifest": "assets-baixados/17-placas-139/manifest.json",
+    "originalArchive": "42-originais-placas-1.39.0.zip",
+    "blender": "assets-originais/placas-139/Placas-139.blend",
+    "integrated": "Assets/Resources/Signs139"
+  },
+  "notes": "Nomes dos cheats referenciam os códigos solicitados; os veículos especiais usam modelos originais estilizados, não extrações de GTA. Licenças existentes preservadas. Imagens recebidas mantidas sem alteração de texto; QR codes não acessados.",
+  "gyms": {
+    "original": "assets-originais/academias-139/Academias-139.blend",
+    "trianglesPerBuilding": 156,
+    "buildings": 3,
+    "models": "Assets/Resources/Gyms139",
+    "reuseEquipment": true
+  },
+  "staticMap139": {
+    "parts": 11,
+    "trianglesByChunk": {
+      "COL_-001_+000_+001": 10,
+      "COL_-002_+000_+001": 38,
+      "LOD_-002_+000_+001": 6,
+      "MAP_-001_+000_+001": 1763,
+      "MAP_-002_+000_+001": 2482
+    },
+    "additionalLodTriangles": {
+      "LOD_-001_+000_+001": 56,
+      "LOD_-002_+000_+001": 64
+    }
+  }
+}
