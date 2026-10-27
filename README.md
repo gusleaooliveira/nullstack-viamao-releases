@@ -1,13 +1,9 @@
-# NullStack Viamão — Igor em Produção 1.14.0
+# NullStack 1.39.1 — Camisetas e outdoors
 
-[Jogar no navegador](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=ba1104de4b81) · [Baixar Windows e Web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.14.0-conversas-e-chat)
+[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=1.39.1-a54ec29c0a75) · [Windows](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.39.1-camisetas-outdoors) · [Ver as novidades](galeria-1.39.1/)
 
-- 207 falas distintas nas 33 missões, com diálogos mais desenvolvidos e dublagem recriada para os 17 personagens.
-- Chat entre jogadores conectados: Enter ou celular, histórico das últimas 40 mensagens e aviso de mensagens novas.
-- Vozes sob demanda, com antecipação da próxima fala e cache de quatro clipes. Windows funciona offline.
-- Pacote inicial de dados Web 13,26% menor. Menos sincronizações bancárias, cache de anúncios e deformação visual das gelatinas limitada fora da câmera.
-- Poderes, músicas, banco, notícias, tiros no carro e progresso mantidos.
+Cinco estampas novas: Sid e quatro opções Mounjaro, com a frase confirmada pelo proprietário. O catálogo reúne 11 estampas. Abra P → Aparências / roupas → Roupas e bonés. Quatro outdoors adicionais no Centro, São Lucas, Estalagem e Vila Universal; 14 pontos no GPS de placas. Modelos e materiais compartilhados nos novos outdoors.
 
-Testados os 207 clipes (226 verificações), 128 objetivos, chat local/online nos dois sentidos e tiros no carro. Enter/Esc conferidos no navegador. Todos devem atualizar para 1.14.0, protocolo v14.
+[Guia](CAMISETA_1_39_1.md). 339 verificações automatizadas aprovadas: roupas, interface e placas, incluindo rig, animação, persistência, save portátil e dados de sincronização. Controle físico e crossplay ao vivo não foram revalidados nesta entrega. Todos devem usar a mesma versão.
 
-Extraia Windows e abra NullStack-Historia.exe. O ZIP Web requer HTTP. Guia CONVERSAS_CHAT_1_14.md e licenças acompanham os pacotes. Perfis de voz sintéticos ficcionais com Kokoro-82M, sem clonagem de pessoas reais. Fonte e materiais de autoria permanecem privados.
+Os recursos das versões anteriores foram preservados. Fonte e originais de autoria permanecem privados.
