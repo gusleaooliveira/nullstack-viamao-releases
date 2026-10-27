@@ -1,5 +1,5 @@
-# NullStack 1.46.0 — Henrique v2 e Matheus v3
+# NullStack 1.47.0 — Talia v2
 
-[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=1.46.0) · [Windows e web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.46.0-personagens) · [Capturas](galeria-1.46.0/)
+[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=1.47.0) · [Windows e web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.47.0-talia-v2) · [Capturas](galeria-1.47.0/)
 
-Henrique v2 e Matheus v3, mantendo aparências anteriores, identidades, banco, poderes e progresso. Igor v4, Luiz v2 e mais Lulas preservados. [Guia](PERSONAGENS_1_46.md). Todos da sala devem usar 1.46.0 / protocolo v24.
+Talia v2 com vestido rosa, mantendo original, gato companheiro, identidade, banco, poderes e progresso. Demais aparências e mais Lulas preservados. [Guia](TALIA_1_47.md). Todos da sala devem usar 1.47.0 / protocolo v25.
