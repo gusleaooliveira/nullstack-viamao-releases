@@ -15,7 +15,7 @@
       "carRoutes": 26,
       "animalRoutes": 72,
       "movingCars": 115,
-      "sampledSeconds": 2.996088981628418,
+      "sampledSeconds": 2.9866538047790527,
       "checks": [
         "192 pedestrians spawned",
         "120 vehicles spawned",
@@ -85,8 +85,14 @@
         "immutable skins cached"
       ],
       "errors": []
+    },
+    "Interface": {
+      "passed": true,
+      "checks": 28,
+      "errors": []
     }
   },
-  "checks": 60,
-  "playerPrefsRestored": true
+  "checks": 88,
+  "playerPrefsRestored": true,
+  "hudContextual": true
 }

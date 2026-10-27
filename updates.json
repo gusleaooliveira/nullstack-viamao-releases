@@ -5,7 +5,7 @@
             "id": "release-1_42_0",
             "kind": "news",
             "title": "1.42.0 — Mais vida pela cidade",
-            "body": "192 pedestres, 120 veículos e 72 animais. Grupos distribuídos pelas rotas, com 18 cães, 18 gatos, 18 pombos e 18 ratos noturnos. Trânsito com filtragem de vizinhos distantes; animação e visibilidade dos animais limitadas à proximidade. Rádio ao vivo, destruição, roupas e demais conteúdo preservados. Salas exigem a mesma versão, protocolo v20.",
+            "body": "192 pedestres, 120 veículos e 72 animais. Grupos distribuídos pelas rotas, com 18 cães, 18 gatos, 18 pombos e 18 ratos noturnos. Trânsito com filtragem de vizinhos distantes; animação e visibilidade dos animais limitadas à proximidade. Rádio ao vivo, destruição, roupas e demais conteúdo preservados. Salas exigem a mesma versão, protocolo v20. Interface mais limpa: sem caixas de vida em mortos ou no próprio jogador; no máximo uma barra discreta em alvo próximo, ferido e em combate. Missões usam um único aviso inferior e nomes de jogadores só aparecem por perto.",
             "updatedAt": 1793117497116
         },
         {

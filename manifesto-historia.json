@@ -31,17 +31,17 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 158182541,
-      "sha256": "6565bb4cbd53faee36bebc37e22ff24c1832d30068ba402d148637402b1f89c0"
+      "bytes": 158183378,
+      "sha256": "acabda98276cc8838e935d06036662d1d4437865e8abf3601a2f5b0ceadd2448"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 134539654,
-      "sha256": "559f328759d98a5fa730078ab569e5f52af8a82332925f17def0a50c17cbbed4"
+      "bytes": 134545479,
+      "sha256": "5041ab26b952b8324b7c812097499afdc21eb4f3a6249ccf07555d67d33f99b5"
     }
   ],
-  "webRevision": "04050da45ba2",
+  "webRevision": "72396752ecfe",
   "extraBillboards": 4,
   "pedestrians": 192,
   "traffic": 120,

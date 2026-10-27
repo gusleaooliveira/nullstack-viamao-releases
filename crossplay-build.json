@@ -2,6 +2,6 @@
   "version": "1.42.0",
   "protocol": "nullstack-room-v20",
   "endpoint": "https://nullstack-viamao-salas.classyray67.chatgpt.site/api/room",
-  "wasmSha256": "247349e0372b632d2677c585c8bf6c01c67761da1d103f57dd884ed01f5f0d5b",
+  "wasmSha256": "7f768117bb6f89678bea47cff57036974a7722fbe89b2afb2cf59c071e9abb34",
   "windowsDownload": "https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.42.0-populacao/NullStack-Viamao-Historia.zip"
 }

@@ -13,3 +13,8 @@ Rádio ao vivo, destruição, personalização, dinheiro e demais recursos da 1.
 ## Reconstrução
 
 Abra NullStack-Unity com Unity 6000.6.7f1. O ZIP do fonte inclui modelos, texturas, áudio e dependências necessárias. Para reunir somente o fonte do backup em partes, baixe as quatro partes, restauracao-1.42.0.json e Restaurar-Partes-1.42.0.ps1 na mesma pasta e execute: powershell -File Restaurar-Partes-1.42.0.ps1 -Pasta . -Pacote Fonte. Para os pacotes jogáveis, use -Pacote Windows ou -Pacote Web. As licenças anteriores, incluindo NLayer e a restrição pessoal não comercial de RadioUnityStream, foram preservadas.
+
+
+### Interface contextual
+
+Removidas as caixas flutuantes de vida em mortos, personagens recuperados e no jogador local. Apenas um alvo ferido em combate, a até 12 metros, dentro da região central da câmera e sem parede à frente pode exibir uma barra de cinco pixels. Missões não geram caixas flutuantes: um aviso inferior aparece a até 12 metros ou para a missão marcada. Nomes de outros jogadores limitados a 15 metros.
