@@ -1,9 +1,7 @@
-# Pedestres por proximidade — 1.48.0
+# Personagens na cidade solo — 1.49.0
 
-Na cidade, o jogo busca cerca de 140 pedestres em um raio de 140 metros ao redor de cada jogador. O limite local de exibição é 140, distribuídos ao redor; apenas os que estiverem no campo de visão serão desenhados pela câmera. Pode haver menos durante o preenchimento, em locais sem calçadas ou durante combate.
+Em Jogando sozinho, os outros18 personagens originais circulam como pedestres. O personagem escolhido não é duplicado no elenco. Ao trocar de personagem, a escalação se atualiza. Os18 ocupam vagas dentro da população por proximidade de cerca de140, não somam18 ao limite. Eles têm rotinas de pedestre; não criam novas contas ou progresso de jogador. Aparições, distância e reaproveitamento seguem as regras do streaming.
 
-O conjunto inicial de 192 funciona como reserva. Quem se afasta mais de 180 metros de todos os jogadores pode ser desativado e reaproveitado em outro trecho de calçada, com prioridade à direção de deslocamento. Ninguém aparece a menos de 35 metros e aparições próximas no campo da câmera são evitadas. Teletransportes preenchem gradualmente a nova região. Corpos, dano, dinheiro e atividades não são removidos enquanto ainda estiverem perto de outro jogador; dinheiro já solto fica no local.
+Em salas de rede, o elenco solo é substituído por pedestres genéricos; todos continuam livres para escolher qualquer personagem disponível. Todos da sala devem atualizar para1.49.0 / protocolo v27.
 
-Nas salas o anfitrião mantém IDs, estados e gerações compartilhados. A reserva cresce gradualmente quando jogadores se separam, com limite de 192 + 140 por jogador adicional (2.292 para 16). Grupos próximos compartilham os mesmos pedestres. Clientes exibem até 140 e deixam os demais modelos inativos. O conjunto é reutilizado e não cresce por distância percorrida ou mortes.
-
-Lista de vizinhos por células limita as consultas de colisão; rig, malhas e materiais são compartilhados. As animações distantes param. Nos modos arcade, a população ambiente não é redistribuída durante as ondas. Trânsito, animais, aparências e demais conteúdos preservados. Windows/web exigem 1.48.0 / protocolo v26.
+Talia v2 foi retirada do seletor e dos recursos distribuídos. A Talia original e seu gato permanecem. Preferências antigas e saves portáteis com a aparência removida são migrados para a original, mantendo banco e progresso. Os arquivos de origem e derivados foram preservados no fonte privado, fora de Resources, para recuperação histórica; não entram nos novos pacotes jogáveis.

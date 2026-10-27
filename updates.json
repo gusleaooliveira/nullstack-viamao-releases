@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_49_0",
+            "kind": "news",
+            "title": "1.49.0 — Personagens na cidade solo",
+            "body": "No modo Jogando sozinho, os outros 18 personagens aparecem como pedestres, sem duplicar o personagem escolhido. Nas salas o elenco não ocupa os pedestres e cada jogador escolhe livremente. Talia v2 retirada do jogo; saves voltam à Talia original sem perder banco ou progresso, mantendo o gato. População por proximidade de cerca de140 preservada, com reaproveitamento e geração compartilhada. Windows/web exigem a mesma versão, protocolo v27.",
+            "updatedAt": 1793128111931
+        },
+        {
             "id": "release-1_48_0",
             "kind": "news",
             "title": "1.48.0 — Pedestres por proximidade",
