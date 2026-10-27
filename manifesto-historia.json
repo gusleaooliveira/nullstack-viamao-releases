@@ -1,6 +1,6 @@
 {
-  "version": "1.40.0",
-  "release": "v1.40.0-cidade-movimentada",
+  "version": "1.41.0",
+  "release": "v1.41.0-radio-destruicao",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -31,22 +31,27 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 158118007,
-      "sha256": "307294f3416e17740302dfd55f95603671988e62d3d6c265cf38a8f65960ce0e"
+      "bytes": 158178982,
+      "sha256": "74fc7806bbaa782597d15d30622b7eea33f3aa848f156374e65a18d729117eae"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 134511750,
-      "sha256": "b1866f5b9e1a9a8b1cbdd3dd844c726b2db1f554efc2c2e025782bde4aa05987"
+      "bytes": 134525108,
+      "sha256": "df96342f24f0d25d10cbe896354c72ad88a7bba34cc38db675ed98b9497d6c4d"
     }
   ],
-  "webRevision": "3c42497a1950",
+  "webRevision": "b41eefc2e6f6",
   "extraBillboards": 4,
   "pedestrians": 112,
   "traffic": 72,
   "policePatrols": 6,
   "policeMaximum": 20,
   "cashDrops": true,
-  "protocol": "nullstack-room-v18"
+  "protocol": "nullstack-room-v19",
+  "radioUnityStream": true,
+  "radioAutostart": true,
+  "destructibleObjects": 228,
+  "destructibleFacadeParts": 26,
+  "destructionRespawnSeconds": 90
 }

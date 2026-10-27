@@ -1,13 +1,19 @@
-# Cidade movimentada — 1.40.0
+# Rádio ao vivo e destruição — 1.41.0
 
-Mais pedestres e carros, viaturas, dois tanques no trânsito e dois helicópteros em ronda. Seis policiais patrulham sem perseguição; o reforço chega a vinte com cinco estrelas. A cidade mantém limites de 112 pedestres e 72 veículos de trânsito.
+A rádio inicia automaticamente com o jogo, inclusive no menu inicial. Usa o núcleo MP3/Icecast do RadioUnityStream no Windows, com NLayer 1.16.0, buffer de áudio limitado e reconexão. As estações HTTPS são SomaFM Groove Salad, Drone Zone, DEFCON e Indie Pop Rocks! Não há cópia ou redistribuição das músicas das emissoras.
 
-30 corações (+35 vida), 30 coletes (+50 proteção) e 30 armas de seis tipos com carregador abastecido estão espalhados fora das pistas. Aproxime-se e pressione E para recolher. As motos urbana e trilha agora apontam na direção do movimento, inclusive no trânsito.
+Na web, um adaptador HTMLAudio faz a reprodução dentro da página. Quando o navegador bloqueia o início automático, o primeiro clique ou tecla libera a rádio. Falhas de rede têm nova tentativa com intervalo crescente, limitado a 30 segundos; desligar cancela reprodução, tentativas e eventos pendentes.
 
-Carros do trânsito podem atropelar jogadores e pedestres. Veículos dirigidos também atingem personagens na pista. O teste considera o trajeto entre quadros e aplica intervalo entre impactos do mesmo carro.
+P → Rádio da cidade permite ligar/desligar e trocar emissora. As trilhas Suno anteriores continuam selecionáveis; escolher uma faixa encerra a rádio ao vivo. O volume acompanha Música e Volume geral, reduz durante falas e silencia durante as fases da campanha. A preferência de desligar é respeitada na próxima abertura. Áudio é local para cada jogador.
 
-Pedestres mortos deixam de R$ 20 a R$ 100 em dinheiro. Aproxime-se a pé para recolher automaticamente; o saldo é da conta do personagem que pegou, não necessariamente de quem matou. Cada morte real gera uma coleta independente; notificações repetidas da mesma morte não duplicam o dinheiro. As notas expiram após três minutos. A autoridade da sala valida distância, obstáculos, vida e pagamento único, e sincroniza as notas pelo estado da cidade.
+No mundo livre, 228 objetos recebem dano: 138 lixeiras de esquina, 64 bancos/caixas/cercas/postes e 26 partes de fachadas (vidraças, marquises e painéis). As peças de fachada são anexadas a paredes reais em posições fixas e compartilhadas por todos os clientes. A estrutura e os acessos das missões são preservados; não há demolição de prédios inteiros.
 
-A garagem inclui Tanque Rhino, Hunter e viatura policial, além das opções anteriores. Compras/retirada continuam em I → Garagem; F3 seleciona os veículos já adquiridos. Helicópteros da ronda são ambientação aérea; os helicópteros da garagem são pilotáveis.
+Socos, tiros, armas especiais, explosões e impactos de veículos podem quebrar essas peças. Ao quebrar, a parte visível e sua colisão são desativadas; até 64 destroços visuais ficam ativos, por quatro segundos. O anfitrião controla dano, estado e reposição após 90 segundos. Jogadores que entram depois recebem o estado atual. Lixeiras quebradas não servem ao teletransporte até serem reparadas.
 
-Todos numa sala precisam da mesma versão: protocolo nullstack-room-v18. Salvamentos, personagens, roupas, placas e demais conteúdo anteriores são preservados.
+Todos da sala devem usar 1.41.0 / protocolo v19. Salvamentos e conteúdo anteriores permanecem disponíveis.
+
+## Créditos e reconstrução
+
+RadioUnityStream: https://github.com/sjbmcg/RadioUnityStream — commit 4b940b043508c12be4ca0cb4d07f6821f0f94862. O README original limita o uso a pessoal e não comercial e está preservado junto do fonte e dos pacotes. Foram integrados IcecastStream, IRadioStream, PositionTrackingStream e SampleRingBuffer, com cancelamento e telemetria adaptados. O player web é uma implementação própria; não usa threads ou o decodificador nativo no navegador.
+
+NLayer 1.16.0: licença MIT preservada; DLL netstandard2.0 incluída no fonte, sem precisar restaurar NuGet para recompilar o jogo. Abra NullStack-Unity com Unity 6000.6.7f1. Modelos existentes e suas licenças preservados. O pacote original RadioUnityStream e a procedência são mantidos no backup privado.

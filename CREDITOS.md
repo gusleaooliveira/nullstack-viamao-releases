@@ -1480,3 +1480,6 @@ Licença: CC0; Quaternius
 
 
 1.40.0: expansão da cidade reutiliza modelos existentes e preserva as licenças anteriores.
+
+
+1.41.0: RadioUnityStream (sjbmcg; uso pessoal, não comercial), NLayer 1.16.0 (MIT); adaptador web próprio. SomaFM: somafm.com. Destruição reutiliza modelos e licenças anteriores.

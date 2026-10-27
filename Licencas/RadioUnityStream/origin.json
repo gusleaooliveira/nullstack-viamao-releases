@@ -1,0 +1,9 @@
+{
+  "project": "RadioUnityStream",
+  "url": "https://github.com/sjbmcg/RadioUnityStream",
+  "commit": "4b940b043508c12be4ca0cb4d07f6821f0f94862",
+  "subset": "Icecast MP3; cancellation and decoder telemetry adapted",
+  "restriction": "Personal non-commercial use per upstream README",
+  "decoder": "NLayer 1.16.0 MIT",
+  "web": "Independent HTMLAudio adapter; native threads excluded"
+}

@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_41_0",
+            "kind": "news",
+            "title": "1.41.0 — Rádio ao vivo e destruição",
+            "body": "RadioUnityStream inicia junto com o jogo, com volume da música, troca de estação e reconexão. Na web, áudio liberado no primeiro gesto quando necessário. Objetos de rua, vidraças, marquises e painéis de fachada recebem dano de tiros, socos, explosões e colisões, com destroços limitados, reposição automática e estado compartilhado na sala. Estruturas dos prédios preservadas.",
+            "updatedAt": 1793112559688
+        },
+        {
             "id": "release-1_40_0",
             "kind": "news",
             "title": "1.40.0 — Cidade movimentada",
