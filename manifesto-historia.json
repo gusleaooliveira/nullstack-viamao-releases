@@ -1,6 +1,6 @@
 {
-  "version": "1.43.0",
-  "release": "v1.43.0-igor-v3",
+  "version": "1.44.0",
+  "release": "v1.44.0-igor-v4",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -8,7 +8,7 @@
     "zombie-survival",
     "beat-em-up"
   ],
-  "alternateAppearances": 7,
+  "alternateAppearances": 8,
   "billboardImages": 2,
   "shirtPrints": 12,
   "capDesigns": 2,
@@ -31,32 +31,33 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 160488515,
-      "sha256": "2eb62556b1fdb4740ed2c66d047ee1820225dff46850c82f843a1d3b6542553e"
+      "bytes": 161596088,
+      "sha256": "779c467355a1eb8996fb24283b5bcc0fe9fdd429d4f42c72573871efe3d29b89"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 136811202,
-      "sha256": "45ce7dd3cd8f5e6c9b26f27d5e076d8188b79b2d12955394960755207dbc6768"
+      "bytes": 137945343,
+      "sha256": "33a32cbe1d522e4a5420aabd89b45fc92118b4da08769663619b8b2d2d89c0e7"
     }
   ],
-  "webRevision": "171dab3c6b4a",
+  "webRevision": "246da79a7939",
   "extraBillboards": 4,
   "pedestrians": 192,
   "traffic": 120,
   "policePatrols": 6,
   "policeMaximum": 20,
   "cashDrops": true,
-  "protocol": "nullstack-room-v21",
+  "protocol": "nullstack-room-v22",
   "radioUnityStream": true,
   "radioAutostart": true,
   "destructibleObjects": 228,
   "destructibleFacadeParts": 26,
   "destructionRespawnSeconds": 90,
   "animals": 72,
-  "igorVersions": 3,
+  "igorVersions": 4,
   "lulaZombieChase": true,
   "uncappedPenTriangles": 13758,
-  "newShirt": "Che · Hasta la victoria siempre"
+  "newShirt": "Che · Hasta la victoria siempre",
+  "newSkin": "Igor v4 · Robô"
 }

@@ -1,0 +1,23 @@
+{
+  "version": "1.44.0",
+  "passed": true,
+  "protocol": "nullstack-room-v22",
+  "tests": {
+    "Variantes": {
+      "passed": true,
+      "checks": 121,
+      "variants": 8,
+      "errors": []
+    },
+    "Lula": {
+      "passed": true,
+      "checks": 17,
+      "errors": []
+    }
+  },
+  "checks": 138,
+  "playerPrefsRestored": true,
+  "browserGameplayTested": false,
+  "physicalControllerTested": false,
+  "liveCrossplayTested": false
+}

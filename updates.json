@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_44_0",
+            "kind": "news",
+            "title": "1.44.0 — Igor v4 · Robô",
+            "body": "Nova aparência Igor v4 · Robô, a partir do modelo fornecido pelo proprietário. Original, v2 e v3 preservados, com o mesmo banco, poderes e progresso. Modelo otimizado para Windows e web. Caçada do Lula, camiseta Che, interface contextual e população mantidos. Salas exigem a mesma versão, protocolo v22.",
+            "updatedAt": 1793121406092
+        },
+        {
             "id": "release-1_43_0",
             "kind": "news",
             "title": "1.43.0 � Igor v3, ca�ada do Lula e camiseta",
