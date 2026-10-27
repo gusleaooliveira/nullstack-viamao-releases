@@ -1,6 +1,6 @@
 {
-  "version": "1.39.1",
-  "release": "v1.39.1-camisetas-outdoors",
+  "version": "1.40.0",
+  "release": "v1.40.0-cidade-movimentada",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -19,7 +19,7 @@
   "weapons": 21,
   "cheats": 19,
   "leisureActivities": 7,
-  "newVehicles": 19,
+  "newVehicles": 20,
   "garageMissions": 3,
   "cityServices": 11,
   "characters": 19,
@@ -31,17 +31,22 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 158110722,
-      "sha256": "46c5cd947de251fa437d2d0c135897fae2ae9f860d5723aa094ad6f65e5623ed"
+      "bytes": 158118007,
+      "sha256": "307294f3416e17740302dfd55f95603671988e62d3d6c265cf38a8f65960ce0e"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 134498576,
-      "sha256": "0e286f841eeaff6f8b80247233881fe45a387a7ce099f0cb38e6d0d22ec21d2c"
+      "bytes": 134511750,
+      "sha256": "b1866f5b9e1a9a8b1cbdd3dd844c726b2db1f554efc2c2e025782bde4aa05987"
     }
   ],
-  "webRevision": "a54ec29c0a75",
-  "newShirt": "É o vibes e o codas né",
-  "extraBillboards": 4
+  "webRevision": "3c42497a1950",
+  "extraBillboards": 4,
+  "pedestrians": 112,
+  "traffic": 72,
+  "policePatrols": 6,
+  "policeMaximum": 20,
+  "cashDrops": true,
+  "protocol": "nullstack-room-v18"
 }

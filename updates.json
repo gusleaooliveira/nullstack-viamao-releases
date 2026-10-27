@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_40_0",
+            "kind": "news",
+            "title": "1.40.0 — Cidade movimentada",
+            "body": "Mais pedestres e veículos, viaturas e policiais em ronda, tanque e helicópteros. Mais armas, coletes e corações pela cidade. Trânsito pode atropelar personagens. Sentido das motos corrigido. Pedestres mortos deixam dinheiro que entra no saldo de quem recolher.",
+            "updatedAt": 1793110093080
+        },
+        {
             "id": "release-1_39_1",
             "kind": "news",
             "title": "1.39.1 — Novas camisetas e outdoors",

@@ -1477,3 +1477,6 @@ Licença: CC0; Quaternius
 
 
 1.39.1: estampa adicional a partir da imagem enviada pelo proprietário, preservada sem alteração de pixels.
+
+
+1.40.0: expansão da cidade reutiliza modelos existentes e preserva as licenças anteriores.

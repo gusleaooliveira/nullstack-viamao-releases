@@ -1,13 +1,13 @@
-# Camisetas e outdoors — 1.39.1
+# Cidade movimentada — 1.40.0
 
-A imagem enviada foi adicionada como sétima estampa, preservando as seis existentes. Abra o celular com P, entre em Personalização / roupas e escolha **É o vibes e o codas né** em **Estampa da camiseta**. A base original desta peça é branca; as outras cores continuam disponíveis.
+Mais pedestres e carros, viaturas, dois tanques no trânsito e dois helicópteros em ronda. Seis policiais patrulham sem perseguição; o reforço chega a vinte com cinco estrelas. A cidade mantém limites de 112 pedestres e 72 veículos de trânsito.
 
-A seleção é salva por personagem, participa do salvamento portátil e é sincronizada nas salas. Todos devem usar a mesma versão do jogo. O PNG original foi preservado no backup de autoria; a textura integrada limita-se a 512 pixels, com material compartilhado e sem acrescentar geometria.
+30 corações (+35 vida), 30 coletes (+50 proteção) e 30 armas de seis tipos com carregador abastecido estão espalhados fora das pistas. Aproxime-se e pressione E para recolher. As motos urbana e trilha agora apontam na direção do movimento, inclusive no trânsito.
 
-## Mais outdoors
+Carros do trânsito podem atropelar jogadores e pedestres. Veículos dirigidos também atingem personagens na pista. O teste considera o trajeto entre quadros e aplica intervalo entre impactos do mesmo carro.
 
-Quatro outdoors fixos adicionais usam a nova imagem enviada: Centro (Praça Júlio), São Lucas, Estalagem e Vila Universal. Use P → Placas / outdoors · GPS para marcar cada local. O catálogo passa de 10 para 14 pontos. O outdoor anterior do terminal e as outras placas permanecem. As novas estruturas mantêm distância da Cria, das portas e das pistas. QR codes e telefones são apenas elementos da imagem.
+Pedestres mortos deixam de R$ 20 a R$ 100 em dinheiro. Aproxime-se a pé para recolher automaticamente; o saldo é da conta do personagem que pegou, não necessariamente de quem matou. Cada morte real gera uma coleta independente; notificações repetidas da mesma morte não duplicam o dinheiro. As notas expiram após três minutos. A autoridade da sala valida distância, obstáculos, vida e pagamento único, e sincroniza as notas pelo estado da cidade.
 
-## Mais camisetas Mounjaro
+A garagem inclui Tanque Rhino, Hunter e viatura policial, além das opções anteriores. Compras/retirada continuam em I → Garagem; F3 seleciona os veículos já adquiridos. Helicópteros da ronda são ambientação aérea; os helicópteros da garagem são pilotáveis.
 
-A frase parcialmente coberta na primeira foto foi confirmada pelo proprietário como Mounjaro. Há quatro opções adicionais: frase branca em camiseta preta; arcos dourados e nome vermelho em base preta; arcos em base branca; e marca roxa em base preta. Somente a arte é aplicada, sem imprimir as pessoas ou a fotografia da camiseta inteira. Os originais foram preservados, e a seleção de cores continua disponível. O menu acomoda todas as 11 estampas sem sobrepor os controles de bonés.
+Todos numa sala precisam da mesma versão: protocolo nullstack-room-v18. Salvamentos, personagens, roupas, placas e demais conteúdo anteriores são preservados.
