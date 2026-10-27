@@ -1,6 +1,6 @@
 {
-  "version": "1.47.0",
-  "release": "v1.47.0-talia-v2",
+  "version": "1.48.0",
+  "release": "v1.48.0-pedestres-proximidade",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -31,24 +31,23 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 166588373,
-      "sha256": "4c1f417f98844c6ea7f061785267454982d9c93c2500c70844202ae17dcd02cc"
+      "bytes": 166601782,
+      "sha256": "d2831e5c9bcaa213ba24362cdb774ca23d8d9e230abbe6ecb5e235de412ac69b"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 143048647,
-      "sha256": "78c1cb5837ad031ff86eef23fa77e3eb05fd8b5edaa84d028b301ec32df26242"
+      "bytes": 143070713,
+      "sha256": "f68d5efeacc0f74223d5509002067197e661571e3cadb90b7eb21e1c5d352e13"
     }
   ],
-  "webRevision": "8c09193194ad",
+  "webRevision": "89d83fc0326f",
   "extraBillboards": 4,
-  "pedestrians": 192,
   "traffic": 120,
   "policePatrols": 6,
   "policeMaximum": 20,
   "cashDrops": true,
-  "protocol": "nullstack-room-v25",
+  "protocol": "nullstack-room-v26",
   "radioUnityStream": true,
   "radioAutostart": true,
   "destructibleObjects": 228,
@@ -64,5 +63,9 @@
   "matheusVersions": 3,
   "henriqueVersions": 2,
   "taliaVersions": 2,
-  "newSkin": "Talia v2"
+  "pedestrianInitialPool": 192,
+  "pedestrianTargetPerPlayer": 140,
+  "pedestrianViewRadius": 140,
+  "pedestrianRetentionRadius": 180,
+  "pedestrianPoolMax": 2292
 }

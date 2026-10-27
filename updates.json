@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_48_0",
+            "kind": "news",
+            "title": "1.48.0 — Pedestres por proximidade",
+            "body": "A cidade passa a buscar cerca de 140 pedestres próximos por jogador, em um raio de 140 metros. Pedestres distantes são desativados e reaproveitados nas calçadas à frente; os que ainda estão próximos de alguém permanecem. Modelos e animações compartilham recursos, com limite local de renderização e expansão gradual do conjunto nas salas. Combate, colisão e dinheiro continuam sob autoridade do anfitrião. Todos da sala devem atualizar, protocolo v26.",
+            "updatedAt": 1793126047955
+        },
+        {
             "id": "release-1_47_0",
             "kind": "news",
             "title": "1.47.0 — Talia v2",

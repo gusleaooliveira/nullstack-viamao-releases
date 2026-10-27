@@ -1,5 +1,5 @@
-# NullStack 1.47.0 — Talia v2
+# NullStack 1.48.0 — Pedestres por proximidade
 
-[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=1.47.0) · [Windows e web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.47.0-talia-v2) · [Capturas](galeria-1.47.0/)
+[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=1.48.0) · [Windows e web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.48.0-pedestres-proximidade) · [Capturas](galeria-1.48.0/)
 
-Talia v2 com vestido rosa, mantendo original, gato companheiro, identidade, banco, poderes e progresso. Demais aparências e mais Lulas preservados. [Guia](TALIA_1_47.md). Todos da sala devem usar 1.47.0 / protocolo v25.
+População dinâmica com alvo de 140 pedestres próximos por jogador, reaproveitamento de modelos distantes e autoridade compartilhada nas salas. [Guia](PEDESTRES_1_48.md). Todos da sala devem usar 1.48.0 / protocolo v26.
