@@ -1,7 +1,7 @@
 {
-  "version": "1.45.0",
-  "protocol": "nullstack-room-v23",
+  "version": "1.46.0",
+  "protocol": "nullstack-room-v24",
   "endpoint": "https://nullstack-viamao-salas.classyray67.chatgpt.site/api/room",
-  "wasmSha256": "b4d581ec892e98138277c852fe3c4a2a551df16a6158dec451debb5cfee03a87",
-  "windowsDownload": "https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.45.0-luiz-v2-lulas/NullStack-Viamao-Historia.zip"
+  "wasmSha256": "fc188568221ca5f852664d89b464ce75ef72a702795dc60b21d387b612d53d09",
+  "windowsDownload": "https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.46.0-personagens/NullStack-Viamao-Historia.zip"
 }

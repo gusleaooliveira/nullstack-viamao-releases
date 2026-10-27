@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_46_0",
+            "kind": "news",
+            "title": "1.46.0 — Henrique v2 e Matheus v3",
+            "body": "Henrique ganha a aparência v2 e Matheus - visual 1 ganha Matheus v3, a partir dos modelos fornecidos pelo proprietário. Aparências anteriores, bancos, poderes e progresso preservados. Modelos otimizados e animados para Windows e web. Igor v4, Luiz v2 e mais Lulas no modo zumbi do Igor mantidos. Todos da sala precisam da mesma versão, protocolo v24.",
+            "updatedAt": 1793123201762
+        },
+        {
             "id": "release-1_45_0",
             "kind": "news",
             "title": "1.45.0 — Luiz v2 e mais Lulas",

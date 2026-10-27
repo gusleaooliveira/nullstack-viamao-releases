@@ -1,6 +1,6 @@
 {
-  "version": "1.45.0",
-  "release": "v1.45.0-luiz-v2-lulas",
+  "version": "1.46.0",
+  "release": "v1.46.0-personagens",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -8,7 +8,7 @@
     "zombie-survival",
     "beat-em-up"
   ],
-  "alternateAppearances": 9,
+  "alternateAppearances": 11,
   "billboardImages": 2,
   "shirtPrints": 12,
   "capDesigns": 2,
@@ -31,24 +31,24 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 162839530,
-      "sha256": "320abde183b1b21525cf3f862ead62d4477afd3b8c3ab822e15b88ea817fac50"
+      "bytes": 165366185,
+      "sha256": "f200965f6626667a6d2246d4a47a19db860b8c020e4246d260aaad31e5c308ff"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 139224630,
-      "sha256": "a6eec73779fdb73f2e596f4e7754d976dbd073bf924bf712e0b201b86655ac45"
+      "bytes": 141805524,
+      "sha256": "c5d30cf4a45c5f04d0eff8b594ea65b06803353b346381247bbbe7265e2b571d"
     }
   ],
-  "webRevision": "b37f0b28905a",
+  "webRevision": "e97229bd71f4",
   "extraBillboards": 4,
   "pedestrians": 192,
   "traffic": 120,
   "policePatrols": 6,
   "policeMaximum": 20,
   "cashDrops": true,
-  "protocol": "nullstack-room-v23",
+  "protocol": "nullstack-room-v24",
   "radioUnityStream": true,
   "radioAutostart": true,
   "destructibleObjects": 228,
@@ -59,7 +59,12 @@
   "lulaZombieChase": true,
   "uncappedPenTriangles": 13758,
   "newShirt": "Che · Hasta la victoria siempre",
-  "newSkin": "Luiz v2",
   "luizVersions": 2,
-  "lulaChaseMaxAlive": 12
+  "lulaChaseMaxAlive": 12,
+  "matheusVersions": 3,
+  "henriqueVersions": 2,
+  "newSkins": [
+    "Henrique v2",
+    "Matheus v3"
+  ]
 }
