@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_45_0",
+            "kind": "news",
+            "title": "1.45.0 — Luiz v2 e mais Lulas",
+            "body": "Luiz ganha a aparência v2, mantendo corrida rápida, carro, poderes e progresso. No modo zumbi com Igor, seis Lulas chegam na primeira onda e as ondas seguintes aumentam, com até doze perseguidores vivos. Capturas não se sobrepõem; caneta sem tampa e beijo preservados. Igor v4 e demais aparências mantidos. Windows e web usam protocolo v23.",
+            "updatedAt": 1793122246432
+        },
+        {
             "id": "release-1_44_0",
             "kind": "news",
             "title": "1.44.0 — Igor v4 · Robô",
