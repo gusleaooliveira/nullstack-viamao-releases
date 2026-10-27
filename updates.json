@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_43_0",
+            "kind": "news",
+            "title": "1.43.0 � Igor v3, ca�ada do Lula e camiseta",
+            "body": "Igor ganha a apar�ncia v3 Gummy Bear. No modo zumbi com Igor, Lula persegue o jogador; ao alcan��-lo, ocorre uma sequ�ncia cartunesca com a caneta sem a tampa solta e depois um beijo. Nova camiseta vermelha Che, Hasta la victoria siempre. Interface contextual e popula��o da cidade preservadas. Salas exigem a mesma vers�o, protocolo v21.",
+            "updatedAt": 1793120010627
+        },
+        {
             "id": "release-1_42_0",
             "kind": "news",
             "title": "1.42.0 — Mais vida pela cidade",

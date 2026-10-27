@@ -1,6 +1,6 @@
 {
-  "version": "1.42.0",
-  "release": "v1.42.0-populacao",
+  "version": "1.43.0",
+  "release": "v1.43.0-igor-v3",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -8,9 +8,9 @@
     "zombie-survival",
     "beat-em-up"
   ],
-  "alternateAppearances": 6,
+  "alternateAppearances": 7,
   "billboardImages": 2,
-  "shirtPrints": 11,
+  "shirtPrints": 12,
   "capDesigns": 2,
   "mysteryModels": 13,
   "mysteryIdlePoseSamples": 78,
@@ -31,28 +31,32 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 158183378,
-      "sha256": "acabda98276cc8838e935d06036662d1d4437865e8abf3601a2f5b0ceadd2448"
+      "bytes": 160488515,
+      "sha256": "2eb62556b1fdb4740ed2c66d047ee1820225dff46850c82f843a1d3b6542553e"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 134545479,
-      "sha256": "5041ab26b952b8324b7c812097499afdc21eb4f3a6249ccf07555d67d33f99b5"
+      "bytes": 136811202,
+      "sha256": "45ce7dd3cd8f5e6c9b26f27d5e076d8188b79b2d12955394960755207dbc6768"
     }
   ],
-  "webRevision": "72396752ecfe",
+  "webRevision": "171dab3c6b4a",
   "extraBillboards": 4,
   "pedestrians": 192,
   "traffic": 120,
   "policePatrols": 6,
   "policeMaximum": 20,
   "cashDrops": true,
-  "protocol": "nullstack-room-v20",
+  "protocol": "nullstack-room-v21",
   "radioUnityStream": true,
   "radioAutostart": true,
   "destructibleObjects": 228,
   "destructibleFacadeParts": 26,
   "destructionRespawnSeconds": 90,
-  "animals": 72
+  "animals": 72,
+  "igorVersions": 3,
+  "lulaZombieChase": true,
+  "uncappedPenTriangles": 13758,
+  "newShirt": "Che · Hasta la victoria siempre"
 }
