@@ -1,5 +1,5 @@
-# NullStack 1.49.0 — Personagens na cidade solo
+# NullStack 1.50.0 — Mais variedade nas ruas
 
-[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=1.49.0) · [Windows e web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.49.0-personagens-solo) · [Capturas](galeria-1.49.0/)
+[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=1.50.0) · [Pacotes Windows e web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.50.0-pedestres-variedade) · [Guia](PEDESTRES_1_50.md)
 
-Outros personagens aparecem como pedestres no modo solo, sem duplicar o escolhido. Salas mantêm escolha livre. Talia v2 removida, com migração para a original. População por proximidade preservada. [Guia](SOLO_1_49.md). Todos da sala devem usar 1.49.0 / protocolo v27.
+24 novas aparências: seis de GTA III, seis de Vice City, seis de San Andreas e seis da Kenney. Catálogo civil de 28 visuais; 140 pedestres por proximidade. Elenco no solo e escolha livre nas salas preservados. Todos devem usar 1.50.0 / protocolo v28.
