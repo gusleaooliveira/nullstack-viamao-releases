@@ -1,0 +1,38 @@
+[
+  {
+    "key": "nature-kit",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "sha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d",
+    "size": 10537521
+  },
+  {
+    "key": "space-station-kit",
+    "source": "https://kenney.nl/assets/space-station-kit",
+    "sha256": "215e79bd5415cff93665183390f0343ed9acf87780306331013b78520170c6d8",
+    "size": 1835875
+  },
+  {
+    "key": "mini-arena",
+    "source": "https://kenney.nl/assets/mini-arena",
+    "sha256": "514760c2bc2457027451534a0b06a23f98beece166fb11ed2321226276b83c2c",
+    "size": 731420
+  },
+  {
+    "key": "pirate-kit",
+    "source": "https://kenney.nl/assets/pirate-kit",
+    "sha256": "667ed2caf92954ddb98f7b7cede831fe99ab75063c26b25e23d32715bee9c943",
+    "size": 3154665
+  },
+  {
+    "key": "blaster-kit",
+    "source": "https://kenney.nl/assets/blaster-kit",
+    "sha256": "91e3093e95427d59625e7e2ce2d0399b861600160fd0b4ada7714796b67cea8c",
+    "size": 1724676
+  },
+  {
+    "key": "starter-platformer",
+    "source": "https://github.com/KenneyNL/Starter-Kit-3D-Platformer",
+    "license": "MIT",
+    "sha256": "eb1a126071a969664f5e4f84ba627f74c94ab1a13a1e84f949930deb9215de1f"
+  }
+]

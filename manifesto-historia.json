@@ -1,6 +1,6 @@
 {
-  "version": "1.52.0",
-  "release": "v1.52.0-paisagismo-fliperama",
+  "version": "1.53.0",
+  "release": "v1.53.0-fliperamas-assets",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -31,17 +31,17 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 174376732,
-      "sha256": "fc5ff715fc0660e64072759592c23f6c3e0eb761c93ce46d43b1914d3ada4529"
+      "bytes": 177036620,
+      "sha256": "50ef2aea0468b62bb8ab564928dafaefe9d16f06c83049cbc85e473a1c07e7a6"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 148518455,
-      "sha256": "8789fc1b6bf7666369c584c9807f16909bdc9663f9e1b7683d0589aea57d876d"
+      "bytes": 150719813,
+      "sha256": "115a595ced2fcd1ab6e13ee52e48ff7c5ded67e4c99bc9af2c430c887958c253"
     }
   ],
-  "webRevision": "062710799d4a",
+  "webRevision": "3a34a09afc60",
   "extraBillboards": 4,
   "traffic": 120,
   "policePatrols": 6,
@@ -83,5 +83,10 @@
   "texturedPatches": 12,
   "arcadeRaoni": true,
   "arcadeFighting": true,
-  "arcadeLucas": true
+  "arcadeLucas": true,
+  "arcadeAssets153": 61,
+  "arcadeStaticStages153": 12,
+  "arcadeJumpGrace": true,
+  "arcadeCitySuspension": true,
+  "arcadeCombatAnimations": true
 }

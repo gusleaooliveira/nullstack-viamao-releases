@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_53_0",
+            "kind": "news",
+            "title": "1.53 — Novos modelos e animações nos fliperamas",
+            "body": "Raoni ganha doze cenários com natureza, barcos e objetos de missão. Luta do Elenco recebe arena e animações de combate; Agente Lucas recebe equipamentos industriais, drones e armas. Saltos mais tolerantes, corrida com disparo, cobertura e impactos visuais. A cidade fica suspensa durante o fliperama solo para reduzir trabalho fora da tela.",
+            "updatedAt": 1793379932452
+        },
+        {
             "id": "release-1_52_0",
             "kind": "news",
             "title": "1.52 — Mais natureza e três fliperamas",

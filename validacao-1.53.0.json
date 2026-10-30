@@ -1,0 +1,85 @@
+{
+  "version": "1.53.0",
+  "passed": true,
+  "checks": 783,
+  "tests": [
+    {
+      "name": "Fliperamas",
+      "path": "documentacao/validacao/1.53.0/Fliperamas/arcade153.json",
+      "checks": 424,
+      "passed": true
+    },
+    {
+      "name": "Indio",
+      "path": "documentacao/validacao/1.53.0/Indio/indio151.json",
+      "checks": 68,
+      "passed": true
+    },
+    {
+      "name": "Luta",
+      "path": "documentacao/validacao/1.53.0/Luta/fight152.json",
+      "checks": 51,
+      "passed": true
+    },
+    {
+      "name": "Lucas",
+      "path": "documentacao/validacao/1.53.0/Lucas/lucas152.json",
+      "checks": 39,
+      "passed": true
+    },
+    {
+      "name": "Interface",
+      "path": "documentacao/validacao/1.53.0/Interface/interface.json",
+      "checks": 37,
+      "passed": true
+    },
+    {
+      "name": "Orientacao",
+      "path": "documentacao/validacao/1.53.0/Orientacao/orientation1271.json",
+      "checks": 54,
+      "passed": true
+    },
+    {
+      "name": "Urbano",
+      "path": "documentacao/validacao/1.53.0/Urbano/urban138.json",
+      "checks": 34,
+      "passed": true
+    },
+    {
+      "name": "Proximidade",
+      "path": "documentacao/validacao/1.53.0/Proximidade/crowd148.json",
+      "checks": 31,
+      "passed": true
+    },
+    {
+      "name": "Arcade",
+      "path": "documentacao/validacao/1.53.0/Arcade/arcade.json",
+      "checks": 45,
+      "passed": true
+    }
+  ],
+  "campaign": true,
+  "nativeSourceMatch": true,
+  "baselineLegacyCity": {
+    "newRegression": false,
+    "baselineVersion": "1.52.0",
+    "sameErrors": [
+      "pedestrian does not revive after five seconds",
+      "wanted creates pursuing police",
+      "city snapshot roundtrips citizen death tags and bodies"
+    ],
+    "note": "Legacy validation retains index-0 and police-count assumptions from earlier versions; current acceptance suites are separate."
+  },
+  "physicalControllerTested": false,
+  "liveCrossplayTested": false,
+  "webRuntimePending": false,
+  "webRuntime": {
+    "passed": true,
+    "scope": "Menu 1.53 and solo 3D city rendered in in-app browser; no console errors. Full arcade playthroughs validated natively, not in browser.",
+    "screenshots": [
+      "web-menu.png",
+      "web-cidade.png"
+    ],
+    "consoleErrors": []
+  }
+}
