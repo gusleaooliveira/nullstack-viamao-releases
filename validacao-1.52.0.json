@@ -1,0 +1,115 @@
+{
+  "version": "1.52.0",
+  "passed": true,
+  "checks": 1057,
+  "tests": [
+    {
+      "name": "Paisagismo",
+      "path": "documentacao/validacao/1.52.0/Paisagismo/resultado.json",
+      "passed": true,
+      "checks": 135
+    },
+    {
+      "name": "Indio",
+      "path": "documentacao/validacao/1.52.0/Indio/indio151.json",
+      "passed": true,
+      "checks": 68
+    },
+    {
+      "name": "Luta",
+      "path": "documentacao/validacao/1.52.0/Luta/fight152.json",
+      "passed": true,
+      "checks": 51
+    },
+    {
+      "name": "Lucas",
+      "path": "documentacao/validacao/1.52.0/Lucas/lucas152.json",
+      "passed": true,
+      "checks": 39
+    },
+    {
+      "name": "Texturas",
+      "path": "documentacao/validacao/1.52.0/Texturas/textures-validation.json",
+      "passed": true,
+      "checks": 366
+    },
+    {
+      "name": "Orientacao",
+      "path": "documentacao/validacao/1.52.0/Orientacao/orientation1271.json",
+      "passed": true,
+      "checks": 54
+    },
+    {
+      "name": "Interface",
+      "path": "documentacao/validacao/1.52.0/Interface/interface.json",
+      "passed": true,
+      "checks": 37
+    },
+    {
+      "name": "Campanha",
+      "path": "documentacao/validacao/1.52.0/Campanha/story-validation.json",
+      "passed": true,
+      "checks": 0
+    },
+    {
+      "name": "Variedade",
+      "path": "documentacao/validacao/1.52.0/Variedade/people150.json",
+      "passed": true,
+      "checks": 178
+    },
+    {
+      "name": "Elenco",
+      "path": "documentacao/validacao/1.52.0/Elenco/solo149.json",
+      "passed": true,
+      "checks": 19
+    },
+    {
+      "name": "Proximidade",
+      "path": "documentacao/validacao/1.52.0/Proximidade/crowd148.json",
+      "passed": true,
+      "checks": 31
+    },
+    {
+      "name": "Urbano",
+      "path": "documentacao/validacao/1.52.0/Urbano/urban138.json",
+      "passed": true,
+      "checks": 34
+    },
+    {
+      "name": "Arcade",
+      "path": "documentacao/validacao/1.52.0/Arcade/arcade.json",
+      "passed": true,
+      "checks": 45
+    }
+  ],
+  "profileRestored": true,
+  "landscape": {
+    "instances": 43,
+    "sourceModels": 12,
+    "textures": 3,
+    "regions": 4,
+    "patches": 12
+  },
+  "raoni": {
+    "phases": 12,
+    "clips": 14
+  },
+  "fighters": 19,
+  "lucasStages": 3,
+  "legacyCityFixture": {
+    "baselineVersion": "1.50.0",
+    "unchangedFailures": [
+      "pedestrian does not revive after five seconds",
+      "wanted creates pursuing police",
+      "city snapshot roundtrips citizen death tags and bodies"
+    ],
+    "acceptanceUsesCurrentCitySuites": true
+  },
+  "textureFixtureUpdate": "Rhino type17 retains original opaque Standard solid-color materials; all other traffic must retain textured shaders.",
+  "physicalControllerTested": false,
+  "liveCrossplayTested": false,
+  "browserGameplayTested": false,
+  "matchingWindowsWebBuilds": true,
+  "protocol": "nullstack-room-v28",
+  "unityVersion": "6000.6.6f1"
+}

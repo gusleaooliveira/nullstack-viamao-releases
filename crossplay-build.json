@@ -1,7 +1,7 @@
 {
-  "version": "1.50.0",
+  "version": "1.52.0",
   "protocol": "nullstack-room-v28",
   "endpoint": "https://nullstack-viamao-salas.classyray67.chatgpt.site/api/room",
-  "wasmSha256": "b884ae38ba3abdf990350d194171aace5405ade32a7634eac24300f79f1fbd8a",
-  "windowsDownload": "https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.50.0-pedestres-variedade/NullStack-Viamao-Historia.zip"
+  "wasmSha256": "d6a348fd5ad48d935c29c1776c9c1277e44196c140086075c4d6c499eb58084c",
+  "windowsDownload": "https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.52.0-paisagismo-fliperama/NullStack-Viamao-Historia.zip"
 }

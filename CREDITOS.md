@@ -1510,3 +1510,7 @@ Licença: CC0; Quaternius
 
 
 1.50.0: RadioUnityStream (sjbmcg; uso pessoal, não comercial), NLayer 1.16.0 (MIT); adaptador web próprio. SomaFM: somafm.com. Destruição reutiliza modelos e licenças anteriores.
+
+1.52.0: modelos Nature Kit, Kenney (CC0); texturas ambientCG / Lennart Demes (CC0). Fontes, originais e hashes no catálogo Landscape152.
+
+Raoni: recursos do projeto original, procedência e licenças preservadas. Luta do Elenco e Agente Lucas reutilizam o elenco e os rigs existentes; os cenários da usina foram criados para esta adaptação. Veja os guias incluídos.

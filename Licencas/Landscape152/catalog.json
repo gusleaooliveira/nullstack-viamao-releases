@@ -1,0 +1,53 @@
+{
+  "models": {
+    "source": "https://kenney.nl/assets/nature-kit",
+    "license": "CC0-1.0",
+    "original": "assets-baixados\\20-paisagismo-152\\kenney-nature-kit.zip",
+    "sha256": "fa7974a0d342bfe63c38664ba9f8ec1a4aab8ea25f099bdc56870e33588c4d9d"
+  },
+  "textures": [
+    {
+      "id": "PavingStones142",
+      "source": "https://ambientcg.com/a/PavingStones142",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\20-paisagismo-152\\PavingStones142_1K-JPG.zip",
+      "sha256": "13f354afee9eb22c73257610ca0cf2b4fe24db97f990b524c36bcdc7202c2ead"
+    },
+    {
+      "id": "Gravel020",
+      "source": "https://ambientcg.com/a/Gravel020",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\20-paisagismo-152\\Gravel020_1K-JPG.zip",
+      "sha256": "9f528373f0d3f58e610ed2cd8b83b809b8b75b43f41f8eeadd678bd45c86ee31"
+    },
+    {
+      "id": "Wood094",
+      "source": "https://ambientcg.com/a/Wood094",
+      "license": "CC0-1.0",
+      "original": "assets-baixados\\20-paisagismo-152\\Wood094_1K-JPG.zip",
+      "sha256": "85f79a5f414859adafa9c799db01decd92a73332172abf63015ddd6f21c37a65"
+    }
+  ],
+  "selectedModels": [
+    "flower_purpleA",
+    "flower_redA",
+    "flower_yellowA",
+    "log",
+    "log_stack",
+    "mushroom_redGroup",
+    "plant_bush",
+    "plant_bushDetailed",
+    "rock_largeA",
+    "rock_smallA",
+    "tree_default",
+    "tree_detailed"
+  ],
+  "regions": [
+    2,
+    3,
+    4,
+    14,
+    15
+  ],
+  "textureMaxSize": 512
+}

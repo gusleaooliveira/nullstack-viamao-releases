@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_52_0",
+            "kind": "news",
+            "title": "1.52 — Mais natureza e três fliperamas",
+            "body": "Doze modelos de natureza e três texturas de pedra, cascalho e madeira enriquecem as praças e áreas verdes. Os fliperamas recebem Raoni — Jogo do Índio, Luta do Elenco com 19 personagens e Agente Lucas em aventura 3D. Acesso às máquinas no modo solo, teclado e controle. Pacotes Windows e navegador da mesma versão.",
+            "updatedAt": 1793372140000
+        },
+        {
             "id": "release-1_50_0",
             "kind": "news",
             "title": "1.50.0 — Mais variedade nas ruas",

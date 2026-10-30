@@ -1,0 +1,240 @@
+{
+  "characters": [
+    {
+      "key": "Raoni",
+      "source": "raoni_sem_armas.glb",
+      "sha256": "a6d5a771438209b848f691df5026313305cdca2b5952f0bd07b75a4534eeb219",
+      "triangles": 5580,
+      "materials": [
+        {
+          "name": "Costas_Pele_e_Jenipapo",
+          "texture": "Raoni-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        },
+        {
+          "name": "Pele_reconstruida",
+          "texture": "",
+          "color": [
+            0.47999998927116394,
+            0.22499999403953552,
+            0.11500000208616257,
+            1.0
+          ]
+        },
+        {
+          "name": "tripo_mat_38a2c4f3-1470-4680-a3d0-568cb51322fa",
+          "texture": "Raoni-2.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "key": "Curupira",
+      "source": "animados/curupira.glb",
+      "sha256": "78cda830174605a33cd9dc898ba2dc7543c3b3daa60f9c916967193927ba3a74",
+      "triangles": 5580,
+      "materials": [
+        {
+          "name": "tripo_material_66e5aa58-b419-4780-afb7-d6f5ac13ccdb",
+          "texture": "Curupira-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "key": "Iara",
+      "source": "animados/iara.glb",
+      "sha256": "041275a719d954ed3992f823c3ee9aa2afa03f4146565c69eb834c589f283317",
+      "triangles": 5580,
+      "materials": [
+        {
+          "name": "tripo_material_fc8c3cf2-45bb-4dd8-aa1e-ff2329e1caa6",
+          "texture": "Iara-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "key": "Boitata",
+      "source": "animados/boitata.glb",
+      "sha256": "fd25592342537352acb3a5bfe4a3dea02ca80470b20d53868b32f737ee304fb4",
+      "triangles": 5580,
+      "materials": [
+        {
+          "name": "tripo_material_0833f75f-1134-476a-83e2-36148b040b58",
+          "texture": "Boitata-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "key": "Jaci",
+      "source": "animados/jaci.glb",
+      "sha256": "abba2321ed127db4d921da0d81d79b39d80bfb638bb5b868ce933415df977871",
+      "triangles": 5580,
+      "materials": [
+        {
+          "name": "tripo_material_97502a3c-721b-416c-95a5-4b2e2f604864",
+          "texture": "Jaci-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "key": "Tupa",
+      "source": "animados/tupa.glb",
+      "sha256": "2a640350002c69ebdac11241aca6aa758417c7ab56c38352112ae79106b6cfdb",
+      "triangles": 5580,
+      "materials": [
+        {
+          "name": "tripo_material_ba378671-e563-4374-8b1e-f2727fc6ddd2",
+          "texture": "Tupa-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "key": "Soldado",
+      "source": "animados/soldado_espada.glb",
+      "sha256": "3d54b4c6757997de437813fd48c821a6c8a0efcbabcfe40c6795fe988a54cbbb",
+      "triangles": 5579,
+      "materials": [
+        {
+          "name": "tripo_material_6cedb993-338e-4a78-b104-e605e3df5a70",
+          "texture": "Soldado-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "key": "Mapinguari",
+      "source": "animados/mapinguari.glb",
+      "sha256": "f44b684632a867352b5333b05032cdee037d6bb7838652d64dea5279d01a5c3c",
+      "triangles": 5580,
+      "materials": [
+        {
+          "name": "tripo_material_990cc430-fec3-4713-b060-8871f4b9ca2c",
+          "texture": "Mapinguari-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "key": "Jaciara",
+      "source": "animados/jaciara.glb",
+      "sha256": "3e1f03ad29874a485a910e159f5343ec559767f434290dd65e4ba84e52af1038",
+      "triangles": 5580,
+      "materials": [
+        {
+          "name": "tripo_material_e433e3c2-9212-4d47-bd95-737b428f9edb",
+          "texture": "Jaciara-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "key": "Onca",
+      "source": "animados/onca.glb",
+      "sha256": "c7dcd05a4bc44040b6542ab3b3dc76c9ffe092d32af8c42a9c83cc8de74d7f87",
+      "triangles": 5580,
+      "materials": [
+        {
+          "name": "tripo_material_187ed358-5552-416a-a94e-7bf56bb12485",
+          "texture": "Onca-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "key": "Capivara",
+      "source": "animados/capivara.glb",
+      "sha256": "45c109255ccf6ba2ca843627c051b77ea8eea32b2274c101b1a441e55023dbbe",
+      "triangles": 5580,
+      "materials": [
+        {
+          "name": "tripo_material_bf3edb0d-f2ee-4c46-a94a-cd8a58abe8b8",
+          "texture": "Capivara-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ]
+    },
+    {
+      "key": "Anhanga",
+      "source": "animados/anhanga_corrompido.glb",
+      "sha256": "1d2453e22dee62f6259463de8f90361fcc2dabe5c5dabe8d29d4ac3f70a63af7",
+      "triangles": 5580,
+      "materials": [
+        {
+          "name": "tripo_material_3532ec87-b50c-4348-aecd-a5b6682179cc",
+          "texture": "Anhanga-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ]
+    }
+  ]
+}

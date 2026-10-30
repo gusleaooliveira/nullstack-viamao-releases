@@ -1,5 +1,5 @@
-# NullStack 1.50.0 — Mais variedade nas ruas
+# NullStack 1.52.0 — Paisagismo e fliperamas
 
-[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=1.50.0) · [Windows e web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.50.0-pedestres-variedade) · [Capturas](galeria-1.50.0/)
+[Jogar](https://gusleaooliveira.github.io/nullstack-viamao-releases/?v=1.52.0) · [Windows e web](https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/tag/v1.52.0-paisagismo-fliperama) · [Capturas](galeria-1.52.0/)
 
-Outros personagens aparecem como pedestres no modo solo, sem duplicar o escolhido. Salas mantêm escolha livre. Talia v2 removida, com migração para a original. População por proximidade preservada. [Guia](PEDESTRES_1_50.md). Todos da sala devem usar 1.50.0 / protocolo v27.
+Novos modelos e texturas nas praças e áreas de natureza; aventura Raoni, luta com o elenco e Agente Lucas nas três máquinas. Leia [o guia](NOVIDADES_1_52.md). Todos da sala devem usar a mesma versão 1.52.0.

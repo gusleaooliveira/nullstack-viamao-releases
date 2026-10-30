@@ -1,6 +1,6 @@
 {
-  "version": "1.50.0",
-  "release": "v1.50.0-pedestres-variedade",
+  "version": "1.52.0",
+  "release": "v1.52.0-paisagismo-fliperama",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -31,17 +31,17 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 166979528,
-      "sha256": "851179fb123ef0bd62d555d60b916bec4abc7456824394815f8d3b99786d8ab8"
+      "bytes": 174376732,
+      "sha256": "fc5ff715fc0660e64072759592c23f6c3e0eb761c93ce46d43b1914d3ada4529"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 143474407,
-      "sha256": "d10f88547c2aead96bcd577d1a75f2157dce9d63e600976e3696a851b453b630"
+      "bytes": 148518455,
+      "sha256": "8789fc1b6bf7666369c584c9807f16909bdc9663f9e1b7683d0589aea57d876d"
     }
   ],
-  "webRevision": "5c69b253a54a",
+  "webRevision": "062710799d4a",
   "extraBillboards": 4,
   "traffic": 120,
   "policePatrols": 6,
@@ -75,5 +75,13 @@
   "gta3PedestriansAdded": 6,
   "viceCityPedestriansAdded": 6,
   "sanAndreasPedestriansAdded": 6,
-  "kenneyPedestriansAdded": 6
+  "kenneyPedestriansAdded": 6,
+  "landscapeSourceModels": 12,
+  "landscapeTextures": 3,
+  "landscapeRegions": 4,
+  "landscapeInstances": 43,
+  "texturedPatches": 12,
+  "arcadeRaoni": true,
+  "arcadeFighting": true,
+  "arcadeLucas": true
 }
