@@ -1,0 +1,69 @@
+{
+  "version": "1.54.0",
+  "passed": true,
+  "nativeChecks": 1489,
+  "suites": {
+    "Construtor": {
+      "passed": true,
+      "checks": 582,
+      "report": "documentacao/validacao/1.54.0/Construtor/resultado.json"
+    },
+    "Indio": {
+      "passed": true,
+      "checks": 157,
+      "report": "documentacao/validacao/1.54.0/Indio/indio151.json"
+    },
+    "Luta": {
+      "passed": true,
+      "checks": 67,
+      "report": "documentacao/validacao/1.54.0/Luta/fight152.json"
+    },
+    "Lucas": {
+      "passed": true,
+      "checks": 58,
+      "report": "documentacao/validacao/1.54.0/Lucas/lucas152.json"
+    },
+    "Fliperamas": {
+      "passed": true,
+      "checks": 424,
+      "report": "documentacao/validacao/1.54.0/Fliperamas/arcade153.json"
+    },
+    "Interface": {
+      "passed": true,
+      "checks": 37,
+      "report": "documentacao/validacao/1.54.0/Interface/interface.json"
+    },
+    "Orientacao": {
+      "passed": true,
+      "checks": 54,
+      "report": "documentacao/validacao/1.54.0/Orientacao/orientation1271.json"
+    },
+    "Urbano": {
+      "passed": true,
+      "checks": 34,
+      "report": "documentacao/validacao/1.54.0/Urbano/urban138.json"
+    },
+    "Proximidade": {
+      "passed": true,
+      "checks": 31,
+      "report": "documentacao/validacao/1.54.0/Proximidade/crowd148.json"
+    },
+    "Arcade": {
+      "passed": true,
+      "checks": 45,
+      "report": "documentacao/validacao/1.54.0/Arcade/arcade.json"
+    },
+    "Campanha": {
+      "passed": true,
+      "checks": 0,
+      "report": "documentacao/validacao/1.54.0/Campanha/story-validation.json"
+    }
+  },
+  "chapters": 12,
+  "lucasSectors": 6,
+  "cabinets": 32,
+  "sites": 16,
+  "webRuntimePending": false,
+  "scope": "Full native Unity packages; web scope recorded separately. No physical controller, live crossplay or FPS benchmark claimed.",
+  "sourceScripts": 264
+}

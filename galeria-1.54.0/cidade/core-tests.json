@@ -1,0 +1,183 @@
+{
+  "passed": true,
+  "checks": 39,
+  "results": [
+    {
+      "name": "fresh plan validates",
+      "passed": true
+    },
+    {
+      "name": "negative lot rejected",
+      "passed": true
+    },
+    {
+      "name": "outside lot rejected",
+      "passed": true
+    },
+    {
+      "name": "unknown construction rejected",
+      "passed": true
+    },
+    {
+      "name": "entrance cannot be demolished",
+      "passed": true
+    },
+    {
+      "name": "housing charges listed price",
+      "passed": true
+    },
+    {
+      "name": "occupied lot cannot be overwritten",
+      "passed": true
+    },
+    {
+      "name": "housing requires utilities",
+      "passed": true
+    },
+    {
+      "name": "adjacent buildings connected",
+      "passed": true
+    },
+    {
+      "name": "serviced housing attracts residents",
+      "passed": true
+    },
+    {
+      "name": "isolated housing disconnected",
+      "passed": true
+    },
+    {
+      "name": "demolishing road disconnects district",
+      "passed": true
+    },
+    {
+      "name": "can demolish service while in debt",
+      "passed": true
+    },
+    {
+      "name": "debt demolition is free",
+      "passed": true
+    },
+    {
+      "name": "demolished utility no longer charges upkeep",
+      "passed": true
+    },
+    {
+      "name": "debt cannot finance new construction",
+      "passed": true
+    },
+    {
+      "name": "negative objective rejected",
+      "passed": true
+    },
+    {
+      "name": "unknown objective rejected",
+      "passed": true
+    },
+    {
+      "name": "absurd population rejected",
+      "passed": true
+    },
+    {
+      "name": "negative happiness rejected",
+      "passed": true
+    },
+    {
+      "name": "extreme net safely rejected",
+      "passed": true
+    },
+    {
+      "name": "negative stability rejected",
+      "passed": true
+    },
+    {
+      "name": "unknown saved tile rejected",
+      "passed": true
+    },
+    {
+      "name": "missing saved levels rejected",
+      "passed": true
+    },
+    {
+      "name": "southern services connected through road 111",
+      "passed": true
+    },
+    {
+      "name": "campaign reaches 200 residents",
+      "passed": true
+    },
+    {
+      "name": "campaign economy profitable",
+      "passed": true
+    },
+    {
+      "name": "campaign happiness target",
+      "passed": true
+    },
+    {
+      "name": "all campaign objectives complete",
+      "passed": true
+    },
+    {
+      "name": "parks and schools upgrade housing",
+      "passed": true
+    },
+    {
+      "name": "completed plan remains valid",
+      "passed": true
+    },
+    {
+      "name": "starter city receives exactly 18000",
+      "passed": true
+    },
+    {
+      "name": "starter district costs exactly 14800",
+      "passed": true
+    },
+    {
+      "name": "starter district never goes into debt",
+      "passed": true
+    },
+    {
+      "name": "starter district reaches 200 residents",
+      "passed": true
+    },
+    {
+      "name": "starter district meets happiness target",
+      "passed": true
+    },
+    {
+      "name": "starter district generates daily profit",
+      "passed": true
+    },
+    {
+      "name": "starter district completes full campaign",
+      "passed": true
+    },
+    {
+      "name": "starter district save remains valid",
+      "passed": true
+    }
+  ],
+  "campaignAfter100Days": {
+    "population": 300,
+    "happiness": 79,
+    "money": 73008,
+    "net": 80,
+    "goal": 3
+  },
+  "starterCampaignAfter100Days": {
+    "initialMoney": 18000,
+    "constructionCost": 14800,
+    "lowestBalance": 2528,
+    "population": 240,
+    "happiness": 92,
+    "money": 33200,
+    "net": 272,
+    "goal": 3
+  },
+  "source": "NullStack-Unity/Assets/Scripts/CityBuilder154.cs",
+  "sourceSha256": "5827724ee0f2f0dcc64c6a04beb5debee02cd1f12cbaf6c6f1d608604d3a1be5",
+  "scope": "Actual CityPlan154 compiled with only integer Mathf stubs; no Unity, rendering, input or PlayerPrefs exercised.",
+  "campaignFixtureStartingMoney": 100000
+}

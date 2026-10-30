@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_54_0",
+            "kind": "news",
+            "title": "1.54 — Quatro jogos e fliperamas pela cidade",
+            "body": "Raoni recria os doze capítulos da história original, com novas etapas, personagens, descobertas e objetos. Agente Lucas infiltra uma usina nuclear em seis setores, resgata animais e enfrenta anomalias. Luta do Elenco ganha ataques com preparação e recuperação, combos, defesa e esquiva. Novo Cidade em Construção: ruas, moradias, serviços, impostos e objetivos. Agora são 32 máquinas em 16 locais com GPS por jogo.",
+            "updatedAt": 1793386892035
+        },
+        {
             "id": "release-1_53_0",
             "kind": "news",
             "title": "1.53 — Novos modelos e animações nos fliperamas",

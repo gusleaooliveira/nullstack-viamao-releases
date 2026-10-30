@@ -1,6 +1,6 @@
 {
-  "version": "1.53.0",
-  "release": "v1.53.0-fliperamas-assets",
+  "version": "1.54.0",
+  "release": "v1.54.0-quatro-fliperamas",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -31,17 +31,17 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 177036620,
-      "sha256": "50ef2aea0468b62bb8ab564928dafaefe9d16f06c83049cbc85e473a1c07e7a6"
+      "bytes": 181249190,
+      "sha256": "22d214d0767d5df647b9e18261998b96e55dd277a742164b525480267d98ccf9"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 150719813,
-      "sha256": "115a595ced2fcd1ab6e13ee52e48ff7c5ded67e4c99bc9af2c430c887958c253"
+      "bytes": 154865175,
+      "sha256": "8b944b5e8acedd085f630932ae477a368442a8abe5128a9c4ec22cf6f721625b"
     }
   ],
-  "webRevision": "3a34a09afc60",
+  "webRevision": "c976c8276d49",
   "extraBillboards": 4,
   "traffic": 120,
   "policePatrols": 6,
@@ -88,5 +88,17 @@
   "arcadeStaticStages153": 12,
   "arcadeJumpGrace": true,
   "arcadeCitySuspension": true,
-  "arcadeCombatAnimations": true
+  "arcadeCombatAnimations": true,
+  "cityBuilderHouseModels": 6,
+  "cityBuilderHouseTriangles": 8584,
+  "arcadeCityBuilder": true,
+  "arcadeCabinets": 32,
+  "arcadeLocations": 16,
+  "raoniChapters": 12,
+  "raoniDiscoveries": 24,
+  "raoniNewOriginalModels": 9,
+  "lucasSectors": 6,
+  "fightingActiveFrames": true,
+  "fightingDodge": true,
+  "cityBuilderCampaign": true
 }

@@ -1,0 +1,166 @@
+{
+  "characters": [
+    {
+      "key": "Potira",
+      "source": "animados/potira.glb",
+      "sha256": "2ed076c23e8e13e3f61ef60c76a25377cc4209ff2a698d4d8bda37566095036b",
+      "materials": [
+        {
+          "name": "tripo_material_7ccc67ef-3af1-4deb-8c7d-e2ca35caf22c",
+          "texture": "Potira-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ],
+      "triangles": 5500
+    },
+    {
+      "key": "Abare",
+      "source": "animados/abare.glb",
+      "sha256": "b0722e8d2162aaf27dbdeed6d12d732395e34217ed81226bb2fa5135b4644712",
+      "materials": [
+        {
+          "name": "tripo_material_f7d2086a-324a-4276-aa45-d67fd69ad0b8",
+          "texture": "Abare-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ],
+      "triangles": 5499
+    },
+    {
+      "key": "Moema",
+      "source": "animados/moema.glb",
+      "sha256": "300c51e9b367d9b0899ac69b4a05e0372fce418c381aaa771e38e11ccb1aa5cf",
+      "materials": [
+        {
+          "name": "tripo_material_14bf2a49-0db2-4be0-b681-4efbacfe9220",
+          "texture": "Moema-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ],
+      "triangles": 5500
+    },
+    {
+      "key": "AnhangaCurado",
+      "source": "animados/anhanga_purificado.glb",
+      "sha256": "6cba8f290149e1c46ebb18a0389597d7866f1ae41742eaa3520c52d29841cd8c",
+      "materials": [
+        {
+          "name": "tripo_material_b1df7d6d-c3cb-4d05-ac1e-06ffbadfcc96",
+          "texture": "AnhangaCurado-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ],
+      "triangles": 5500
+    },
+    {
+      "key": "Lanca",
+      "source": "leve/lanca.glb",
+      "sha256": "564dcacd1a36421a890fa3a42407457c04a8fc79350c0b92b110d2dd2aed5a90",
+      "materials": [
+        {
+          "name": "tripo_material_b23b8198-7a1c-4a6b-b01d-99b993f55cc9",
+          "texture": "Lanca-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ],
+      "triangles": 5499
+    },
+    {
+      "key": "Tacape",
+      "source": "leve/tacape.glb",
+      "sha256": "a2198016a5503dc4b913983041ccc7cb12d0972a4a092c8162a7b37fe35c6b60",
+      "materials": [
+        {
+          "name": "tripo_material_5d870c79-dbb9-44ff-871b-97b696c6dc94",
+          "texture": "Tacape-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ],
+      "triangles": 5500
+    },
+    {
+      "key": "Concha",
+      "source": "leve/concha.glb",
+      "sha256": "e21448c9b3ef9a391abb238dcabc1d5070bfdc74e5596ff9858975dc92bd9563",
+      "materials": [
+        {
+          "name": "tripo_material_25426963-181d-44d5-8b05-817d7c48ac54",
+          "texture": "Concha-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ],
+      "triangles": 5500
+    },
+    {
+      "key": "Caravela",
+      "source": "leve/caravela.glb",
+      "sha256": "836652babaf55c5e609e857c2d49f6b94ad18284dd7e4f05692099153bf15c14",
+      "materials": [
+        {
+          "name": "tripo_material_0ad7aba7-3f54-4906-acf8-6504a6896ff3",
+          "texture": "Caravela-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ],
+      "triangles": 5500
+    },
+    {
+      "key": "Oca",
+      "source": "leve/oca_01.glb",
+      "sha256": "d9b33877bb6d31fcd7c7f87ccd0f753eeb3116c5f0a64a1b9bdb3cb3f8331763",
+      "materials": [
+        {
+          "name": "tripo_material_bf79a8cc-6fc6-45c0-bf9d-08330d1c8817",
+          "texture": "Oca-0.png",
+          "color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+          ]
+        }
+      ],
+      "triangles": 5500
+    }
+  ]
+}

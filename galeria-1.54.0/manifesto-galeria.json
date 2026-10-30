@@ -1,0 +1,245 @@
+{
+  "version": "1.54.0",
+  "images": [
+    {
+      "file": "cidade/cidade-construcao.png",
+      "title": "Interface e gestão da cidade",
+      "width": 1280,
+      "height": 800,
+      "bytes": 184863,
+      "sha256": "7ed73d374b0e611dbd43faf840bba8def3ee2f3b7af29b2d02e96a81e3f98526"
+    },
+    {
+      "file": "cidade/cidade-tabuleiro.png",
+      "title": "Tabuleiro da cidade e construções",
+      "width": 1400,
+      "height": 900,
+      "bytes": 111368,
+      "sha256": "6b96fbc4721ecc7855495a647d0b7322e9a4ff6db9399f012699dec20b032040"
+    },
+    {
+      "file": "raoni/fliperama-tela.png",
+      "title": "Raoni na tela do fliperama",
+      "width": 1280,
+      "height": 800,
+      "bytes": 1001556,
+      "sha256": "5cff69abca0138b31773818252697cb8eecb8d9d6e3d171d0e241cf3cc680949"
+    },
+    {
+      "file": "raoni/fase-00.png",
+      "title": "01 · Prólogo · Praia e pesca",
+      "width": 1400,
+      "height": 900,
+      "bytes": 1114647,
+      "sha256": "142233aa397139031796be0e090b1de17890081ebc6d50bcb37299bd498d5a87"
+    },
+    {
+      "file": "raoni/fase-01.png",
+      "title": "02 · Mata Atlântica",
+      "width": 1400,
+      "height": 900,
+      "bytes": 1199160,
+      "sha256": "872293bb6762493b4ad9305c810022efc3b23676835aaa9e18568a7822c390b7"
+    },
+    {
+      "file": "raoni/fase-02.png",
+      "title": "03 · Cachoeira do Curupira",
+      "width": 1400,
+      "height": 900,
+      "bytes": 789983,
+      "sha256": "fac6d065d124f1cfb7505f364034fbeff8c09623a506d7f3459d07e4078a74e0"
+    },
+    {
+      "file": "raoni/fase-03.png",
+      "title": "04 · Rio e mangue",
+      "width": 1400,
+      "height": 900,
+      "bytes": 764926,
+      "sha256": "15dd9356d1d7147d96a54c5f04fe428a6688e579053270b391929d8fafba2e7d"
+    },
+    {
+      "file": "raoni/fase-04.png",
+      "title": "05 · Pântano do Mapinguari",
+      "width": 1400,
+      "height": 900,
+      "bytes": 953046,
+      "sha256": "31b7d836a2fdbb608888e15b02d52a7b925904d4f403e8261290a8e6f7090564"
+    },
+    {
+      "file": "raoni/fase-05.png",
+      "title": "06 · Campo queimado",
+      "width": 1400,
+      "height": 900,
+      "bytes": 967670,
+      "sha256": "3e317fafd442665c3aa95f501a309a5d8fa9407c9aa5a3193fe6a4c2b390f72f"
+    },
+    {
+      "file": "raoni/fase-06.png",
+      "title": "07 · Posto dos cativos",
+      "width": 1400,
+      "height": 900,
+      "bytes": 1245861,
+      "sha256": "247ce7b7dd774233fd9f57360834c6000a1ddfd0e86596f4838d2f3b20ba408b"
+    },
+    {
+      "file": "raoni/fase-07.png",
+      "title": "08 · Noite na serra",
+      "width": 1400,
+      "height": 900,
+      "bytes": 1152387,
+      "sha256": "5f9215a07392a454a963a403b1531d6936797e69dc349b8d6eea3468634e6e59"
+    },
+    {
+      "file": "raoni/fase-08.png",
+      "title": "09 · Porto e caravela",
+      "width": 1400,
+      "height": 900,
+      "bytes": 873532,
+      "sha256": "4970a92d5846f11b8c5ab41aa89d541a0e9f072862ff094ce45c2471b0f5de0a"
+    },
+    {
+      "file": "raoni/fase-09.png",
+      "title": "10 · O forte português",
+      "width": 1400,
+      "height": 900,
+      "bytes": 1160012,
+      "sha256": "e8eb32891437d8bb520fc30010ab21347e61c86949f911241551a85fd5606996"
+    },
+    {
+      "file": "raoni/fase-10.png",
+      "title": "11 · Árvore sagrada",
+      "width": 1400,
+      "height": 900,
+      "bytes": 1020323,
+      "sha256": "37736699dee2188ae15889c85a632b91a5bf91b69ef40c8abe42d87309055519"
+    },
+    {
+      "file": "raoni/fase-11.png",
+      "title": "12 · Aldeia reconstruída",
+      "width": 1400,
+      "height": 900,
+      "bytes": 1139448,
+      "sha256": "cfef9a1ab076fd8721d712e91e32d605a4efaf85f3560a9da92463f0182e8d30"
+    },
+    {
+      "file": "raoni/fliperama-pausa.png",
+      "title": "Menu de pausa da aventura",
+      "width": 1280,
+      "height": 800,
+      "bytes": 578510,
+      "sha256": "c75fa218ec9ed788f3dcd01cdbe94dec3cd89c6e312f7eb8e9d03962b00993f5"
+    },
+    {
+      "file": "luta/luta-selecao.png",
+      "title": "Seleção dos lutadores",
+      "width": 1280,
+      "height": 800,
+      "bytes": 142876,
+      "sha256": "f5a6085e34a126ab6f0cd11ac85f4662ead724ad6b92af46a77c21e81f153ef8"
+    },
+    {
+      "file": "luta/luta-arena.png",
+      "title": "Arena e personagens",
+      "width": 1400,
+      "height": 900,
+      "bytes": 98166,
+      "sha256": "98e68278ba4d833ae0a966d399975e47bf2288314921e20ed571a1208dbfd5d2"
+    },
+    {
+      "file": "luta/luta-pausa.png",
+      "title": "Menu de pausa do combate",
+      "width": 1280,
+      "height": 800,
+      "bytes": 112110,
+      "sha256": "4d8f3d1eaffe1a0681a9f7d5d38b9267886495172eafda1373604d4ad71f3a42"
+    },
+    {
+      "file": "luta/luta-vitoria.png",
+      "title": "Vitória e resultado da partida",
+      "width": 1280,
+      "height": 800,
+      "bytes": 107636,
+      "sha256": "868288e9e19bb4997e2465cbf0812fe98b87df2ded3452d0d8c5b3f9256bfb4f"
+    },
+    {
+      "file": "lucas/lucas-briefing.png",
+      "title": "Briefing da operação",
+      "width": 1280,
+      "height": 800,
+      "bytes": 260237,
+      "sha256": "93a0a5c23f8a34d71c04716d41a54503369d144b98bfb0c60f7e9d2960cf8086"
+    },
+    {
+      "file": "lucas/lucas-passarelas.png",
+      "title": "Refrigeração e passarelas da usina",
+      "width": 1400,
+      "height": 900,
+      "bytes": 263982,
+      "sha256": "4d62f8bc6096ca786ee4d33ae54a4ef6bf31e77844c4aee00dc93051f1e67f8e"
+    },
+    {
+      "file": "lucas/lucas-animais-jaulas.png",
+      "title": "Animais texturizados antes da abertura das jaulas",
+      "width": 1400,
+      "height": 900,
+      "bytes": 314946,
+      "sha256": "1b1f76032c45213fd85a4b3116f7b44801f251a2eac24fb04891f25acd3fe264"
+    },
+    {
+      "file": "lucas/lucas-resgate.png",
+      "title": "Animais após a liberação",
+      "width": 1400,
+      "height": 900,
+      "bytes": 195764,
+      "sha256": "cfc82478027f66b2ef7ab76b4c5c5aff962b7eafe3b9530d77d925364c380e47"
+    },
+    {
+      "file": "lucas/lucas-anomalia.png",
+      "title": "Anomalia do reator antes do confronto",
+      "width": 1400,
+      "height": 900,
+      "bytes": 315227,
+      "sha256": "a716bc776267a4dae61f4e13f7c5d0d0afc75a5f26a47b511ebb34fc6f9171cf"
+    },
+    {
+      "file": "lucas/lucas-vitoria.png",
+      "title": "Conclusão da Operação Aurora",
+      "width": 1280,
+      "height": 800,
+      "bytes": 215763,
+      "sha256": "11491a9a8e98ac0b194d93fe4d7e0c8029b4dfddb953a096990fb6db9c60264b"
+    }
+  ],
+  "reports": [
+    {
+      "file": "cidade/resultado.json",
+      "bytes": 59,
+      "sha256": "278db54ff9f4d40db04f85bb8cc125176980da4ca561e6bfd4fdce17abc3f34f"
+    },
+    {
+      "file": "cidade/core-tests.json",
+      "bytes": 4136,
+      "sha256": "0da8e4585af134bcbdf6ff31e3368f3740e9fe5b3fc1405d327c3d06d847431c"
+    },
+    {
+      "file": "raoni/indio151.json",
+      "bytes": 2504,
+      "sha256": "9accef2e9c7d6b37544ff3c3f886478f01da8f1ba424a3f499f00c5b34b9933f"
+    },
+    {
+      "file": "luta/fight152.json",
+      "bytes": 58,
+      "sha256": "334902199881a7a7b215ec24414a3ba901a04daf19b7b818b9cd8a1acf9e9e83"
+    },
+    {
+      "file": "luta/core-tests.json",
+      "bytes": 261,
+      "sha256": "da4cb4e669151d146713d3ee0510b0316ad618786e5ceb3a8be58bf721194de8"
+    },
+    {
+      "file": "lucas/lucas152.json",
+      "bytes": 58,
+      "sha256": "27cc244a06d7d10f914e1645a17477e33fb1cb6daa02bf72a52529ee0e8fb0a8"
+    }
+  ]
+}

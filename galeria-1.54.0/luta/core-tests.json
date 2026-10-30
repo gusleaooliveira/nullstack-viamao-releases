@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "checks": 18,
+  "errors": [],
+  "scope": "Deterministic extracted combat core; no Unity renderer, actual gamepad or packaged player tested here.",
+  "sourceSha256": "6db129185a30577f117e5821ffe1fe59b7cf62ec2f744b4abd31e76704aae9fd"
+}
