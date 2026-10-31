@@ -1,0 +1,5 @@
+dist
+.downloads
+.vercel
+node_modules
+.env*
