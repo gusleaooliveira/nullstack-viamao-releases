@@ -2,6 +2,13 @@
     "schema": 1,
     "news": [
         {
+            "id": "release-1_55_0",
+            "kind": "news",
+            "title": "1.55 — Floresta contínua, usina infestada e simulação urbana",
+            "body": "Raoni ganha um território contínuo com lagos, serras, trilhas entre os doze capítulos e descobertas fora das clareiras. Lucas enfrenta zumbis, animais contaminados e demônios numa usina com ácido, plataformas e mira pelo mouse em alturas diferentes. O construtor recebe zoneamento, crescimento urbano, redes de água e energia, orçamento, transporte e novos diagnósticos. Saves antigos da cidade são migrados.",
+            "updatedAt": 1793407139535
+        },
+        {
             "id": "release-1_54_0",
             "kind": "news",
             "title": "1.54 — Quatro jogos e fliperamas pela cidade",

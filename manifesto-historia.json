@@ -1,6 +1,6 @@
 {
-  "version": "1.54.0",
-  "release": "v1.54.0-quatro-fliperamas",
+  "version": "1.55.0",
+  "release": "v1.55.0-mundo-usina-cidade",
   "mainMissions": 21,
   "optionalMissions": 57,
   "objectives": 353,
@@ -31,17 +31,17 @@
     {
       "platform": "Windows",
       "file": "NullStack-Viamao-Historia.zip",
-      "bytes": 181249190,
-      "sha256": "22d214d0767d5df647b9e18261998b96e55dd277a742164b525480267d98ccf9"
+      "bytes": 181524966,
+      "sha256": "bba0f26606ec7b01c984caee6456e7562aa907e6410e545904d69b8efda7a550"
     },
     {
       "platform": "Web",
       "file": "NullStack-Viamao-Historia-Web.zip",
-      "bytes": 154865175,
-      "sha256": "8b944b5e8acedd085f630932ae477a368442a8abe5128a9c4ec22cf6f721625b"
+      "bytes": 155230769,
+      "sha256": "c82244a2548f77f669c6d365deb3bc647d1c6dee577b9fe2bfdc619217b53a90"
     }
   ],
-  "webRevision": "c976c8276d49",
+  "webRevision": "49c37619a85e",
   "extraBillboards": 4,
   "traffic": 120,
   "policePatrols": 6,
@@ -100,5 +100,13 @@
   "lucasSectors": 6,
   "fightingActiveFrames": true,
   "fightingDodge": true,
-  "cityBuilderCampaign": true
+  "cityBuilderCampaign": true,
+  "raoniContinuousWorld": true,
+  "raoniWorldSize": 1440,
+  "raoniWorldDiscoveries": 16,
+  "cityZoning": true,
+  "citySaveMigration": true,
+  "lucasZombieSkins": 2,
+  "lucasMouseAim3D": true,
+  "lucasAcid": true
 }

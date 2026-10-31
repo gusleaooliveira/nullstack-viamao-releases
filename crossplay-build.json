@@ -1,7 +1,7 @@
 {
-  "version": "1.54.0",
+  "version": "1.55.0",
   "protocol": "nullstack-room-v28",
   "endpoint": "https://nullstack-viamao-salas.classyray67.chatgpt.site/api/room",
-  "wasmSha256": "3f55811a46c9662182181e8c8a4db87636db2295dbb37073d0264903d6d5aaee",
-  "windowsDownload": "https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.54.0-quatro-fliperamas/NullStack-Viamao-Historia.zip"
+  "wasmSha256": "b2ed22ef00685e96c39309ed26ced1dbd9a07da3ab5f4ca9c74e32db828efdfe",
+  "windowsDownload": "https://github.com/gusleaooliveira/nullstack-viamao-releases/releases/download/v1.55.0-mundo-usina-cidade/NullStack-Viamao-Historia.zip"
 }

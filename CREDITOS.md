@@ -1526,3 +1526,11 @@ Raoni: recursos do projeto original, procedência e licenças preservadas. Luta 
 Raoni: recursos do projeto original, procedência e licenças preservadas. Luta do Elenco e Agente Lucas reutilizam o elenco e os rigs existentes; os cenários da usina foram criados para esta adaptação. Veja os guias incluídos.
 
 1.53.0: Nature Kit, Space Station Kit, Mini Arena, Pirate Kit e Blaster Kit, Kenney (CC0); movimentos Quaternius (CC0) reutilizados; referência Kenney Starter Kit 3D Platformer (MIT). Objetos/cenários Blender autorados para os fliperamas.
+
+1.52.0: modelos Nature Kit, Kenney (CC0); texturas ambientCG / Lennart Demes (CC0). Fontes, originais e hashes no catálogo Landscape152.
+
+Raoni: recursos do projeto original, procedência e licenças preservadas. Luta do Elenco e Agente Lucas reutilizam o elenco e os rigs existentes; os cenários da usina foram criados para esta adaptação. Veja os guias incluídos.
+
+1.54.0: Nature Kit, Space Station Kit, Mini Arena, Pirate Kit e Blaster Kit, Kenney (CC0); movimentos Quaternius (CC0) reutilizados; referência Kenney Starter Kit 3D Platformer (MIT). Objetos/cenários Blender autorados para os fliperamas.
+
+1.55: texturas Kenney Animated Characters Retro e concreto Poly Haven (CC0), com licencas/procedencia em Licencas/Lucas156. Mundo Raoni, shaders e simulacao urbana autorados para esta adaptacao; referencias de mecanicas descritas nos guias.

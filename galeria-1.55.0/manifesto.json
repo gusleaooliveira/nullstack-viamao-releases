@@ -1,0 +1,245 @@
+{
+  "version": "1.55.0",
+  "images": [
+    {
+      "file": "RaoniVisual/aldeia-final-reconstruida.png",
+      "bytes": 524504,
+      "sha256": "c7c030778048c36c2fe3ab54e72c9411d04a2e7125acec0a0a42ca74b5a1634e"
+    },
+    {
+      "file": "RaoniVisual/aldeia-margem-fumaca.png",
+      "bytes": 601703,
+      "sha256": "4c501a7b4acf4e99d286b6890b38c54f8b4c0ae761be2ac171928ff326b8323f"
+    },
+    {
+      "file": "RaoniVisual/chamas-cor-real.png",
+      "bytes": 438009,
+      "sha256": "a04d8d4b95e970fcd04dcfa2f72d3c7f7dd9e2a340e0f22e13e32446f19b5cc4"
+    },
+    {
+      "file": "RaoniVisual/frota-final-litoral.png",
+      "bytes": 589641,
+      "sha256": "a8d7a5194f9064e523b6cf669c0b7647ffbdd0ab52ec4b71a42816e130f07e13"
+    },
+    {
+      "file": "RaoniMundo/mapa-continuo.png",
+      "bytes": 347278,
+      "sha256": "c14ed3861e0dc87191d9ede6a6bad0294265e309865478f464d457b5cffae678"
+    },
+    {
+      "file": "RaoniMundo/mata-jogavel.png",
+      "bytes": 600439,
+      "sha256": "65637b44097b7f73c11e3c8510f001ac9c14d5d102b690b73648156927b3ffa4"
+    },
+    {
+      "file": "RaoniCampanha/fase-00.png",
+      "bytes": 1275255,
+      "sha256": "ab0619cf64e50ce7fae84bf55796e917766e5a5ac24358ef2c48866353de6800"
+    },
+    {
+      "file": "RaoniCampanha/fase-01.png",
+      "bytes": 1144034,
+      "sha256": "60b60b3553602fb370a5bc2292df72933d817448b251ed0f5f50503f4cfd42de"
+    },
+    {
+      "file": "RaoniCampanha/fase-02.png",
+      "bytes": 931300,
+      "sha256": "f4d709428668bdd2fd955a73e8c7b92518c31471f4f5b4f316a801f1f4fd3a9b"
+    },
+    {
+      "file": "RaoniCampanha/fase-03.png",
+      "bytes": 1115920,
+      "sha256": "a67d609baf9c728f6126e2f72f60b161014012b11415cdbb5ca9df780695a9a3"
+    },
+    {
+      "file": "RaoniCampanha/fase-04.png",
+      "bytes": 1070886,
+      "sha256": "db284355067c5d7c05bc9624884d15d58b19918b0264abecb8c387654700a428"
+    },
+    {
+      "file": "RaoniCampanha/fase-05.png",
+      "bytes": 699125,
+      "sha256": "32646dc5dffa25f6731b9cb7b60bee9185bfc0b6f668f5594158315d1ea040e1"
+    },
+    {
+      "file": "RaoniCampanha/fase-06.png",
+      "bytes": 1185396,
+      "sha256": "cc30416f55c55b4a3e03d8b0ee4ee4c54649ec806a3992fc9046a10bb5688f87"
+    },
+    {
+      "file": "RaoniCampanha/fase-07.png",
+      "bytes": 840663,
+      "sha256": "2e6a7b211350de86dc27bc05c6c2bb5281f80e963195fcbde846267f4ce366a3"
+    },
+    {
+      "file": "RaoniCampanha/fase-08.png",
+      "bytes": 1117227,
+      "sha256": "1c01999ba998d244c6870e7e5f86db5e3a72178eee51a5ba81355f6c90318917"
+    },
+    {
+      "file": "RaoniCampanha/fase-09.png",
+      "bytes": 1156281,
+      "sha256": "f4b68c9d4b95add7a35206ed5745f39f1d479e1e446ed7fb57ed8bfb6deafbf9"
+    },
+    {
+      "file": "RaoniCampanha/fase-10.png",
+      "bytes": 912712,
+      "sha256": "eb2c47d063abe69650191508040aa890048e04e6b1edf2a3e32b05fbf750db2e"
+    },
+    {
+      "file": "RaoniCampanha/fase-11.png",
+      "bytes": 1357143,
+      "sha256": "cd23e464ccacf425245634fe1c52cbe645f4812e4e688671617fcc6f10956570"
+    },
+    {
+      "file": "RaoniCampanha/fliperama-pausa.png",
+      "bytes": 362623,
+      "sha256": "cb2c2dd28555c9b2feb0ff14194aa1530ab70e743ae8c0bf372acf86f4d276b1"
+    },
+    {
+      "file": "RaoniCampanha/fliperama-tela.png",
+      "bytes": 591984,
+      "sha256": "e1f3131d466f3ab3e0a94df14d99e1d6de000fca51fdbf72eb64d077b963c1f3"
+    },
+    {
+      "file": "Lucas/lucas-acido-plataformas.png",
+      "bytes": 401426,
+      "sha256": "69d623e1ac914343c2246de5417db78f15bc5e0cb95809d00538dda512d758fa"
+    },
+    {
+      "file": "Lucas/lucas-demonio.png",
+      "bytes": 461259,
+      "sha256": "a6ece65f07dea814ccbe7ad85c597f4577a22950c5efde63fec96063a451c55b"
+    },
+    {
+      "file": "Lucas/lucas-usina-infestada.png",
+      "bytes": 367245,
+      "sha256": "91c8a3b3e47b120857dddfc4707b02066ce38b81a0a8aa34ea1c0899dff92cab"
+    },
+    {
+      "file": "LucasLegado/lucas-animais-jaulas.png",
+      "bytes": 507191,
+      "sha256": "729129b9aaa4903b9d57fbb2c5795e6e288adba8f97b19990b4d19257c3a475d"
+    },
+    {
+      "file": "LucasLegado/lucas-anomalia.png",
+      "bytes": 456988,
+      "sha256": "fb2c2951cb8f89b61c18dd1ac01a5885c3952182aa69672b0c14e8d50db8df83"
+    },
+    {
+      "file": "LucasLegado/lucas-briefing.png",
+      "bytes": 207655,
+      "sha256": "1f093c01c1a81b86d25040e048a2bbfcceb4d1f32bbf546088a728fcba022749"
+    },
+    {
+      "file": "LucasLegado/lucas-passarelas.png",
+      "bytes": 386975,
+      "sha256": "74e0a50161f9223c41f3b958b0bb129ea32ca8cbfc1bfae4da39a6a17f110741"
+    },
+    {
+      "file": "LucasLegado/lucas-resgate.png",
+      "bytes": 410962,
+      "sha256": "59f3df299c560aa39cc75b5e9ca012e565a7b115e3e7a417eb467da6ae025d76"
+    },
+    {
+      "file": "LucasLegado/lucas-vitoria.png",
+      "bytes": 225894,
+      "sha256": "73bc2011a064d0f6f25484d82917b95f3cb50a2f86ccc332012a88344dc14630"
+    },
+    {
+      "file": "Construtor/prefeitura-mapa-0.png",
+      "bytes": 204650,
+      "sha256": "3b775dc86c32a48e65731b16f7d6bbb3efae9e76f9529a5f3b8c57434b2f820c"
+    },
+    {
+      "file": "Construtor/prefeitura-mapa-1.png",
+      "bytes": 212607,
+      "sha256": "5c78535b69eb060f148c591c27241fe51ec77798b3c189c5a9f62edf9aba0774"
+    },
+    {
+      "file": "Construtor/prefeitura-mapa-2.png",
+      "bytes": 214160,
+      "sha256": "5ded2210a2c4279fc27bd392611038f18a7e0a091f37efed52d05f259e141151"
+    },
+    {
+      "file": "Construtor/prefeitura-mapa-3.png",
+      "bytes": 209881,
+      "sha256": "363b20469fc53fc4e7698f43e3e5f2423fa9a52c22ceac8da533ecb06e124536"
+    },
+    {
+      "file": "Construtor/prefeitura-mapa-4.png",
+      "bytes": 209991,
+      "sha256": "1332a68b59cfeb9d3c5c035ebd67fac1576c2cb50114eff600c6ef8fd08dc81d"
+    },
+    {
+      "file": "Construtor/prefeitura-mapa-5.png",
+      "bytes": 214612,
+      "sha256": "eb66f01cfaf57bcc22edde717732580cc339ba784c2055329c78666d69092b26"
+    },
+    {
+      "file": "Construtor/prefeitura-mapa-6.png",
+      "bytes": 210253,
+      "sha256": "6b7638a43b1360dd26413ee0d4a56732ce03ef89b970a7b53e72a9c845f9c336"
+    },
+    {
+      "file": "Construtor/prefeitura-mapa-7.png",
+      "bytes": 208197,
+      "sha256": "458bf9825ce14dd638e70465d4faaa7dedde2379f8d18e105ea258440089f36b"
+    },
+    {
+      "file": "Construtor/prefeitura-mapa-8.png",
+      "bytes": 203403,
+      "sha256": "10bb602c4c42f4114ea729a9c7e53b4234f7527584a386dbb19e5d0dfacc2d6a"
+    },
+    {
+      "file": "Construtor/prefeitura-painel-0.png",
+      "bytes": 204650,
+      "sha256": "3b775dc86c32a48e65731b16f7d6bbb3efae9e76f9529a5f3b8c57434b2f820c"
+    },
+    {
+      "file": "Construtor/prefeitura-painel-1.png",
+      "bytes": 220725,
+      "sha256": "e54b1032b0fe0a35fdb9c734d595a5358170962dc5c1da3edbd0e8be0651189f"
+    },
+    {
+      "file": "Construtor/prefeitura-painel-2.png",
+      "bytes": 227257,
+      "sha256": "199e5c41158d942de029f0223eb44c0044ce0e35eb69f33817cef714c372f6f7"
+    },
+    {
+      "file": "Construtor/prefeitura-painel-3.png",
+      "bytes": 193090,
+      "sha256": "5528cbb8a3e57cd8f6b82d9f4ea604e1385c546d2eb34f0b42bb031bc4190c2b"
+    },
+    {
+      "file": "Construtor/prefeitura-painel-4.png",
+      "bytes": 239618,
+      "sha256": "5a16132815c01948d72cf8ecdbb3f6316863c69e5f5f2c6406f558dd44f18e07"
+    },
+    {
+      "file": "Construtor/prefeitura-rotacao-zoom.png",
+      "bytes": 227973,
+      "sha256": "6e2892d4d8cd31bcadce9d407b6b6612a0df8007ba43d9b597e9065d5fef1fb3"
+    },
+    {
+      "file": "Luta/luta-arena.png",
+      "bytes": 98104,
+      "sha256": "70d1c3e0f44c97e46ff57fafada31030968e7805d5011acf6189a1eebc84eea5"
+    },
+    {
+      "file": "Luta/luta-pausa.png",
+      "bytes": 111667,
+      "sha256": "503e249abc7952bb60095c9ccb4e7d9dba05062591b0abe9300bf9bc086fa5e8"
+    },
+    {
+      "file": "Luta/luta-selecao.png",
+      "bytes": 142871,
+      "sha256": "ccef252756fe9a153acf4ac2289b6b1bcc7bf36200f11fb55bff1a948905c53d"
+    },
+    {
+      "file": "Luta/luta-vitoria.png",
+      "bytes": 107626,
+      "sha256": "d7fba66be92a546563096810eabed7063651c7b49c5458d7fd38fd4d30b000eb"
+    }
+  ]
+}

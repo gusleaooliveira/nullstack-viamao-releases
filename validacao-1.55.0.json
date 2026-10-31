@@ -1,0 +1,86 @@
+{
+  "version": "1.55.0",
+  "passed": true,
+  "nativeChecks": 1365,
+  "suites": {
+    "Construtor": {
+      "passed": true,
+      "checks": 33,
+      "report": "documentacao/validacao/1.55.0/Integrado/Construtor/resultado.json"
+    },
+    "Cleanup": {
+      "passed": true,
+      "checks": 14,
+      "report": "documentacao/validacao/1.55.0/Integrado/Cleanup/resultado.json"
+    },
+    "RaoniVisual": {
+      "passed": true,
+      "checks": 32,
+      "report": "documentacao/validacao/1.55.0/Integrado/RaoniVisual/presentation156.json"
+    },
+    "RaoniMundo": {
+      "passed": true,
+      "checks": 300,
+      "report": "documentacao/validacao/1.55.0/Integrado/RaoniMundo/raoni-world156.json"
+    },
+    "RaoniCampanha": {
+      "passed": true,
+      "checks": 169,
+      "report": "documentacao/validacao/1.55.0/Integrado/RaoniCampanha/indio151.json"
+    },
+    "Lucas": {
+      "passed": true,
+      "checks": 63,
+      "report": "documentacao/validacao/1.55.0/Integrado/Lucas/lucas156.json"
+    },
+    "LucasLegado": {
+      "passed": true,
+      "checks": 58,
+      "report": "documentacao/validacao/1.55.0/Integrado/LucasLegado/lucas152.json"
+    },
+    "Luta": {
+      "passed": true,
+      "checks": 71,
+      "report": "documentacao/validacao/1.55.0/Integrado/Luta/fight152.json"
+    },
+    "Fliperamas": {
+      "passed": true,
+      "checks": 424,
+      "report": "documentacao/validacao/1.55.0/Integrado/Fliperamas/arcade153.json"
+    },
+    "Interface": {
+      "passed": true,
+      "checks": 37,
+      "report": "documentacao/validacao/1.55.0/Integrado/Interface/interface.json"
+    },
+    "Orientacao": {
+      "passed": true,
+      "checks": 54,
+      "report": "documentacao/validacao/1.55.0/Integrado/Orientacao/orientation1271.json"
+    },
+    "Urbano": {
+      "passed": true,
+      "checks": 34,
+      "report": "documentacao/validacao/1.55.0/Integrado/Urbano/urban138.json"
+    },
+    "Proximidade": {
+      "passed": true,
+      "checks": 31,
+      "report": "documentacao/validacao/1.55.0/Integrado/Proximidade/crowd148.json"
+    },
+    "Arcade": {
+      "passed": true,
+      "checks": 45,
+      "report": "documentacao/validacao/1.55.0/Integrado/Arcade/arcade.json"
+    },
+    "Campanha": {
+      "passed": true,
+      "checks": 0,
+      "report": "documentacao/validacao/1.55.0/Integrado/Campanha/story-validation.json"
+    }
+  },
+  "assemblySha256": "93161a4bb34b86bee9fd82475857226a7c4da17e3bbb8e7a9e98f21ad59511b1",
+  "sourceScripts": 277,
+  "webRuntimePending": false,
+  "scope": "Final canonical Unity Windows player; browser scope documented separately. No physical controller/live crossplay/FPS benchmark claimed."
+}

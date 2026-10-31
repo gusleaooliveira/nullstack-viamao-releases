@@ -1,0 +1,64 @@
+{
+  "textures": [
+    {
+      "file": "Concrete.jpg",
+      "bytes": 34565,
+      "sha256": "5282aacf390703bd5b93c51fc56935cec788715b1b0d1024255a5c3c98a1ecf0",
+      "source": "https://polyhaven.com/a/concrete_floor_worn_001",
+      "license": "CC0-1.0",
+      "derived": true,
+      "dimensions": [
+        512,
+        512
+      ]
+    },
+    {
+      "file": "ZombieFemale.png",
+      "bytes": 34589,
+      "sha256": "0a13d975c1d97eda94823f7b1d57b08452153b028f8b2abbb6e31ebd7c94df73",
+      "source": "https://kenney.nl/assets/animated-characters-retro",
+      "license": "CC0-1.0",
+      "derived": false,
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "ZombieMale.png",
+      "bytes": 40176,
+      "sha256": "e0dab7c762bfc63e0fa29e4cad769bead9d990fb0c15a5d7aea2ba0b08d82c92",
+      "source": "https://kenney.nl/assets/animated-characters-retro",
+      "license": "CC0-1.0",
+      "derived": false,
+      "dimensions": [
+        256,
+        256
+      ]
+    }
+  ],
+  "reusedModels": [
+    {
+      "resource": "People150/kenney_humanMaleA/Model",
+      "author": "Kenney",
+      "use": "zombie male body"
+    },
+    {
+      "resource": "People150/kenney_humanFemaleA/Model",
+      "author": "Kenney",
+      "use": "zombie female body"
+    },
+    {
+      "resource": "Mysteries133/Wolf/Actor",
+      "author": "Quaternius",
+      "license": "CC0-1.0 as bundled with original import",
+      "use": "hostile contaminated animal"
+    },
+    {
+      "resource": "Mysteries133/Demon/Actor",
+      "author": "Quaternius",
+      "license": "CC0-1.0 as bundled with original import",
+      "use": "hostile demon and final boss"
+    }
+  ]
+}

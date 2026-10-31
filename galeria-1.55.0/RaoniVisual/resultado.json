@@ -1,0 +1,1184 @@
+{
+    "passed": true,
+    "animationResetChanged": false,
+    "persistentPoseFailure": false,
+    "checks": 32,
+    "errors": [],
+    "poses": [
+        {
+            "scenario": "fresh-idle",
+            "requestedTime": 0.0,
+            "realTime": 1.0916690826416016,
+            "head": 1.5673828125,
+            "hips": 0.9638671875,
+            "feetApart": 0.30157470703125,
+            "groundError": 0.0,
+            "hasBones": true,
+            "position": {
+                "x": -480.0,
+                "y": 0.0,
+                "z": -534.0
+            },
+            "states": [
+                {
+                    "name": "cast_a_spell",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "bow_shoot",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "swim",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "spear_thrust",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "jump",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "idle",
+                    "enabled": true,
+                    "weight": 1.0,
+                    "time": 0.3333333432674408,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                }
+            ]
+        },
+        {
+            "scenario": "fresh-idle",
+            "requestedTime": 0.20000000298023224,
+            "realTime": 1.1964788436889648,
+            "head": 1.5673828125,
+            "hips": 0.9638671875,
+            "feetApart": 0.30157470703125,
+            "groundError": 0.0,
+            "hasBones": true,
+            "position": {
+                "x": -480.0,
+                "y": 0.0,
+                "z": -534.0
+            },
+            "states": [
+                {
+                    "name": "cast_a_spell",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "bow_shoot",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "swim",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "spear_thrust",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "jump",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "idle",
+                    "enabled": true,
+                    "weight": 1.0,
+                    "time": 0.6666666865348816,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                }
+            ]
+        },
+        {
+            "scenario": "fresh-idle",
+            "requestedTime": 1.0,
+            "realTime": 1.247793197631836,
+            "head": 1.5673828125,
+            "hips": 0.9638671875,
+            "feetApart": 0.30157470703125,
+            "groundError": 0.0,
+            "hasBones": true,
+            "position": {
+                "x": -480.0,
+                "y": 0.0,
+                "z": -534.0
+            },
+            "states": [
+                {
+                    "name": "cast_a_spell",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "bow_shoot",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "swim",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "spear_thrust",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "jump",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "idle",
+                    "enabled": true,
+                    "weight": 1.0,
+                    "time": 0.7165507078170776,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                }
+            ]
+        },
+        {
+            "scenario": "normal-handoff",
+            "requestedTime": 0.0,
+            "realTime": 0.06865215301513672,
+            "head": 1.5673828125,
+            "hips": 0.9638671875,
+            "feetApart": 0.301605224609375,
+            "groundError": 0.0,
+            "hasBones": true,
+            "position": {
+                "x": -480.0,
+                "y": 0.0,
+                "z": -534.0
+            },
+            "states": [
+                {
+                    "name": "cast_a_spell",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "bow_shoot",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "swim",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "spear_thrust",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "jump",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "idle",
+                    "enabled": true,
+                    "weight": 1.0,
+                    "time": 1.5890928506851196,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                }
+            ]
+        },
+        {
+            "scenario": "normal-handoff",
+            "requestedTime": 0.20000000298023224,
+            "realTime": 0.2150726318359375,
+            "head": 1.5673828125,
+            "hips": 0.9638671875,
+            "feetApart": 0.301605224609375,
+            "groundError": 0.0,
+            "hasBones": true,
+            "position": {
+                "x": -480.0,
+                "y": 0.0,
+                "z": -534.0
+            },
+            "states": [
+                {
+                    "name": "cast_a_spell",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "bow_shoot",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "swim",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "spear_thrust",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "jump",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "idle",
+                    "enabled": true,
+                    "weight": 1.0,
+                    "time": 1.7366480827331543,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                }
+            ]
+        },
+        {
+            "scenario": "normal-handoff",
+            "requestedTime": 1.0,
+            "realTime": 1.0140151977539063,
+            "head": 1.5654296875,
+            "hips": 0.9638671875,
+            "feetApart": 0.301605224609375,
+            "groundError": 0.0,
+            "hasBones": true,
+            "position": {
+                "x": -480.0,
+                "y": 0.0,
+                "z": -534.0
+            },
+            "states": [
+                {
+                    "name": "cast_a_spell",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "bow_shoot",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "swim",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "spear_thrust",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "jump",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "idle",
+                    "enabled": true,
+                    "weight": 1.0,
+                    "time": 2.535634756088257,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                }
+            ]
+        },
+        {
+            "scenario": "fixture-stress",
+            "requestedTime": 0.0,
+            "realTime": 0.008337974548339844,
+            "head": 1.24609375,
+            "hips": 0.9638671875,
+            "feetApart": 0.6899081468582153,
+            "groundError": 0.0,
+            "hasBones": true,
+            "position": {
+                "x": -430.0,
+                "y": 32.0,
+                "z": -59.0
+            },
+            "states": [
+                {
+                    "name": "cast_a_spell",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "bow_shoot",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "swim",
+                    "enabled": true,
+                    "weight": 1.0,
+                    "time": 0.3524291515350342,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "spear_thrust",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "jump",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                }
+            ]
+        },
+        {
+            "scenario": "fixture-stress",
+            "requestedTime": 0.20000000298023224,
+            "realTime": 0.21087932586669922,
+            "head": 1.5673828125,
+            "hips": 0.9638671875,
+            "feetApart": 0.30157470703125,
+            "groundError": 0.0,
+            "hasBones": true,
+            "position": {
+                "x": -430.0,
+                "y": 32.0,
+                "z": -59.0
+            },
+            "states": [
+                {
+                    "name": "cast_a_spell",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "bow_shoot",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "swim",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "spear_thrust",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "jump",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "idle",
+                    "enabled": true,
+                    "weight": 1.0,
+                    "time": 0.20537549257278442,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                }
+            ]
+        },
+        {
+            "scenario": "fixture-stress",
+            "requestedTime": 1.0,
+            "realTime": 1.014723777770996,
+            "head": 1.568359375,
+            "hips": 0.9638671875,
+            "feetApart": 0.30157470703125,
+            "groundError": 0.0,
+            "hasBones": true,
+            "position": {
+                "x": -430.0,
+                "y": 32.0,
+                "z": -59.0
+            },
+            "states": [
+                {
+                    "name": "cast_a_spell",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "bow_shoot",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 1
+                },
+                {
+                    "name": "walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "swim",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "spear_thrust",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "jump",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "idle",
+                    "enabled": true,
+                    "weight": 1.0,
+                    "time": 1.0085461139678955,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "club_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_walk",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_run",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                },
+                {
+                    "name": "bow_idle",
+                    "enabled": false,
+                    "weight": 0.0,
+                    "time": 0.0,
+                    "speed": 1.0,
+                    "layer": 0
+                }
+            ]
+        }
+    ],
+    "placements": [
+        "hut (-18.00, 0.00, -8.00) error=0",
+        "hut (-18.00, 0.00, 8.00) error=0",
+        "hut (-18.00, 0.00, 24.00) error=0",
+        "fireColor RGBA(1.000, 0.350, 0.035, 0.900) first=RGBA(255, 89, 9, 124)",
+        "fireColor RGBA(1.000, 0.350, 0.035, 0.900) first=RGBA(255, 89, 9, 115)",
+        "fireColor RGBA(1.000, 0.350, 0.035, 0.900) first=RGBA(255, 89, 9, 216)",
+        "vessel world=(-218.00, -0.40, -654.00) depth=1,896798 keel=1,496407",
+        "vessel world=(-180.00, -0.40, -654.00) depth=1,896798 keel=1,496407",
+        "vessel world=(-142.00, -0.40, -654.00) depth=1,896798 keel=1,496407",
+        "vesselViewport (0.78, 0.50, 69.37)",
+        "vesselViewport (0.50, 0.50, 69.37)",
+        "vesselViewport (0.22, 0.50, 69.38)"
+    ]
+}
